@@ -1,0 +1,1589 @@
+Title: Lucky Draw - Win Prize
+
+bot_full_json: 
+{
+  "id": "c4288ede-d8f2-4842-b895-1fc62174e692",
+  "zoom": 81.25,
+  "layers": [
+    {
+      "id": "f249daeb-7ed0-4c00-b016-92ed19e2f928",
+      "type": "diagram-links",
+      "isSvg": true,
+      "models": {
+        "283208c0-daf2-4bf4-af7c-ba391e62ee0a": {
+          "id": "283208c0-daf2-4bf4-af7c-ba391e62ee0a",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1399.5625372754462,
+              "y": 250.02499651700646,
+              "id": "a1481751-ccd5-41e1-899e-6b094e01a66b",
+              "type": "point"
+            },
+            {
+              "x": 1407.3289134773693,
+              "y": 294.72598059152574,
+              "id": "3c123229-9c91-4d82-b55f-f5b2e4ca0f01",
+              "type": "point"
+            }
+          ],
+          "source": "77e86ae8-766a-4161-b76f-7503829d74af",
+          "target": "b724d11d-89ca-48da-969d-915e4cd0f1a1",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "db26f6b4-d276-46cc-bdc6-e4b7f3da8a1b",
+          "targetPort": "5e76ca99-e916-4644-958a-6cb3deefd783",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "37e8f47b-8f78-464c-91a4-24840d5cd959": {
+          "id": "37e8f47b-8f78-464c-91a4-24840d5cd959",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 239.4000244140625,
+              "y": 317,
+              "id": "290db887-36db-465c-ace1-60ed5a2c99aa",
+              "type": "point"
+            },
+            {
+              "x": 244.58755057198664,
+              "y": 364.00002428950097,
+              "id": "3b5888df-b468-44c6-bb41-323701450254",
+              "type": "point"
+            }
+          ],
+          "source": "4d07244a-9564-4359-a96d-31f8f68bd55e",
+          "target": "1ef2c276-ce5d-4ca3-ba1a-4eedf737d9c2",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "b676dc0b-117f-421a-bbca-d24360659f41",
+          "targetPort": "d4b93566-3e2f-45af-9380-75052ab39cb5",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "3faa4638-5803-489c-96eb-d35477f902be": {
+          "id": "3faa4638-5803-489c-96eb-d35477f902be",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1085.0605841504464,
+              "y": 450.71444964200566,
+              "id": "1d315903-66a1-43e4-84fb-01891525ab7b",
+              "type": "point"
+            },
+            {
+              "x": 1122.4787031408307,
+              "y": 344.9569751828718,
+              "id": "e41accb2-99f2-49ff-b694-e274dc5b6f53",
+              "type": "point",
+              "selected": false
+            },
+            {
+              "x": 1112.6325492946771,
+              "y": 10.18774441364107,
+              "id": "9add4b2d-2b6b-43d5-803e-b9f21d7a6831",
+              "type": "point",
+              "selected": false
+            },
+            {
+              "x": 1253.4779519389076,
+              "y": 35.02597307950646,
+              "id": "424b361d-3724-4d10-842f-f23ead7e7f03",
+              "type": "point"
+            }
+          ],
+          "source": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171",
+          "target": "c53264f5-88ea-458c-8bff-e1ca639ce5a1",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "bc09f726-3632-411d-a938-48fd7d2b9918",
+          "targetPort": "01954fe1-542c-4771-a232-2d9d45e2bc6d",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "65b7a184-a628-46b5-a6d9-c972bc87ec1d": {
+          "id": "65b7a184-a628-46b5-a6d9-c972bc87ec1d",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 236.95001220703125,
+              "y": 569,
+              "id": "4fa87ca3-ae53-4616-97a3-4bfe47af7647",
+              "type": "point"
+            },
+            {
+              "x": 380,
+              "y": 588,
+              "id": "df684060-0a5b-4827-b4d5-4adadcbbd80f",
+              "type": "point",
+              "selected": false
+            },
+            {
+              "x": 374,
+              "y": 6,
+              "id": "734c2e1a-2e93-4a36-a4fe-43b8286f9b3a",
+              "type": "point",
+              "selected": false
+            },
+            {
+              "x": 546.375,
+              "y": 13,
+              "id": "c2437e28-0545-44b0-95e3-58d3a0f43f9c",
+              "type": "point"
+            }
+          ],
+          "source": "6a3134b9-5066-472c-9ebc-45bc3cd44975",
+          "target": "14599f81-d0c2-4515-88dd-afb7dcb7eb09",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "6da0f2f8-ff9c-4ca8-827f-2d7ef63dc16c",
+          "targetPort": "e7a629e2-ea97-468b-b59f-9da63dab1e07",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "7d862061-421b-436e-83c3-1fb2432f2b25": {
+          "id": "7d862061-421b-436e-83c3-1fb2432f2b25",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 546.375,
+              "y": 84,
+              "id": "ba34fb8d-ea7b-4ff0-a424-e2c18a6db96c",
+              "type": "point"
+            },
+            {
+              "x": 558.3250383649554,
+              "y": 113.0000090307119,
+              "id": "e21aaccd-1dc2-40e1-a227-a36014c26bc8",
+              "type": "point"
+            }
+          ],
+          "source": "14599f81-d0c2-4515-88dd-afb7dcb7eb09",
+          "target": "1699b8b6-80b8-46c0-bd97-fb0cc840640c",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "5f19654d-83fa-4817-8902-e48d2e0c222f",
+          "targetPort": "8d14d352-2cc7-4574-8eba-d157f0ecbe18",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "8a1722b6-fb86-4950-9e7a-674671267a45": {
+          "id": "8a1722b6-fb86-4950-9e7a-674671267a45",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 244.58755057198664,
+              "y": 435.00002428950097,
+              "id": "83c94d97-b115-42b0-ab70-30d87356d5db",
+              "type": "point"
+            },
+            {
+              "x": 236.95001220703125,
+              "y": 498,
+              "id": "6469ac76-9f99-40f5-bafb-80148e9f9a00",
+              "type": "point"
+            }
+          ],
+          "source": "1ef2c276-ce5d-4ca3-ba1a-4eedf737d9c2",
+          "target": "6a3134b9-5066-472c-9ebc-45bc3cd44975",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "a5734e8d-d6d2-4325-829a-2edcf9b0cc02",
+          "targetPort": "0e2c1315-6c82-4781-8f6a-a721d0663580",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "95a8a0bb-5920-48a5-a757-1bf36a0ddb52": {
+          "id": "95a8a0bb-5920-48a5-a757-1bf36a0ddb52",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1085.0605841504464,
+              "y": 485.1144271059478,
+              "id": "578e8e6b-be4d-4f23-a3f5-5307f16a45b8",
+              "type": "point"
+            },
+            {
+              "x": 1239.4017800639078,
+              "y": 159.11082133671803,
+              "id": "ca585cdf-4091-46b0-93f3-21068792fa38",
+              "type": "point",
+              "selected": false
+            },
+            {
+              "x": 1399.5625372754462,
+              "y": 179.02501529705452,
+              "id": "d844ba45-19e5-4150-97ce-343c874e6fe5",
+              "type": "point"
+            }
+          ],
+          "source": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171",
+          "target": "77e86ae8-766a-4161-b76f-7503829d74af",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "ddf38c4f-4bbf-4763-8feb-88beb83a3d26",
+          "targetPort": "38abe8b8-bddb-4066-a890-9cc838b73426",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "a4f492f6-23b0-4880-a56a-54b7c7ae757b": {
+          "id": "a4f492f6-23b0-4880-a56a-54b7c7ae757b",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1085.0605841504464,
+              "y": 519.5144421299868,
+              "id": "a62096d8-6e32-41dd-a553-5ff2928c35e3",
+              "type": "point"
+            },
+            {
+              "x": 1200.0171646792926,
+              "y": 404.0338982597949,
+              "id": "41176e72-434e-4365-8892-85b9bc375e1a",
+              "type": "point",
+              "selected": false
+            },
+            {
+              "x": 1300.9692379966014,
+              "y": 473.1827113607566,
+              "id": "1a0ff3ee-35fc-4824-9d9d-e6188ede0d4c",
+              "type": "point"
+            }
+          ],
+          "source": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171",
+          "target": "40c83c14-3bd7-49f0-87af-77e27548d2b5",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "d3dacb56-141c-4242-ae45-27c329d30a52",
+          "targetPort": "bf65feb1-35b5-4488-9856-f8e5eeab5e7d",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "d156831f-4fc2-45d4-8c85-77a552e83bd6": {
+          "id": "d156831f-4fc2-45d4-8c85-77a552e83bd6",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 756.0000871930804,
+              "y": 578.9999937719228,
+              "id": "d915c7a5-db9b-4169-98ff-507465cbb196",
+              "type": "point"
+            },
+            {
+              "x": 780,
+              "y": 18,
+              "id": "bd3373b8-6ff0-469b-8f5d-ae5609087789",
+              "type": "point",
+              "selected": false
+            },
+            {
+              "x": 945.0000871930804,
+              "y": 37.00000426234031,
+              "id": "5108ced3-854d-4716-90f2-04d4fa900752",
+              "type": "point"
+            }
+          ],
+          "source": "5047f0d6-6525-4274-82b4-5484cad2e398",
+          "target": "8e72aaf5-4030-4c2b-a667-08fe86213045",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "f800b556-9688-4840-b3fa-e63d64639c4e",
+          "targetPort": "44a881cb-29e6-4f5f-9235-f309016c1fb2",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "d420ca34-b99a-4653-b5d4-f10b6b38d472": {
+          "id": "d420ca34-b99a-4653-b5d4-f10b6b38d472",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 240.40005057198664,
+              "y": 194.2000059789541,
+              "id": "104f293f-d89c-4a0a-aefb-0c68601eaa58",
+              "type": "point"
+            },
+            {
+              "x": 239.4000244140625,
+              "y": 246,
+              "id": "548d4d27-8865-4f90-864c-ec818c368b8f",
+              "type": "point"
+            }
+          ],
+          "source": "2ae13fd5-b803-4543-8c93-530dce90bc05",
+          "target": "4d07244a-9564-4359-a96d-31f8f68bd55e",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "e2e76d56-5e03-464d-ae4d-d4e5556dd114",
+          "targetPort": "726f2c60-df00-4cd0-b787-f4d888eeaa0c",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "d444f312-1480-4a3b-97b3-859bee7dadf1": {
+          "id": "d444f312-1480-4a3b-97b3-859bee7dadf1",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 558.3250383649554,
+              "y": 303.00002428950097,
+              "id": "2a4c029a-80ba-4354-8351-dbde4ab940d7",
+              "type": "point"
+            },
+            {
+              "x": 572.4000505719866,
+              "y": 328.00002428950097,
+              "id": "7bdcaab6-23e0-40cb-8fa1-a7b05ef1ab3c",
+              "type": "point"
+            }
+          ],
+          "source": "1699b8b6-80b8-46c0-bd97-fb0cc840640c",
+          "target": "36f396af-c710-438c-afd1-620a57c280d6",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "f8929565-fbb0-4f37-86d7-6374ed730e6f",
+          "targetPort": "2a41c834-5f0c-42c0-9d2a-1ed2215ed45b",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "da974ed0-0111-4608-b5aa-46e2975ff6e2": {
+          "id": "da974ed0-0111-4608-b5aa-46e2975ff6e2",
+          "type": "default",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 945.0000871930804,
+              "y": 323.8000120824697,
+              "id": "ecbf6acb-a208-4db1-a2f4-f0d55c96342b",
+              "type": "point"
+            },
+            {
+              "x": 975.5356442466003,
+              "y": 358.7144308619585,
+              "id": "d8f9321b-6c6d-4f31-af22-bc49a3d4bc0c",
+              "type": "point"
+            }
+          ],
+          "source": "8e72aaf5-4030-4c2b-a667-08fe86213045",
+          "target": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "1d2866e4-e7b7-49a0-bc5e-390ab50b707a",
+          "targetPort": "506a7dc7-8ab9-4a16-baf0-200d65441c3c",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "eb156fce-74d2-4c74-a00f-175b72041f0b": {
+          "id": "eb156fce-74d2-4c74-a00f-175b72041f0b",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 572.4000505719866,
+              "y": 427.40001818598535,
+              "id": "bb200c0a-bcf0-4932-b9b6-8121705207b3",
+              "type": "point"
+            },
+            {
+              "x": 602.0000261579241,
+              "y": 466.99999377192285,
+              "id": "e9077265-87d1-4380-8696-dd700c19b84b",
+              "type": "point"
+            }
+          ],
+          "source": "36f396af-c710-438c-afd1-620a57c280d6",
+          "target": "5047f0d6-6525-4274-82b4-5484cad2e398",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "3e8e8771-c692-4a1a-a2ca-ec837a9bae4f",
+          "targetPort": "76ebe6ec-4402-4445-92f1-205ee9fb503e",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "ec5d5bd0-95e6-48ca-9f6f-e38d3179ed6c": {
+          "id": "ec5d5bd0-95e6-48ca-9f6f-e38d3179ed6c",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 756.0000871930804,
+              "y": 613.4000181859853,
+              "id": "19cbc528-254b-4070-8017-aec27b3a534e",
+              "type": "point"
+            },
+            {
+              "x": 823,
+              "y": 538,
+              "id": "dfb196aa-da72-4865-9cd6-9bcfd1f47362",
+              "type": "point",
+              "selected": false
+            },
+            {
+              "x": 920.6972025776955,
+              "y": 580.7692245411539,
+              "id": "bfbccdea-f71e-4f2f-8ef0-ff340ee9b3a6",
+              "type": "point"
+            }
+          ],
+          "source": "5047f0d6-6525-4274-82b4-5484cad2e398",
+          "target": "b854322f-0e35-40a6-8fb7-7b16901c64f1",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "8eb66ac9-7371-4442-b9a7-7ec5ab1b615c",
+          "targetPort": "e776ef70-5e2d-4bb7-95de-f0d44bbae5bf",
+          "selectedColor": "rgb(0,192,255)"
+        }
+      },
+      "transformed": true
+    },
+    {
+      "id": "2b0e9b1c-1ff1-4072-b655-9944e6f8f3ed",
+      "type": "diagram-nodes",
+      "isSvg": false,
+      "models": {
+        "14599f81-d0c2-4515-88dd-afb7dcb7eb09": {
+          "x": 415,
+          "y": 14,
+          "id": "14599f81-d0c2-4515-88dd-afb7dcb7eb09",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 536.375,
+              "y": 3,
+              "id": "e7a629e2-ea97-468b-b59f-9da63dab1e07",
+              "in": true,
+              "name": "in-9f3b5baa-4dff-442e-8ea1-5386437ce45f",
+              "type": "default",
+              "links": [
+                "65b7a184-a628-46b5-a6d9-c972bc87ec1d"
+              ],
+              "alignment": "left",
+              "parentNode": "14599f81-d0c2-4515-88dd-afb7dcb7eb09"
+            },
+            {
+              "x": 536.375,
+              "y": 74,
+              "id": "5f19654d-83fa-4817-8902-e48d2e0c222f",
+              "in": false,
+              "name": "out-539e5be3-b193-4d9c-b2e1-a2e7d2ee0e6c",
+              "type": "default",
+              "links": [
+                "7d862061-421b-436e-83c3-1fb2432f2b25"
+              ],
+              "alignment": "right",
+              "parentNode": "14599f81-d0c2-4515-88dd-afb7dcb7eb09"
+            }
+          ],
+          "nodeData": {
+            "id": "14599f81-d0c2-4515-88dd-afb7dcb7eb09",
+            "icon": "location_on",
+            "type": "js-custom-node",
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-9f3b5baa-4dff-442e-8ea1-5386437ce45f",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-539e5be3-b193-4d9c-b2e1-a2e7d2ee0e6c",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "ADDRESS",
+            "selected": false,
+            "userInput": true,
+            "primaryText": "Address",
+            "questionText": "Enter permanent address?",
+            "secondaryText": "Ask for Address"
+          },
+          "selected": false
+        },
+        "1699b8b6-80b8-46c0-bd97-fb0cc840640c": {
+          "x": 406,
+          "y": 114,
+          "id": "1699b8b6-80b8-46c0-bd97-fb0cc840640c",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 548.3250383649554,
+              "y": 103.0000090307119,
+              "id": "8d14d352-2cc7-4574-8eba-d157f0ecbe18",
+              "in": true,
+              "name": "in-e7f213d5-2840-4235-83b5-6b1acac03efb",
+              "type": "default",
+              "links": [
+                "7d862061-421b-436e-83c3-1fb2432f2b25"
+              ],
+              "alignment": "left",
+              "parentNode": "1699b8b6-80b8-46c0-bd97-fb0cc840640c"
+            },
+            {
+              "x": 548.3250383649554,
+              "y": 293.00002428950097,
+              "id": "f8929565-fbb0-4f37-86d7-6374ed730e6f",
+              "in": false,
+              "name": "out-ec381dce-fda3-454b-ad9f-7722ecffa645",
+              "type": "default",
+              "links": [
+                "d444f312-1480-4a3b-97b3-859bee7dadf1"
+              ],
+              "alignment": "right",
+              "parentNode": "1699b8b6-80b8-46c0-bd97-fb0cc840640c"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "1699b8b6-80b8-46c0-bd97-fb0cc840640c",
+            "icon": "check_box",
+            "type": "js-custom-node",
+            "locked": false,
+            "choices": [
+              "Car and Bikes",
+              "Mobile Phone",
+              "Coupons"
+            ],
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-e7f213d5-2840-4235-83b5-6b1acac03efb",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-ec381dce-fda3-454b-ad9f-7722ecffa645",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "MULTIPLE_CHECK_BOX",
+            "selected": false,
+            "userInput": true,
+            "primaryText": "Multiple Check Box",
+            "questionText": "Select the Option of Your Interest",
+            "secondaryText": "Give Multiple Choices"
+          },
+          "selected": false
+        },
+        "1ef2c276-ce5d-4ca3-ba1a-4eedf737d9c2": {
+          "x": 136,
+          "y": 365,
+          "id": "1ef2c276-ce5d-4ca3-ba1a-4eedf737d9c2",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 234.58755057198664,
+              "y": 354.00002428950097,
+              "id": "d4b93566-3e2f-45af-9380-75052ab39cb5",
+              "in": true,
+              "name": "in-6d543d30-454a-4839-93c0-143e080c7042",
+              "type": "default",
+              "links": [
+                "37e8f47b-8f78-464c-91a4-24840d5cd959"
+              ],
+              "alignment": "left",
+              "parentNode": "1ef2c276-ce5d-4ca3-ba1a-4eedf737d9c2"
+            },
+            {
+              "x": 234.58755057198664,
+              "y": 425.00002428950097,
+              "id": "a5734e8d-d6d2-4325-829a-2edcf9b0cc02",
+              "in": false,
+              "name": "out-1e56ece5-9d16-48bd-b9e6-caac3b85db0f",
+              "type": "default",
+              "links": [
+                "8a1722b6-fb86-4950-9e7a-674671267a45"
+              ],
+              "alignment": "right",
+              "parentNode": "1ef2c276-ce5d-4ca3-ba1a-4eedf737d9c2"
+            }
+          ],
+          "nodeData": {
+            "id": "1ef2c276-ce5d-4ca3-ba1a-4eedf737d9c2",
+            "icon": "email",
+            "type": "js-custom-node",
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-6d543d30-454a-4839-93c0-143e080c7042",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-1e56ece5-9d16-48bd-b9e6-caac3b85db0f",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "EMAIL",
+            "selected": false,
+            "variable": "@email",
+            "userInput": true,
+            "primaryText": "Email",
+            "fix_variable": true,
+            "questionText": "What's your email?",
+            "secondaryText": "Ask for the user email"
+          },
+          "selected": false
+        },
+        "2ae13fd5-b803-4543-8c93-530dce90bc05": {
+          "x": 146,
+          "y": 27,
+          "id": "2ae13fd5-b803-4543-8c93-530dce90bc05",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 230.40005057198664,
+              "y": 184.2000059789541,
+              "id": "e2e76d56-5e03-464d-ae4d-d4e5556dd114",
+              "in": false,
+              "name": "out-f547bc61-f018-4bc4-88ff-d3bd282102f6",
+              "type": "default",
+              "links": [
+                "d420ca34-b99a-4653-b5d4-f10b6b38d472"
+              ],
+              "alignment": "right",
+              "parentNode": "2ae13fd5-b803-4543-8c93-530dce90bc05"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "2ae13fd5-b803-4543-8c93-530dce90bc05",
+            "icon": "flag",
+            "type": "js-custom-node",
+            "locked": false,
+            "message": true,
+            "portOpt": [
+              {
+                "in": false,
+                "name": "out-f547bc61-f018-4bc4-88ff-d3bd282102f6",
+                "linkType": "out"
+              }
+            ],
+            "messages": [
+              "Lucky Draw",
+              "August Mega Sale",
+              "Win Lots of Prizes"
+            ],
+            "nodeType": "INIT",
+            "selected": false,
+            "primaryText": "Welcome",
+            "secondaryText": "Start of the flow"
+          },
+          "selected": false
+        },
+        "36f396af-c710-438c-afd1-620a57c280d6": {
+          "x": 478,
+          "y": 329,
+          "id": "36f396af-c710-438c-afd1-620a57c280d6",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 562.4000505719866,
+              "y": 318.00002428950097,
+              "id": "2a41c834-5f0c-42c0-9d2a-1ed2215ed45b",
+              "in": true,
+              "name": "in-984481a2-003f-456f-9fca-b01a92af2a3d",
+              "type": "default",
+              "links": [
+                "d444f312-1480-4a3b-97b3-859bee7dadf1"
+              ],
+              "alignment": "left",
+              "parentNode": "36f396af-c710-438c-afd1-620a57c280d6"
+            },
+            {
+              "x": 562.4000505719866,
+              "y": 417.40001818598535,
+              "id": "3e8e8771-c692-4a1a-a2ca-ec837a9bae4f",
+              "in": false,
+              "name": "out-7fe9206c-85a8-4a6e-bf3f-a4413b0aaf26",
+              "type": "default",
+              "links": [
+                "eb156fce-74d2-4c74-a00f-175b72041f0b"
+              ],
+              "alignment": "right",
+              "parentNode": "36f396af-c710-438c-afd1-620a57c280d6"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "36f396af-c710-438c-afd1-620a57c280d6",
+            "icon": "message",
+            "type": "js-custom-node",
+            "locked": false,
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-984481a2-003f-456f-9fca-b01a92af2a3d",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-7fe9206c-85a8-4a6e-bf3f-a4413b0aaf26",
+                "linkType": "out"
+              }
+            ],
+            "messages": [
+              "Thank You for Chosing Options"
+            ],
+            "nodeType": "MESSAGE",
+            "selected": false,
+            "primaryText": "Messages",
+            "secondaryText": "Messages"
+          },
+          "selected": false
+        },
+        "40c83c14-3bd7-49f0-87af-77e27548d2b5": {
+          "x": 1203.7094723716,
+          "y": 474.187744413641,
+          "id": "40c83c14-3bd7-49f0-87af-77e27548d2b5",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 1290.9692379966018,
+              "y": 463.1827113607566,
+              "id": "bf65feb1-35b5-4488-9856-f8e5eeab5e7d",
+              "in": true,
+              "name": "in-34b75da9-6282-4c84-8573-9d9b1c1dab26",
+              "type": "default",
+              "links": [
+                "a4f492f6-23b0-4880-a56a-54b7c7ae757b"
+              ],
+              "alignment": "left",
+              "parentNode": "40c83c14-3bd7-49f0-87af-77e27548d2b5"
+            }
+          ],
+          "nodeData": {
+            "id": "40c83c14-3bd7-49f0-87af-77e27548d2b5",
+            "icon": "camera_front",
+            "type": "js-custom-node",
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-34b75da9-6282-4c84-8573-9d9b1c1dab26",
+                "linkType": "in"
+              }
+            ],
+            "messages": [
+              "Connecting You to Agent"
+            ],
+            "nodeType": "AGENT_TRANSFER",
+            "selected": true,
+            "userInput": true,
+            "primaryText": "Agent Takeover",
+            "secondaryText": "Tranfer Control to Agent"
+          },
+          "selected": true
+        },
+        "4d07244a-9564-4359-a96d-31f8f68bd55e": {
+          "x": 129,
+          "y": 247,
+          "id": "4d07244a-9564-4359-a96d-31f8f68bd55e",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 229.4000244140625,
+              "y": 236,
+              "id": "726f2c60-df00-4cd0-b787-f4d888eeaa0c",
+              "in": true,
+              "name": "in-a959f6ca-9860-479f-8897-7c06dc86e30c",
+              "type": "default",
+              "links": [
+                "d420ca34-b99a-4653-b5d4-f10b6b38d472"
+              ],
+              "alignment": "left",
+              "parentNode": "4d07244a-9564-4359-a96d-31f8f68bd55e"
+            },
+            {
+              "x": 229.4000244140625,
+              "y": 307,
+              "id": "b676dc0b-117f-421a-bbca-d24360659f41",
+              "in": false,
+              "name": "out-0c5feb80-1145-4a85-84fd-f2a8c93e48e2",
+              "type": "default",
+              "links": [
+                "37e8f47b-8f78-464c-91a4-24840d5cd959"
+              ],
+              "alignment": "right",
+              "parentNode": "4d07244a-9564-4359-a96d-31f8f68bd55e"
+            }
+          ],
+          "nodeData": {
+            "id": "4d07244a-9564-4359-a96d-31f8f68bd55e",
+            "icon": "person",
+            "type": "js-custom-node",
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-a959f6ca-9860-479f-8897-7c06dc86e30c",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-0c5feb80-1145-4a85-84fd-f2a8c93e48e2",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "USERNAME",
+            "selected": false,
+            "variable": "@name",
+            "userInput": true,
+            "primaryText": "Name",
+            "fix_variable": true,
+            "questionText": "What's your Name?",
+            "secondaryText": "Ask for Name"
+          },
+          "selected": false
+        },
+        "5047f0d6-6525-4274-82b4-5484cad2e398": {
+          "x": 446,
+          "y": 468,
+          "id": "5047f0d6-6525-4274-82b4-5484cad2e398",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 592.0000261579241,
+              "y": 456.99999377192285,
+              "id": "76ebe6ec-4402-4445-92f1-205ee9fb503e",
+              "in": true,
+              "name": "in-117b0012-b060-49c2-abd7-1bc25cad5132",
+              "type": "default",
+              "links": [
+                "eb156fce-74d2-4c74-a00f-175b72041f0b"
+              ],
+              "alignment": "left",
+              "parentNode": "5047f0d6-6525-4274-82b4-5484cad2e398"
+            },
+            {
+              "x": 746.0000871930804,
+              "y": 568.9999937719228,
+              "id": "f800b556-9688-4840-b3fa-e63d64639c4e",
+              "in": false,
+              "name": "out-3ee6cde6-30f7-4847-a7ba-08b3fece740f",
+              "text": "Yes",
+              "type": "default",
+              "links": [
+                "d156831f-4fc2-45d4-8c85-77a552e83bd6"
+              ],
+              "alignment": "right",
+              "parentNode": "5047f0d6-6525-4274-82b4-5484cad2e398"
+            },
+            {
+              "x": 746.0000871930804,
+              "y": 603.4000181859853,
+              "id": "8eb66ac9-7371-4442-b9a7-7ec5ab1b615c",
+              "in": false,
+              "name": "out-928ad31d-3aa1-4997-9b59-79bc4f837c34",
+              "text": "No",
+              "type": "default",
+              "links": [
+                "ec5d5bd0-95e6-48ca-9f6f-e38d3179ed6c"
+              ],
+              "alignment": "right",
+              "parentNode": "5047f0d6-6525-4274-82b4-5484cad2e398"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "5047f0d6-6525-4274-82b4-5484cad2e398",
+            "icon": "call_split",
+            "type": "js-custom-node",
+            "locked": false,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-117b0012-b060-49c2-abd7-1bc25cad5132",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-3ee6cde6-30f7-4847-a7ba-08b3fece740f",
+                "linkType": "out",
+                "componentProps": {
+                  "text": "Yes",
+                  "type": "Button"
+                }
+              },
+              {
+                "in": false,
+                "name": "out-928ad31d-3aa1-4997-9b59-79bc4f837c34",
+                "linkType": "out",
+                "componentProps": {
+                  "text": "No",
+                  "type": "Button"
+                }
+              }
+            ],
+            "multiple": true,
+            "nodeType": "YES_NO",
+            "selected": false,
+            "userInput": true,
+            "primaryText": "Yes/No",
+            "questionText": "Have you buyed anything from our website?",
+            "secondaryText": "Make a yes/no choice"
+          },
+          "selected": false
+        },
+        "6a3134b9-5066-472c-9ebc-45bc3cd44975": {
+          "x": 99,
+          "y": 499,
+          "id": "6a3134b9-5066-472c-9ebc-45bc3cd44975",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 226.95001220703125,
+              "y": 488,
+              "id": "0e2c1315-6c82-4781-8f6a-a721d0663580",
+              "in": true,
+              "name": "in-f86bdcfa-4388-46df-bf9c-155ce8320cf7",
+              "type": "default",
+              "links": [
+                "8a1722b6-fb86-4950-9e7a-674671267a45"
+              ],
+              "alignment": "left",
+              "parentNode": "6a3134b9-5066-472c-9ebc-45bc3cd44975"
+            },
+            {
+              "x": 226.95001220703125,
+              "y": 559,
+              "id": "6da0f2f8-ff9c-4ca8-827f-2d7ef63dc16c",
+              "in": false,
+              "name": "out-f9ff9a7e-f243-432e-8875-bc24dd7684e5",
+              "type": "default",
+              "links": [
+                "65b7a184-a628-46b5-a6d9-c972bc87ec1d"
+              ],
+              "alignment": "right",
+              "parentNode": "6a3134b9-5066-472c-9ebc-45bc3cd44975"
+            }
+          ],
+          "nodeData": {
+            "id": "6a3134b9-5066-472c-9ebc-45bc3cd44975",
+            "icon": "dialpad",
+            "type": "js-custom-node",
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-f86bdcfa-4388-46df-bf9c-155ce8320cf7",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-f9ff9a7e-f243-432e-8875-bc24dd7684e5",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "PHONE",
+            "selected": false,
+            "variable": "@phone",
+            "userInput": true,
+            "primaryText": "Phone number",
+            "fix_variable": true,
+            "questionText": "What's your phone number?",
+            "secondaryText": "Ask for Phone number"
+          },
+          "selected": false
+        },
+        "77e86ae8-766a-4161-b76f-7503829d74af": {
+          "x": 1289.8633185254462,
+          "y": 180.0338982597949,
+          "id": "77e86ae8-766a-4161-b76f-7503829d74af",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 1389.5625372754462,
+              "y": 169.02501529705452,
+              "id": "38abe8b8-bddb-4066-a890-9cc838b73426",
+              "in": true,
+              "name": "in-d9ed7ada-9030-4663-8fcf-b59f1e28fa8b",
+              "type": "default",
+              "links": [
+                "95a8a0bb-5920-48a5-a757-1bf36a0ddb52"
+              ],
+              "alignment": "left",
+              "parentNode": "77e86ae8-766a-4161-b76f-7503829d74af"
+            },
+            {
+              "x": 1389.5625372754462,
+              "y": 240.02499651700646,
+              "id": "db26f6b4-d276-46cc-bdc6-e4b7f3da8a1b",
+              "in": false,
+              "name": "out-b2db49a5-09a5-4dcd-a747-769fbd1325f6",
+              "type": "default",
+              "links": [
+                "283208c0-daf2-4bf4-af7c-ba391e62ee0a"
+              ],
+              "alignment": "right",
+              "parentNode": "77e86ae8-766a-4161-b76f-7503829d74af"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "77e86ae8-766a-4161-b76f-7503829d74af",
+            "icon": "link",
+            "type": "js-custom-node",
+            "locked": false,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-d9ed7ada-9030-4663-8fcf-b59f1e28fa8b",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-b2db49a5-09a5-4dcd-a747-769fbd1325f6",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "LINK",
+            "selected": false,
+            "urlMessage": "autovista.in",
+            "primaryText": "Link URL",
+            "questionText": "click the URL below",
+            "secondaryText": "Redirect to Specified Link"
+          },
+          "selected": false
+        },
+        "8e72aaf5-4030-4c2b-a667-08fe86213045": {
+          "x": 837,
+          "y": 38,
+          "id": "8e72aaf5-4030-4c2b-a667-08fe86213045",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 935.0000871930804,
+              "y": 27.000001401317363,
+              "id": "44a881cb-29e6-4f5f-9235-f309016c1fb2",
+              "in": true,
+              "name": "in-f28ef539-00b5-45d2-948f-c95a49fe847d",
+              "type": "default",
+              "links": [
+                "d156831f-4fc2-45d4-8c85-77a552e83bd6"
+              ],
+              "alignment": "left",
+              "parentNode": "8e72aaf5-4030-4c2b-a667-08fe86213045"
+            },
+            {
+              "x": 935.0000871930804,
+              "y": 313.8000120824697,
+              "id": "1d2866e4-e7b7-49a0-bc5e-390ab50b707a",
+              "in": false,
+              "name": "out-88650a0e-e6c6-4e85-ac3f-f3251980368d",
+              "type": "default",
+              "links": [
+                "da974ed0-0111-4608-b5aa-46e2975ff6e2"
+              ],
+              "alignment": "right",
+              "parentNode": "8e72aaf5-4030-4c2b-a667-08fe86213045"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "8e72aaf5-4030-4c2b-a667-08fe86213045",
+            "icon": "view_carousel",
+            "type": "js-custom-node",
+            "locked": false,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-f28ef539-00b5-45d2-948f-c95a49fe847d",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-88650a0e-e6c6-4e85-ac3f-f3251980368d",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "CAROUSEL",
+            "selected": false,
+            "no_images": 2,
+            "primaryText": "Image Carousel",
+            "carousel_url": [
+              [
+                "http://gaadibaazar.in/media/bot_images/download.png"
+              ],
+              [
+                "http://gaadibaazar.in/media/bot_images/writting_test_cases_in_software_testing_with_sample-815x428.png"
+              ]
+            ],
+            "questionText": "Our Content",
+            "secondaryText": "Display an Carousel in the Chat"
+          },
+          "selected": false
+        },
+        "b724d11d-89ca-48da-969d-915e4cd0f1a1": {
+          "x": 1312.0171646792921,
+          "y": 295.7262059521026,
+          "id": "b724d11d-89ca-48da-969d-915e4cd0f1a1",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 1397.3289134773688,
+              "y": 284.7259805915257,
+              "id": "5e76ca99-e916-4644-958a-6cb3deefd783",
+              "in": true,
+              "name": "in-34ade3bd-33b7-4820-ad6a-54ce8671915a",
+              "type": "default",
+              "links": [
+                "283208c0-daf2-4bf4-af7c-ba391e62ee0a"
+              ],
+              "alignment": "left",
+              "parentNode": "b724d11d-89ca-48da-969d-915e4cd0f1a1"
+            }
+          ],
+          "nodeData": {
+            "id": "b724d11d-89ca-48da-969d-915e4cd0f1a1",
+            "icon": "pan_tool",
+            "type": "js-custom-node",
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-34ade3bd-33b7-4820-ad6a-54ce8671915a",
+                "linkType": "in"
+              }
+            ],
+            "messages": [
+              "Bye"
+            ],
+            "nodeType": "END",
+            "selected": false,
+            "primaryText": "End of the chat"
+          },
+          "selected": false
+        },
+        "b854322f-0e35-40a6-8fb7-7b16901c64f1": {
+          "x": 825.3846153846154,
+          "y": 581.7692307692307,
+          "id": "b854322f-0e35-40a6-8fb7-7b16901c64f1",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 910.6972025776957,
+              "y": 570.7692245411544,
+              "id": "e776ef70-5e2d-4bb7-95de-f0d44bbae5bf",
+              "in": true,
+              "name": "in-34ade3bd-33b7-4820-ad6a-54ce8671915a",
+              "type": "default",
+              "links": [
+                "ec5d5bd0-95e6-48ca-9f6f-e38d3179ed6c"
+              ],
+              "alignment": "left",
+              "parentNode": "b854322f-0e35-40a6-8fb7-7b16901c64f1"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "b854322f-0e35-40a6-8fb7-7b16901c64f1",
+            "icon": "pan_tool",
+            "type": "js-custom-node",
+            "locked": false,
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-34ade3bd-33b7-4820-ad6a-54ce8671915a",
+                "linkType": "in"
+              }
+            ],
+            "messages": [
+              "Bye @name"
+            ],
+            "nodeType": "END",
+            "selected": false,
+            "primaryText": "End of the chat"
+          },
+          "selected": false
+        },
+        "c53264f5-88ea-458c-8bff-e1ca639ce5a1": {
+          "x": 1158.1710108331386,
+          "y": 36.03389825979491,
+          "id": "c53264f5-88ea-458c-8bff-e1ca639ce5a1",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 1243.4779519389076,
+              "y": 25.02597307950648,
+              "id": "01954fe1-542c-4771-a232-2d9d45e2bc6d",
+              "in": true,
+              "name": "in-34ade3bd-33b7-4820-ad6a-54ce8671915a",
+              "type": "default",
+              "links": [
+                "3faa4638-5803-489c-96eb-d35477f902be"
+              ],
+              "alignment": "left",
+              "parentNode": "c53264f5-88ea-458c-8bff-e1ca639ce5a1"
+            }
+          ],
+          "nodeData": {
+            "id": "c53264f5-88ea-458c-8bff-e1ca639ce5a1",
+            "icon": "pan_tool",
+            "type": "js-custom-node",
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-34ade3bd-33b7-4820-ad6a-54ce8671915a",
+                "linkType": "in"
+              }
+            ],
+            "messages": [
+              "Bye"
+            ],
+            "nodeType": "END",
+            "selected": false,
+            "primaryText": "End of the chat"
+          },
+          "selected": false
+        },
+        "df7e9c6b-424f-4d80-b0fa-8ffff31e3171": {
+          "x": 864.0171646792926,
+          "y": 359.72620595210265,
+          "id": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 965.5356442466014,
+              "y": 348.71443086195757,
+              "id": "506a7dc7-8ab9-4a16-baf0-200d65441c3c",
+              "in": true,
+              "name": "in-38866ae9-08ba-4a95-9350-4a4bab4a10e0",
+              "type": "default",
+              "links": [
+                "da974ed0-0111-4608-b5aa-46e2975ff6e2"
+              ],
+              "alignment": "left",
+              "parentNode": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171"
+            },
+            {
+              "x": 1075.0605841504464,
+              "y": 440.71444964200566,
+              "id": "bc09f726-3632-411d-a938-48fd7d2b9918",
+              "in": false,
+              "name": "out-c8c8686d-7fbb-4d14-82fa-fa170ab6d35e",
+              "text": "Bye @email",
+              "type": "default",
+              "links": [
+                "3faa4638-5803-489c-96eb-d35477f902be"
+              ],
+              "alignment": "right",
+              "parentNode": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171"
+            },
+            {
+              "x": 1075.0605841504464,
+              "y": 475.1144271059478,
+              "id": "ddf38c4f-4bbf-4763-8feb-88beb83a3d26",
+              "in": false,
+              "name": "out-b3517c39-1e76-4853-aacc-afd2fc784b57",
+              "text": "Want to Learn More",
+              "type": "default",
+              "links": [
+                "95a8a0bb-5920-48a5-a757-1bf36a0ddb52"
+              ],
+              "alignment": "right",
+              "parentNode": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171"
+            },
+            {
+              "x": 1075.0605841504464,
+              "y": 509.51444212998683,
+              "id": "d3dacb56-141c-4242-ae45-27c329d30a52",
+              "in": false,
+              "name": "out-78df9e3b-7bc8-4d2b-b06d-b0ad73748324",
+              "text": "Want to talk with us!!!",
+              "type": "default",
+              "links": [
+                "a4f492f6-23b0-4880-a56a-54b7c7ae757b"
+              ],
+              "alignment": "right",
+              "parentNode": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171",
+            "icon": "playlist_add_check",
+            "type": "js-custom-node",
+            "locked": false,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-38866ae9-08ba-4a95-9350-4a4bab4a10e0",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-c8c8686d-7fbb-4d14-82fa-fa170ab6d35e",
+                "linkType": "out",
+                "componentProps": {
+                  "text": "Bye @email",
+                  "type": "Button"
+                }
+              },
+              {
+                "in": false,
+                "name": "out-b3517c39-1e76-4853-aacc-afd2fc784b57",
+                "linkType": "out",
+                "componentProps": {
+                  "text": "Want to Learn More",
+                  "type": "Button"
+                }
+              },
+              {
+                "in": false,
+                "name": "out-78df9e3b-7bc8-4d2b-b06d-b0ad73748324",
+                "linkType": "out",
+                "componentProps": {
+                  "text": "Want to talk with us!!!",
+                  "type": "Button"
+                }
+              }
+            ],
+            "multiple": true,
+            "nodeType": "MULTI_CHOICE",
+            "selected": false,
+            "userInput": true,
+            "primaryText": "Multiple Choice",
+            "questionText": "What's your choice?",
+            "secondaryText": "Make multiple choices"
+          },
+          "selected": false
+        }
+      },
+      "transformed": true
+    }
+  ],
+  "offsetX": -57.013946301925074,
+  "offsetY": 9.722457663916629,
+  "gridSize": 0
+}
+
+
+
+
+
+
+
+
+
+
+bot_data_json:
+
+{
+  "14599f81-d0c2-4515-88dd-afb7dcb7eb09": {
+    "id": "14599f81-d0c2-4515-88dd-afb7dcb7eb09",
+    "icon": "location_on",
+    "nodeType": "ADDRESS",
+    "targetId": "1699b8b6-80b8-46c0-bd97-fb0cc840640c",
+    "userInput": true,
+    "questionText": "Enter permanent address?"
+  },
+  "1699b8b6-80b8-46c0-bd97-fb0cc840640c": {
+    "id": "1699b8b6-80b8-46c0-bd97-fb0cc840640c",
+    "icon": "check_box",
+    "choices": [
+      "Car and Bikes",
+      "Mobile Phone",
+      "Coupons"
+    ],
+    "nodeType": "MULTIPLE_CHECK_BOX",
+    "targetId": "36f396af-c710-438c-afd1-620a57c280d6",
+    "userInput": true,
+    "questionText": "Select the Option of Your Interest"
+  },
+  "1ef2c276-ce5d-4ca3-ba1a-4eedf737d9c2": {
+    "id": "1ef2c276-ce5d-4ca3-ba1a-4eedf737d9c2",
+    "icon": "email",
+    "nodeType": "EMAIL",
+    "targetId": "6a3134b9-5066-472c-9ebc-45bc3cd44975",
+    "variable": "@email",
+    "userInput": true,
+    "fix_variable": true,
+    "questionText": "What's your email?"
+  },
+  "2ae13fd5-b803-4543-8c93-530dce90bc05": {
+    "id": "2ae13fd5-b803-4543-8c93-530dce90bc05",
+    "icon": "flag",
+    "message": true,
+    "messages": [
+      "Lucky Draw",
+      "August Mega Sale",
+      "Win Lots of Prizes"
+    ],
+    "nodeType": "INIT",
+    "targetId": "4d07244a-9564-4359-a96d-31f8f68bd55e"
+  },
+  "36f396af-c710-438c-afd1-620a57c280d6": {
+    "id": "36f396af-c710-438c-afd1-620a57c280d6",
+    "icon": "message",
+    "message": true,
+    "messages": [
+      "Thank You for Chosing Options"
+    ],
+    "nodeType": "MESSAGE",
+    "targetId": "5047f0d6-6525-4274-82b4-5484cad2e398"
+  },
+  "40c83c14-3bd7-49f0-87af-77e27548d2b5": {
+    "id": "40c83c14-3bd7-49f0-87af-77e27548d2b5",
+    "icon": "camera_front",
+    "message": true,
+    "messages": [
+      "Connecting You to Agent"
+    ],
+    "nodeType": "AGENT_TRANSFER",
+    "targetId": "",
+    "userInput": true
+  },
+  "4d07244a-9564-4359-a96d-31f8f68bd55e": {
+    "id": "4d07244a-9564-4359-a96d-31f8f68bd55e",
+    "icon": "person",
+    "nodeType": "USERNAME",
+    "targetId": "1ef2c276-ce5d-4ca3-ba1a-4eedf737d9c2",
+    "variable": "@name",
+    "userInput": true,
+    "fix_variable": true,
+    "questionText": "What's your Name?"
+  },
+  "5047f0d6-6525-4274-82b4-5484cad2e398": {
+    "id": "5047f0d6-6525-4274-82b4-5484cad2e398",
+    "icon": "call_split",
+    "input": "in-117b0012-b060-49c2-abd7-1bc25cad5132",
+    "buttons": [
+      {
+        "text": "Yes",
+        "targetId": "8e72aaf5-4030-4c2b-a667-08fe86213045"
+      },
+      {
+        "text": "No",
+        "targetId": "b854322f-0e35-40a6-8fb7-7b16901c64f1"
+      }
+    ],
+    "multiple": true,
+    "nodeType": "YES_NO",
+    "userInput": true,
+    "questionText": "Have you buyed anything from our website?"
+  },
+  "6a3134b9-5066-472c-9ebc-45bc3cd44975": {
+    "id": "6a3134b9-5066-472c-9ebc-45bc3cd44975",
+    "icon": "dialpad",
+    "nodeType": "PHONE",
+    "targetId": "14599f81-d0c2-4515-88dd-afb7dcb7eb09",
+    "variable": "@phone",
+    "userInput": true,
+    "fix_variable": true,
+    "questionText": "What's your phone number?"
+  },
+  "77e86ae8-766a-4161-b76f-7503829d74af": {
+    "id": "77e86ae8-766a-4161-b76f-7503829d74af",
+    "icon": "link",
+    "nodeType": "LINK",
+    "targetId": "b724d11d-89ca-48da-969d-915e4cd0f1a1",
+    "urlMessage": "autovista.in",
+    "questionText": "click the URL below"
+  },
+  "8e72aaf5-4030-4c2b-a667-08fe86213045": {
+    "id": "8e72aaf5-4030-4c2b-a667-08fe86213045",
+    "icon": "view_carousel",
+    "nodeType": "CAROUSEL",
+    "targetId": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171",
+    "no_images": 2,
+    "carousel_url": [
+      [
+        "http://gaadibaazar.in/media/bot_images/download.png"
+      ],
+      [
+        "http://gaadibaazar.in/media/bot_images/writting_test_cases_in_software_testing_with_sample-815x428.png"
+      ]
+    ],
+    "questionText": "Our Content"
+  },
+  "b724d11d-89ca-48da-969d-915e4cd0f1a1": {
+    "id": "b724d11d-89ca-48da-969d-915e4cd0f1a1",
+    "icon": "pan_tool",
+    "message": true,
+    "messages": [
+      "Bye"
+    ],
+    "nodeType": "END",
+    "targetId": ""
+  },
+  "b854322f-0e35-40a6-8fb7-7b16901c64f1": {
+    "id": "b854322f-0e35-40a6-8fb7-7b16901c64f1",
+    "icon": "pan_tool",
+    "message": true,
+    "messages": [
+      "Bye @name"
+    ],
+    "nodeType": "END",
+    "targetId": ""
+  },
+  "c53264f5-88ea-458c-8bff-e1ca639ce5a1": {
+    "id": "c53264f5-88ea-458c-8bff-e1ca639ce5a1",
+    "icon": "pan_tool",
+    "message": true,
+    "messages": [
+      "Bye"
+    ],
+    "nodeType": "END",
+    "targetId": ""
+  },
+  "df7e9c6b-424f-4d80-b0fa-8ffff31e3171": {
+    "id": "df7e9c6b-424f-4d80-b0fa-8ffff31e3171",
+    "icon": "playlist_add_check",
+    "input": "in-38866ae9-08ba-4a95-9350-4a4bab4a10e0",
+    "buttons": [
+      {
+        "text": "Bye @email",
+        "targetId": "c53264f5-88ea-458c-8bff-e1ca639ce5a1"
+      },
+      {
+        "text": "Want to Learn More",
+        "targetId": "77e86ae8-766a-4161-b76f-7503829d74af"
+      },
+      {
+        "text": "Want to talk with us!!!",
+        "targetId": "40c83c14-3bd7-49f0-87af-77e27548d2b5"
+      }
+    ],
+    "multiple": true,
+    "nodeType": "MULTI_CHOICE",
+    "userInput": true,
+    "questionText": "What's your choice?"
+  }
+}
+
+
+bot_variable_json:
+
+{
+  "@name": "",
+  "@email": "",
+  "@phone": ""
+}
+
+bot_type: website

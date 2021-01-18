@@ -1,0 +1,142 @@
+import os
+from decouple import config, UndefinedValueError
+
+# SECURITY WARNING: keep the secret key used in production secret!
+SECRET_KEY = config('SECRET_KEY')
+
+# SECURITY WARNING: don't run with debug turned on in production!
+DEBUG = config('DEBUG', cast=bool)
+
+# Database Settings
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': config('DB_NAME'),
+        'USER': config('DB_USER'),
+        'PASSWORD': config('DB_PASSWORD'),
+        'HOST': config('DB_HOST'),
+        'PORT': config('DB_PORT')
+    }
+}
+
+# For Emails
+# EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = config('EMAIL_HOST')
+EMAIL_HOST_USER = config('EMAIL_HOST_USER')
+EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
+EMAIL_PORT = config('EMAIL_PORT')
+EMAIL_USE_TLS = config('EMAIL_USE_TLS', cast=bool)
+
+
+# SOCIAL_AUTH
+SOCIAL_AUTH_FACEBOOK_KEY= config('SOCIAL_AUTH_FACEBOOK_KEY')
+SOCIAL_AUTH_FACEBOOK_SECRET = config('SOCIAL_AUTH_FACEBOOK_SECRET')
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = config('SOCIAL_AUTH_GOOGLE_OAUTH2_KEY')
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = config('SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET')
+
+
+# Session Settings
+SESSION_ENGINE = 'redis_sessions.session'
+try:
+    SESSION_REDIS = {
+        'host': config('REDIS_SERVER_HOST'),
+        'port': config('REDIS_SERVER_PORT'),
+        'db': 0, # TODO: Add multiple databases later for master, slave configuration
+        'password': config('REDIS_SERVER_PASSWORD'),
+        'prefix': 'session',
+        'socket_timeout': 1,
+        'retry_on_timeout': False,
+    }
+except UndefinedValueError:
+    # No password
+    SESSION_REDIS = {
+        'host': config('REDIS_SERVER_HOST'),
+        'port': config('REDIS_SERVER_PORT'),
+        'db': 0, # TODO: Add multiple databases later for master, slave configuration
+        'prefix': 'session',
+        'socket_timeout': 1,
+        'retry_on_timeout': False,
+    }
+SESSION_COOKIE_AGE = int(float(config('SESSION_TIMEOUT_HOURS')) * 60 * 60)
+
+try:
+    CHANNEL_LAYERS = {
+        'default': {
+            'BACKEND': 'channels_redis.core.RedisChannelLayer',
+            'CONFIG': {
+                    "hosts": [("redis://:" + config('REDIS_SERVER_PASSWORD') + "@" + config('REDIS_SERVER_HOST') + ":" + config('REDIS_SERVER_PORT'))]
+            },
+        },
+    }
+except UndefinedValueError:
+    # No password set
+    CHANNEL_LAYERS = {
+        'default': {
+            'BACKEND': 'channels_redis.core.RedisChannelLayer',
+            'CONFIG': {
+                "hosts": [(config('REDIS_SERVER_HOST'), config('REDIS_SERVER_PORT'))]            },
+        },
+    }
+
+
+# Redis Server Settings
+try:
+    REDIS_SERVER_PASSWORD = config('REDIS_SERVER_PASSWORD')
+except UndefinedValueError:
+    REDIS_SERVER_PASSWORD = None
+
+
+# Cache Settings
+if REDIS_SERVER_PASSWORD:
+    CACHES = {
+        'default': {
+            'BACKEND': 'redis_cache.RedisCache',
+            'LOCATION': [
+                f"{config('REDIS_SERVER_HOST')}: {config('REDIS_SERVER_PORT')}",
+            ],
+            'OPTIONS': {
+                'DB': 1,
+                'PASSWORD': config('REDIS_SERVER_PASSWORD'),
+                'PARSER_CLASS': 'redis.connection.HiredisParser',
+                'CONNECTION_POOL_CLASS': 'redis.BlockingConnectionPool',
+                'CONNECTION_POOL_CLASS_KWARGS': {
+                    'max_connections': 50,
+                    'timeout': 20,
+                },
+                'MAX_CONNECTIONS': 1000,
+                'SERIALIZER_CLASS': 'redis_cache.serializers.JSONSerializer',
+                'PICKLE_VERSION': -1,
+            },
+            'TIMEOUT': 60 * 60 * 24, # Items in the cache will expire after 1 day
+        },
+    }
+else:
+    CACHES = {
+        'default': {
+            'BACKEND': 'redis_cache.RedisCache',
+            'LOCATION': [
+                f"{config('REDIS_SERVER_HOST')}: {config('REDIS_SERVER_PORT')}",
+            ],
+            'OPTIONS': {
+                #'DB': 1,
+                'PARSER_CLASS': 'redis.connection.HiredisParser',
+                'CONNECTION_POOL_CLASS': 'redis.BlockingConnectionPool',
+                'CONNECTION_POOL_CLASS_KWARGS': {
+                    'max_connections': 50,
+                    'timeout': 20,
+                },
+                'MAX_CONNECTIONS': 1000,
+                'SERIALIZER_CLASS': 'redis_cache.serializers.JSONSerializer',
+                'PICKLE_VERSION': -1,
+            },
+            'TIMEOUT': 60 * 60 * 24, # Items in the cache will expire after 1 day
+        },
+    }
+
+USE_CELERY=False
+CELERY_BROKER_URL = 'redis://{}:{}'.format(config('REDIS_SERVER_HOST'), config('REDIS_SERVER_PORT'))
+CELERY_RESULT_BACKEND = 'redis://{}:{}'.format(config('REDIS_SERVER_HOST'), config('REDIS_SERVER_PORT'))
+CELERY_ACCEPT_CONTENT = ['application/json']
+CELERY_RESULT_SERIALIZER = 'json'
+CELERY_TASK_SERIALIZER = 'json'

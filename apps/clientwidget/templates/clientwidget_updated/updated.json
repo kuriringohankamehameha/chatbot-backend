@@ -1,0 +1,612 @@
+{
+    "id": 1,
+    "title": "New Bot 1",
+    "publish_status": false,
+    "bot_full_json": {
+        "id": "d1580680-3e45-4bdf-8fe4-2439bb6b1d1a",
+        "offsetX": 0,
+        "offsetY": 0,
+        "zoom": 100,
+        "gridSize": 0,
+        "layers": [
+            {
+                "id": "d627353f-2a8e-4634-bffa-f324971907ea",
+                "type": "diagram-links",
+                "isSvg": true,
+                "transformed": true,
+                "models": {
+                    "7fa74474-301c-42b3-b509-0411d404cba4": {
+                        "id": "7fa74474-301c-42b3-b509-0411d404cba4",
+                        "type": "advanced",
+                        "selected": false,
+                        "source": "56e22e05-3235-4577-aa9b-1acaba10f26e",
+                        "sourcePort": "b03e2abe-c94a-40c9-8aa5-4651bd83accf",
+                        "target": "bc486d07-05e5-4ab8-84af-e89e5a6fc635",
+                        "targetPort": "c4731286-f685-4929-8ece-959a18269e63",
+                        "points": [
+                            {
+                                "id": "55f66f46-a03c-47b7-85fb-ee5030c0d451",
+                                "type": "point",
+                                "x": 194.39999389648438,
+                                "y": 198.39999389648438
+                            },
+                            {
+                                "id": "224f6cdd-bde3-4cb2-b92d-fa7ec6942240",
+                                "type": "point",
+                                "x": 212.125,
+                                "y": 249
+                            }
+                        ],
+                        "labels": [],
+                        "width": 3,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "8a4c8926-6008-4853-a174-3e88e6ff4dd3": {
+                        "id": "8a4c8926-6008-4853-a174-3e88e6ff4dd3",
+                        "type": "advanced",
+                        "selected": false,
+                        "source": "bc486d07-05e5-4ab8-84af-e89e5a6fc635",
+                        "sourcePort": "16f3f5d1-8e8e-45c8-8101-5241eca0995b",
+                        "target": "466f2f38-c7de-41f4-855e-fbeae47bd988",
+                        "targetPort": "1db99a3e-d5a1-43b2-81ec-2d930cccb8a4",
+                        "points": [
+                            {
+                                "id": "88ea99ca-f926-419a-a2ef-04df0a3e923a",
+                                "type": "point",
+                                "x": 212.125,
+                                "y": 320
+                            },
+                            {
+                                "id": "55628942-b553-4f7d-a7a9-6bc3a6f0cac7",
+                                "type": "point",
+                                "x": 212.5875244140625,
+                                "y": 380
+                            }
+                        ],
+                        "labels": [],
+                        "width": 3,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "999ce566-07f8-4e37-a189-9f03b94c471f": {
+                        "id": "999ce566-07f8-4e37-a189-9f03b94c471f",
+                        "type": "advanced",
+                        "selected": false,
+                        "source": "466f2f38-c7de-41f4-855e-fbeae47bd988",
+                        "sourcePort": "3a1e5356-c008-41ad-8c31-4915c395e227",
+                        "target": "d3360bee-fe43-4aa5-b7fa-7d42d5463406",
+                        "targetPort": "366c546e-c1d7-4bbb-9264-7ac2742e3bc0",
+                        "points": [
+                            {
+                                "id": "036b5631-29c7-4683-9874-ad78eb199310",
+                                "type": "point",
+                                "x": 212.5875244140625,
+                                "y": 451
+                            },
+                            {
+                                "id": "0a551c08-9163-4f37-915d-9eaf16db3efa",
+                                "type": "point",
+                                "x": 236.29998779296875,
+                                "y": 490
+                            }
+                        ],
+                        "labels": [],
+                        "width": 3,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "3b59cb8b-7f22-4e96-9b25-14590cbdf64e": {
+                        "id": "3b59cb8b-7f22-4e96-9b25-14590cbdf64e",
+                        "type": "advanced",
+                        "selected": false,
+                        "source": "d3360bee-fe43-4aa5-b7fa-7d42d5463406",
+                        "sourcePort": "8e155266-b39f-4512-b180-16ea3d8474f0",
+                        "target": "5a9278ac-20ce-4083-b4a8-d6b2e80d69c4",
+                        "targetPort": "4649bbb8-5449-420f-9e40-dd0b309c749f",
+                        "points": [
+                            {
+                                "id": "b01a2c47-9783-4a5e-9584-938af2ec0435",
+                                "type": "point",
+                                "x": 370.60003662109375,
+                                "y": 582
+                            },
+                            {
+                                "id": "c8b893af-0ea3-4312-81ac-536bfca1042c",
+                                "type": "point",
+                                "x": 679.4000244140625,
+                                "y": 379
+                            }
+                        ],
+                        "labels": [],
+                        "width": 3,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "1660f443-67a2-4f8b-b933-ff5bde35dc84": {
+                        "id": "1660f443-67a2-4f8b-b933-ff5bde35dc84",
+                        "type": "advanced",
+                        "selected": false,
+                        "source": "d3360bee-fe43-4aa5-b7fa-7d42d5463406",
+                        "sourcePort": "317df2e6-5096-4807-969d-65ecd0a7227a",
+                        "target": "8992314b-34fc-4983-98be-f9f5e1c087b5",
+                        "targetPort": "c40aa26a-b852-4917-8a93-ed13f01ef5c4",
+                        "points": [
+                            {
+                                "id": "eb28a3b6-959d-4d44-944f-1643c6dc171a",
+                                "type": "point",
+                                "x": 370.60003662109375,
+                                "y": 616.4000244140625
+                            },
+                            {
+                                "id": "bf85927f-77e9-456e-bffb-60c98e513c9e",
+                                "type": "point",
+                                "x": 681.4000244140625,
+                                "y": 535
+                            }
+                        ],
+                        "labels": [],
+                        "width": 3,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)"
+                    }
+                }
+            },
+            {
+                "id": "ddaf7ff3-27ee-42fa-b971-60feecc8dc05",
+                "type": "diagram-nodes",
+                "isSvg": false,
+                "transformed": true,
+                "models": {
+                    "56e22e05-3235-4577-aa9b-1acaba10f26e": {
+                        "id": "56e22e05-3235-4577-aa9b-1acaba10f26e",
+                        "type": "js-custom-node",
+                        "x": 100,
+                        "y": 100,
+                        "ports": [
+                            {
+                                "id": "b03e2abe-c94a-40c9-8aa5-4651bd83accf",
+                                "type": "default",
+                                "x": 184.39999389648438,
+                                "y": 188.39999389648438,
+                                "name": "out-54441b14-ad6a-42d8-a12f-229c342bebdc",
+                                "alignment": "right",
+                                "parentNode": "56e22e05-3235-4577-aa9b-1acaba10f26e",
+                                "links": [
+                                    "7fa74474-301c-42b3-b509-0411d404cba4"
+                                ],
+                                "in": false
+                            }
+                        ],
+                        "nodeData": {
+                            "id": "56e22e05-3235-4577-aa9b-1acaba10f26e",
+                            "icon": "flag",
+                            "nodeType": "INIT",
+                            "primaryText": "Welcome",
+                            "secondaryText": "Start of the flow",
+                            "messages": [
+                                "Hi there!"
+                            ],
+                            "message": true,
+                            "portOpt": [
+                                {
+                                    "linkType": "out",
+                                    "name": "out-54441b14-ad6a-42d8-a12f-229c342bebdc",
+                                    "in": false
+                                }
+                            ],
+                            "type": "js-custom-node"
+                        }
+                    },
+                    "bc486d07-05e5-4ab8-84af-e89e5a6fc635": {
+                        "id": "bc486d07-05e5-4ab8-84af-e89e5a6fc635",
+                        "locked": false,
+                        "type": "js-custom-node",
+                        "selected": false,
+                        "x": 89,
+                        "y": 250,
+                        "ports": [
+                            {
+                                "id": "c4731286-f685-4929-8ece-959a18269e63",
+                                "type": "default",
+                                "x": 202.125,
+                                "y": 239,
+                                "name": "in-993fc1de-b992-49e5-bdf7-54aeff7f6287",
+                                "alignment": "left",
+                                "parentNode": "bc486d07-05e5-4ab8-84af-e89e5a6fc635",
+                                "links": [
+                                    "7fa74474-301c-42b3-b509-0411d404cba4"
+                                ],
+                                "in": true
+                            },
+                            {
+                                "id": "16f3f5d1-8e8e-45c8-8101-5241eca0995b",
+                                "type": "default",
+                                "x": 202.125,
+                                "y": 310,
+                                "name": "out-201239e8-e2db-41da-abd4-98beafa251e5",
+                                "alignment": "right",
+                                "parentNode": "bc486d07-05e5-4ab8-84af-e89e5a6fc635",
+                                "links": [
+                                    "8a4c8926-6008-4853-a174-3e88e6ff4dd3"
+                                ],
+                                "in": false
+                            }
+                        ],
+                        "nodeData": {
+                            "id": "bc486d07-05e5-4ab8-84af-e89e5a6fc635",
+                            "icon": "person",
+                            "nodeType": "USERNAME",
+                            "primaryText": "Username",
+                            "secondaryText": "Ask for Username",
+                            "questionText": "What's your username?",
+                            "userInput": true,
+                            "portOpt": [
+                                {
+                                    "linkType": "in",
+                                    "name": "in-993fc1de-b992-49e5-bdf7-54aeff7f6287",
+                                    "in": true
+                                },
+                                {
+                                    "linkType": "out",
+                                    "name": "out-201239e8-e2db-41da-abd4-98beafa251e5",
+                                    "in": false
+                                }
+                            ],
+                            "type": "js-custom-node",
+                            "selected": false,
+                            "locked": false,
+                            "variable": "@name"
+                        }
+                    },
+                    "466f2f38-c7de-41f4-855e-fbeae47bd988": {
+                        "id": "466f2f38-c7de-41f4-855e-fbeae47bd988",
+                        "locked": false,
+                        "type": "js-custom-node",
+                        "selected": false,
+                        "x": 104,
+                        "y": 381,
+                        "ports": [
+                            {
+                                "id": "1db99a3e-d5a1-43b2-81ec-2d930cccb8a4",
+                                "type": "default",
+                                "x": 202.5875244140625,
+                                "y": 370,
+                                "name": "in-694e415b-c41e-4a36-84f8-af4a6a4fe1a2",
+                                "alignment": "left",
+                                "parentNode": "466f2f38-c7de-41f4-855e-fbeae47bd988",
+                                "links": [
+                                    "8a4c8926-6008-4853-a174-3e88e6ff4dd3"
+                                ],
+                                "in": true
+                            },
+                            {
+                                "id": "3a1e5356-c008-41ad-8c31-4915c395e227",
+                                "type": "default",
+                                "x": 202.5875244140625,
+                                "y": 441,
+                                "name": "out-f1b37f51-cfc5-48e7-80b3-67a967915561",
+                                "alignment": "right",
+                                "parentNode": "466f2f38-c7de-41f4-855e-fbeae47bd988",
+                                "links": [
+                                    "999ce566-07f8-4e37-a189-9f03b94c471f"
+                                ],
+                                "in": false
+                            }
+                        ],
+                        "nodeData": {
+                            "id": "466f2f38-c7de-41f4-855e-fbeae47bd988",
+                            "icon": "email",
+                            "nodeType": "EMAIL",
+                            "primaryText": "Email",
+                            "secondaryText": "Ask for the user email",
+                            "questionText": "What's your email?",
+                            "userInput": true,
+                            "portOpt": [
+                                {
+                                    "linkType": "in",
+                                    "name": "in-694e415b-c41e-4a36-84f8-af4a6a4fe1a2",
+                                    "in": true
+                                },
+                                {
+                                    "linkType": "out",
+                                    "name": "out-f1b37f51-cfc5-48e7-80b3-67a967915561",
+                                    "in": false
+                                }
+                            ],
+                            "type": "js-custom-node",
+                            "selected": false,
+                            "locked": false,
+                            "variable": "@email"
+                        }
+                    },
+                    "d3360bee-fe43-4aa5-b7fa-7d42d5463406": {
+                        "id": "d3360bee-fe43-4aa5-b7fa-7d42d5463406",
+                        "locked": false,
+                        "type": "js-custom-node",
+                        "selected": false,
+                        "x": 100,
+                        "y": 491,
+                        "ports": [
+                            {
+                                "id": "366c546e-c1d7-4bbb-9264-7ac2742e3bc0",
+                                "type": "default",
+                                "x": 226.29998779296875,
+                                "y": 480,
+                                "name": "in-2caa159a-c446-4505-a864-e49eaa3d9610",
+                                "alignment": "left",
+                                "parentNode": "d3360bee-fe43-4aa5-b7fa-7d42d5463406",
+                                "links": [
+                                    "999ce566-07f8-4e37-a189-9f03b94c471f"
+                                ],
+                                "in": true
+                            },
+                            {
+                                "id": "8e155266-b39f-4512-b180-16ea3d8474f0",
+                                "type": "default",
+                                "x": 360.60003662109375,
+                                "y": 572,
+                                "name": "out-d198fd5e-89cf-45ea-9c1c-96eca8197247",
+                                "alignment": "right",
+                                "parentNode": "d3360bee-fe43-4aa5-b7fa-7d42d5463406",
+                                "links": [
+                                    "3b59cb8b-7f22-4e96-9b25-14590cbdf64e"
+                                ],
+                                "in": false
+                            },
+                            {
+                                "id": "317df2e6-5096-4807-969d-65ecd0a7227a",
+                                "type": "default",
+                                "x": 360.60003662109375,
+                                "y": 606.4000244140625,
+                                "name": "out-385bb772-4e3b-454f-8a78-da80b8423bbd",
+                                "alignment": "right",
+                                "parentNode": "d3360bee-fe43-4aa5-b7fa-7d42d5463406",
+                                "links": [
+                                    "1660f443-67a2-4f8b-b933-ff5bde35dc84"
+                                ],
+                                "in": false
+                            }
+                        ],
+                        "nodeData": {
+                            "id": "d3360bee-fe43-4aa5-b7fa-7d42d5463406",
+                            "icon": "call_split",
+                            "nodeType": "YES_NO",
+                            "primaryText": "Yes/No",
+                            "secondaryText": "Make a yes/no choice",
+                            "questionText": "Do you want to Continue???",
+                            "userInput": true,
+                            "multiple": true,
+                            "portOpt": [
+                                {
+                                    "linkType": "in",
+                                    "name": "in-2caa159a-c446-4505-a864-e49eaa3d9610",
+                                    "in": true
+                                },
+                                {
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "type": "Button",
+                                        "text": "Yes"
+                                    },
+                                    "name": "out-d198fd5e-89cf-45ea-9c1c-96eca8197247",
+                                    "in": false
+                                },
+                                {
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "type": "Button",
+                                        "text": "No"
+                                    },
+                                    "name": "out-385bb772-4e3b-454f-8a78-da80b8423bbd",
+                                    "in": false
+                                }
+                            ],
+                            "type": "js-custom-node",
+                            "selected": false,
+                            "locked": false,
+                            "variable": "@"
+                        }
+                    },
+                    "5a9278ac-20ce-4083-b4a8-d6b2e80d69c4": {
+                        "id": "5a9278ac-20ce-4083-b4a8-d6b2e80d69c4",
+                        "locked": false,
+                        "type": "js-custom-node",
+                        "selected": false,
+                        "x": 585,
+                        "y": 380,
+                        "ports": [
+                            {
+                                "id": "4649bbb8-5449-420f-9e40-dd0b309c749f",
+                                "type": "default",
+                                "x": 669.4000244140625,
+                                "y": 369,
+                                "name": "in-a419a29c-5391-4dd0-9469-32b7f5893d1e",
+                                "alignment": "left",
+                                "parentNode": "5a9278ac-20ce-4083-b4a8-d6b2e80d69c4",
+                                "links": [
+                                    "3b59cb8b-7f22-4e96-9b25-14590cbdf64e"
+                                ],
+                                "in": true
+                            },
+                            {
+                                "id": "379a6ef3-02cf-4940-ac32-e0284d149dcc",
+                                "type": "default",
+                                "x": 669.4000244140625,
+                                "y": 468.4000244140625,
+                                "name": "out-a8447e1f-e9f2-4746-9e7f-1761204e727c",
+                                "alignment": "right",
+                                "parentNode": "5a9278ac-20ce-4083-b4a8-d6b2e80d69c4",
+                                "links": [],
+                                "in": false
+                            }
+                        ],
+                        "nodeData": {
+                            "id": "5a9278ac-20ce-4083-b4a8-d6b2e80d69c4",
+                            "icon": "message",
+                            "nodeType": "MESSAGE",
+                            "primaryText": "Messages",
+                            "secondaryText": "Messages",
+                            "messages": [
+                                "Thank You for Continuing!!!"
+                            ],
+                            "message": true,
+                            "portOpt": [
+                                {
+                                    "linkType": "in",
+                                    "name": "in-a419a29c-5391-4dd0-9469-32b7f5893d1e",
+                                    "in": true
+                                },
+                                {
+                                    "linkType": "out",
+                                    "name": "out-a8447e1f-e9f2-4746-9e7f-1761204e727c",
+                                    "in": false
+                                }
+                            ],
+                            "type": "js-custom-node",
+                            "selected": false,
+                            "locked": false
+                        }
+                    },
+                    "8992314b-34fc-4983-98be-f9f5e1c087b5": {
+                        "id": "8992314b-34fc-4983-98be-f9f5e1c087b5",
+                        "locked": false,
+                        "type": "js-custom-node",
+                        "selected": false,
+                        "x": 587,
+                        "y": 536,
+                        "ports": [
+                            {
+                                "id": "c40aa26a-b852-4917-8a93-ed13f01ef5c4",
+                                "type": "default",
+                                "x": 671.4000244140625,
+                                "y": 525,
+                                "name": "in-a419a29c-5391-4dd0-9469-32b7f5893d1e",
+                                "alignment": "left",
+                                "parentNode": "8992314b-34fc-4983-98be-f9f5e1c087b5",
+                                "links": [
+                                    "1660f443-67a2-4f8b-b933-ff5bde35dc84"
+                                ],
+                                "in": true
+                            },
+                            {
+                                "id": "169a156d-4b02-4f67-94fd-9ae5025d4a5c",
+                                "type": "default",
+                                "x": 671.4000244140625,
+                                "y": 624.3999938964844,
+                                "name": "out-a8447e1f-e9f2-4746-9e7f-1761204e727c",
+                                "alignment": "right",
+                                "parentNode": "8992314b-34fc-4983-98be-f9f5e1c087b5",
+                                "links": [],
+                                "in": false
+                            }
+                        ],
+                        "nodeData": {
+                            "id": "8992314b-34fc-4983-98be-f9f5e1c087b5",
+                            "icon": "message",
+                            "nodeType": "MESSAGE",
+                            "primaryText": "Messages",
+                            "secondaryText": "Messages",
+                            "messages": [
+                                "Thank You for Ending"
+                            ],
+                            "message": true,
+                            "portOpt": [
+                                {
+                                    "linkType": "in",
+                                    "name": "in-a419a29c-5391-4dd0-9469-32b7f5893d1e",
+                                    "in": true
+                                },
+                                {
+                                    "linkType": "out",
+                                    "name": "out-a8447e1f-e9f2-4746-9e7f-1761204e727c",
+                                    "in": false
+                                }
+                            ],
+                            "type": "js-custom-node",
+                            "selected": false,
+                            "locked": false
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "bot_data_json": {
+        "56e22e05-3235-4577-aa9b-1acaba10f26e": {
+            "nodeType": "INIT",
+            "messages": [
+                "Hi there!"
+            ],
+            "questionText": "",
+            "nxtID": "out-54441b14-ad6a-42d8-a12f-229c342bebdc",
+            "targetId": "bc486d07-05e5-4ab8-84af-e89e5a6fc635"
+        },
+        "bc486d07-05e5-4ab8-84af-e89e5a6fc635": {
+            "nodeType": "USERNAME",
+            "messages": [],
+            "questionText": "What's your username?",
+            "input": "in-993fc1de-b992-49e5-bdf7-54aeff7f6287",
+            "nxtID": "out-201239e8-e2db-41da-abd4-98beafa251e5",
+            "targetId": "466f2f38-c7de-41f4-855e-fbeae47bd988"
+        },
+        "466f2f38-c7de-41f4-855e-fbeae47bd988": {
+            "nodeType": "EMAIL",
+            "messages": [],
+            "questionText": "What's your email?",
+            "input": "in-694e415b-c41e-4a36-84f8-af4a6a4fe1a2",
+            "nxtID": "out-f1b37f51-cfc5-48e7-80b3-67a967915561",
+            "targetId": "d3360bee-fe43-4aa5-b7fa-7d42d5463406"
+        },
+        "d3360bee-fe43-4aa5-b7fa-7d42d5463406": {
+            "nodeType": "YES_NO",
+            "questionText": "Do you want to Continue???",
+            "input": "in-2caa159a-c446-4505-a864-e49eaa3d9610",
+            "buttons": [
+                {
+                    "text": "Yes",
+                    "nxtID": "out-d198fd5e-89cf-45ea-9c1c-96eca8197247",
+                    "buttonTargetID": [
+                        "3b59cb8b-7f22-4e96-9b25-14590cbdf64e"
+                    ]
+                },
+                {
+                    "text": "No",
+                    "nxtID": "out-385bb772-4e3b-454f-8a78-da80b8423bbd",
+                    "buttonTargetID": [
+                        "1660f443-67a2-4f8b-b933-ff5bde35dc84"
+                    ]
+                }
+            ],
+            "targetId": "8992314b-34fc-4983-98be-f9f5e1c087b5"
+        },
+        "5a9278ac-20ce-4083-b4a8-d6b2e80d69c4": {
+            "nodeType": "MESSAGE",
+            "messages": [
+                "Thank You for Continuing!!!"
+            ],
+            "questionText": "",
+            "input": "in-a419a29c-5391-4dd0-9469-32b7f5893d1e",
+            "nxtID": "out-a8447e1f-e9f2-4746-9e7f-1761204e727c"
+        },
+        "8992314b-34fc-4983-98be-f9f5e1c087b5": {
+            "nodeType": "MESSAGE",
+            "messages": [
+                "Thank You for Ending"
+            ],
+            "questionText": "",
+            "input": "in-a419a29c-5391-4dd0-9469-32b7f5893d1e",
+            "nxtID": "out-a8447e1f-e9f2-4746-9e7f-1761204e727c"
+        }
+    },
+    "bot_variable_json": {
+        "bc486d07-05e5-4ab8-84af-e89e5a6fc635": "@name",
+        "466f2f38-c7de-41f4-855e-fbeae47bd988": "@email",
+        "d3360bee-fe43-4aa5-b7fa-7d42d5463406": "@"
+    }
+}

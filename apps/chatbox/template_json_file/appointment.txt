@@ -1,0 +1,1960 @@
+
+title: Appointment
+
+
+bot_full_json:
+
+{
+  "id": "53c98fe1-f3d3-4a8d-abd8-18fdd1c773d3",
+  "zoom": 99.56249999999999,
+  "layers": [
+    {
+      "id": "5740bade-ed29-4ac3-85e9-b72899fb72f0",
+      "type": "diagram-links",
+      "isSvg": true,
+      "models": {
+        "02155844-63d8-4cf6-a361-3ea8dbb8241c": {
+          "id": "02155844-63d8-4cf6-a361-3ea8dbb8241c",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 381.3333401916466,
+              "y": 120.66667088127254,
+              "id": "ea92c2b3-31b7-4c8d-be4b-08307c444534",
+              "type": "point"
+            },
+            {
+              "x": 448.0000068583132,
+              "y": 190.00000969359354,
+              "id": "ddb7871b-d507-4196-ad8d-0cbd6b37bd50",
+              "type": "point"
+            }
+          ],
+          "source": "74cd4828-f991-49b2-a191-3a581510a3d9",
+          "target": "ba103e4d-83fc-4439-90e3-f02646962cba",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "1e615337-3d59-4b0b-8172-18854179ecca",
+          "targetPort": "d320cfcb-b3aa-402f-a01e-013b2f07f9b6",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "17098adf-c821-425b-af25-d31c103f30d3": {
+          "id": "17098adf-c821-425b-af25-d31c103f30d3",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1167.0555973950977,
+              "y": 103.33333881232096,
+              "id": "df0a5dc9-7ee9-4c10-b77f-9d2488aa785f",
+              "type": "point"
+            },
+            {
+              "x": 128.333347318162,
+              "y": 162.00000724145923,
+              "id": "b7f036b6-0d22-49a8-96e5-9f28d22e9412",
+              "type": "point"
+            }
+          ],
+          "source": "2056a9cc-a876-449b-9421-b06908bbb1e8",
+          "target": "2c88ea19-f549-4694-86e7-bcefcb0c2eac",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "a04bfe1a-92e8-451b-a060-82aaf34f48df",
+          "targetPort": "5d45b3fc-0551-42a7-bfda-486865e672a0",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "23dcc053-0e47-48a5-99a2-5d232468190a": {
+          "id": "23dcc053-0e47-48a5-99a2-5d232468190a",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1167.0555973950977,
+              "y": 172.6666536780176,
+              "id": "636ae753-4669-4907-b0f6-03e46b31e878",
+              "type": "point"
+            },
+            {
+              "x": 1288.3333800771443,
+              "y": 32.00000666674019,
+              "id": "065189d0-0a07-437c-b722-a8c360ea2fb7",
+              "type": "point"
+            }
+          ],
+          "source": "2056a9cc-a876-449b-9421-b06908bbb1e8",
+          "target": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "f271657f-6052-4fee-a6e4-13425981c2fe",
+          "targetPort": "a55bbd59-88e1-48e6-9bf3-c5f23134c960",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "29bedc5b-ae30-4dde-8737-684ff96b4277": {
+          "id": "29bedc5b-ae30-4dde-8737-684ff96b4277",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 127.33335352512704,
+              "y": 115.66666168576876,
+              "id": "3dd144dc-bcb0-4fb9-9510-b445e842076f",
+              "type": "point"
+            },
+            {
+              "x": 128.333347318162,
+              "y": 162.00000724145923,
+              "id": "c676cb7e-32b3-4e3e-855f-2dd7463d0e8d",
+              "type": "point"
+            }
+          ],
+          "source": "94c34543-b832-43a4-b277-1f0704c14c45",
+          "target": "2c88ea19-f549-4694-86e7-bcefcb0c2eac",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "9342c7f3-835a-4d14-864d-da61d2bddad5",
+          "targetPort": "5d45b3fc-0551-42a7-bfda-486865e672a0",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "33950fc6-522e-4b7f-8c2d-a5ba1e73250f": {
+          "id": "33950fc6-522e-4b7f-8c2d-a5ba1e73250f",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 781.0000271267363,
+              "y": 457.2222093102023,
+              "id": "c1884af4-5780-4ff1-89ca-3b2f36a2cf85",
+              "type": "point"
+            },
+            {
+              "x": 752.3333506515322,
+              "y": 593.0000140614579,
+              "id": "df66693e-2ee6-424e-ab91-9657778d4af5",
+              "type": "point"
+            }
+          ],
+          "source": "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c",
+          "target": "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "50b299b4-c90b-4eac-8b27-82315bf45e32",
+          "targetPort": "431c9109-d87a-44de-bbf4-b444577a7366",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "3cbe874c-a543-4124-bc02-842c6b1045e0": {
+          "id": "3cbe874c-a543-4124-bc02-842c6b1045e0",
+          "type": "default",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 752.3333506515322,
+              "y": 692.6667077016023,
+              "id": "e857d171-12e4-4c2b-a4cb-f52fa04fff05",
+              "type": "point"
+            },
+            {
+              "x": 1057.5277068191408,
+              "y": 12.000000536404341,
+              "id": "47970af2-d24b-44fd-8d13-f470a29d5032",
+              "type": "point"
+            }
+          ],
+          "source": "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434",
+          "target": "2056a9cc-a876-449b-9421-b06908bbb1e8",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "2c7c4c24-17a9-4b69-9f03-13c010396f64",
+          "targetPort": "7dbb7362-1bdd-4f6d-ae72-2aede6f90104",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "4ab2df04-18ce-4319-8b2b-38a10536dd4a": {
+          "id": "4ab2df04-18ce-4319-8b2b-38a10536dd4a",
+          "type": "default",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1167.0555973950977,
+              "y": 137.99999624516926,
+              "id": "5eb87d92-0d31-4a90-a7a4-dee22033d4fa",
+              "type": "point"
+            },
+            {
+              "x": 1114.0000608052687,
+              "y": 218.00001406145782,
+              "id": "f99a157c-d958-42a5-b204-b764158cbb0c",
+              "type": "point"
+            }
+          ],
+          "source": "2056a9cc-a876-449b-9421-b06908bbb1e8",
+          "target": "7ba96807-af26-446e-bafc-5cb417d81262",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "132bf4d4-a109-4a70-be13-9f527720a88f",
+          "targetPort": "d79cfc94-e0e4-4cdc-9964-054e73971ebb",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "52202d8e-1086-4b10-a15a-5a83df5a2b6e": {
+          "id": "52202d8e-1086-4b10-a15a-5a83df5a2b6e",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 143.94444582377002,
+              "y": 507.00004593920426,
+              "id": "892b9b5b-0131-44bb-8562-bfeddddb82e6",
+              "type": "point"
+            },
+            {
+              "x": 137.5833191186171,
+              "y": 588.9999699230398,
+              "id": "14e73819-8189-4f19-8757-1cc1132c49bd",
+              "type": "point"
+            }
+          ],
+          "source": "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52",
+          "target": "0b81f57f-50f7-4756-b882-341bffe56aff",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "ff24aefe-75d1-4649-a3e3-41c5902079ed",
+          "targetPort": "79b00d63-2db0-4704-a6b1-f0be68c2144b",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "559b0247-55b0-49e6-bc93-e07136d06637": {
+          "id": "559b0247-55b0-49e6-bc93-e07136d06637",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1268.0000369352738,
+              "y": 363.55555122600583,
+              "id": "c60435c2-7089-44ec-b19f-198ff5a19471",
+              "type": "point"
+            },
+            {
+              "x": 1288.3333800771443,
+              "y": 32.00000666674019,
+              "id": "2eb0bd9f-3cc3-4f48-b61b-177fdae6f0e2",
+              "type": "point"
+            }
+          ],
+          "source": "7ba96807-af26-446e-bafc-5cb417d81262",
+          "target": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "36d7444c-b582-4b46-9cec-5034e420e0c9",
+          "targetPort": "a55bbd59-88e1-48e6-9bf3-c5f23134c960",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "55f18d64-34b8-4900-b0ee-67bfac7e36df": {
+          "id": "55f18d64-34b8-4900-b0ee-67bfac7e36df",
+          "type": "default",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 448.0000068583132,
+              "y": 538.222214214471,
+              "id": "19bb62cc-70cd-4341-8ce3-04dda16399ef",
+              "type": "point"
+            },
+            {
+              "x": 414.33336046006946,
+              "y": 595.0000026053928,
+              "id": "ac1541bb-d306-455c-9178-10cf1642db01",
+              "type": "point"
+            }
+          ],
+          "source": "ba103e4d-83fc-4439-90e3-f02646962cba",
+          "target": "30990f99-36f3-4c4c-845a-ac93985fbd11",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "c0ea1913-ec9d-48d2-ba3d-98bfa73df985",
+          "targetPort": "f2397d53-a191-42ec-89bb-cac1ef9bead2",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "6c3806c5-5d0b-4b1d-a196-8a35641431a1": {
+          "id": "6c3806c5-5d0b-4b1d-a196-8a35641431a1",
+          "type": "default",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1268.0000369352738,
+              "y": 328.88888325664277,
+              "id": "5f4556f2-7be9-475e-a26e-023db49213a1",
+              "type": "point"
+            },
+            {
+              "x": 1131.0000271267363,
+              "y": 407.9999956704503,
+              "id": "753c83c1-3fda-4c68-b633-85fefcb782ea",
+              "type": "point"
+            }
+          ],
+          "source": "7ba96807-af26-446e-bafc-5cb417d81262",
+          "target": "c704f36f-97ae-48ce-8b55-917e83e309cd",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "9525eac7-9107-4e3e-9cdc-759a91a8c6fd",
+          "targetPort": "5b4b8fb6-97d9-4108-bbf6-900ec51e3aad",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "9190dc71-bbe1-4a63-9fcb-4874cb114386": {
+          "id": "9190dc71-bbe1-4a63-9fcb-4874cb114386",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 128.333347318162,
+              "y": 261.66667214565433,
+              "id": "783d0d39-b782-409b-bc4f-a35f6711801c",
+              "type": "point"
+            },
+            {
+              "x": 130.40276478912872,
+              "y": 315.99999199224874,
+              "id": "93b88921-857c-4b00-a86a-d3d9a6d3ee83",
+              "type": "point"
+            }
+          ],
+          "source": "2c88ea19-f549-4694-86e7-bcefcb0c2eac",
+          "target": "fc0ceb06-1977-4c3c-add0-28a92e047bab",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "2fae7075-956e-4ccb-b336-55b1ac7ed16e",
+          "targetPort": "131381f2-db4a-48df-99b8-555e2ab2a5c8",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "962da665-da8d-4641-87ab-f4e9e082fada": {
+          "id": "962da665-da8d-4641-87ab-f4e9e082fada",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 414.33336046006946,
+              "y": 694.6666684674528,
+              "id": "ebb0d0be-befd-4581-a871-f0a5622c43c3",
+              "type": "point"
+            },
+            {
+              "x": 781.0000271267363,
+              "y": 5.000004712695635,
+              "id": "04a41592-4f19-43a2-9c8b-855ca3e511f6",
+              "type": "point"
+            }
+          ],
+          "source": "30990f99-36f3-4c4c-845a-ac93985fbd11",
+          "target": "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "4ffd2f02-f058-4a0d-a009-84db24316336",
+          "targetPort": "78a43340-898a-4faa-a64f-c47b4c8151fb",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "aa6d9f83-e5ea-4247-ac56-ba31d490bda8": {
+          "id": "aa6d9f83-e5ea-4247-ac56-ba31d490bda8",
+          "type": "default",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1048.0000068583136,
+              "y": 655.1111055554943,
+              "id": "37ff0e14-99c0-4177-abbf-6628475589c9",
+              "type": "point"
+            },
+            {
+              "x": 1246.3332911489601,
+              "y": 659.0000344831392,
+              "id": "37f33847-5bfa-4be9-85e4-7f73a4702a68",
+              "type": "point"
+            }
+          ],
+          "source": "bd06267f-7b65-4667-a42e-93333275c500",
+          "target": "2a6f247e-1eff-421b-8622-ef1e9f0d8907",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "d96d4ab9-a57e-4e4e-b7f1-98f42be48c0b",
+          "targetPort": "3b11e875-0ed9-47a1-83f2-68e1a738f612",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "cab82b87-7263-4ee9-81d6-cf368d8ca545": {
+          "id": "cab82b87-7263-4ee9-81d6-cf368d8ca545",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 1131.0000271267363,
+              "y": 517.1111431421159,
+              "id": "d99450e4-f9d7-4348-8adb-9ca01ff7a259",
+              "type": "point"
+            },
+            {
+              "x": 1048.0000068583136,
+              "y": 546.0000165135923,
+              "id": "e01d5967-dd32-461b-9429-0d78855f3bc9",
+              "type": "point"
+            }
+          ],
+          "source": "c704f36f-97ae-48ce-8b55-917e83e309cd",
+          "target": "bd06267f-7b65-4667-a42e-93333275c500",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "ac675535-6494-4433-bd19-b07a071a0e2d",
+          "targetPort": "93a5ac88-ed79-4492-9ebe-9657f3283a41",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "e0f8d091-1f1f-474e-84ba-3ba4a435dfe6": {
+          "id": "e0f8d091-1f1f-474e-84ba-3ba4a435dfe6",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 137.5833191186171,
+              "y": 659.9999870879801,
+              "id": "1eff62db-f1ff-4fc1-961b-51e9dc7bdb6a",
+              "type": "point"
+            },
+            {
+              "x": 381.3333401916466,
+              "y": 21.000000229887547,
+              "id": "bd264c96-2cf9-4624-938f-bb94a24af040",
+              "type": "point"
+            }
+          ],
+          "source": "0b81f57f-50f7-4756-b882-341bffe56aff",
+          "target": "74cd4828-f991-49b2-a191-3a581510a3d9",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "76665833-740a-4235-9035-76ba6c549c73",
+          "targetPort": "e55630be-89b5-4a8d-bf32-80bbb285265d",
+          "selectedColor": "rgb(0,192,255)"
+        },
+        "e9b8e72d-68ee-4455-8681-c93f8a5ad880": {
+          "id": "e9b8e72d-68ee-4455-8681-c93f8a5ad880",
+          "type": "advanced",
+          "color": "gray",
+          "width": 3,
+          "labels": [],
+          "points": [
+            {
+              "x": 130.40276478912872,
+              "y": 387.00002256729886,
+              "id": "797942a2-5717-499b-a267-a056395252df",
+              "type": "point"
+            },
+            {
+              "x": 143.94444582377002,
+              "y": 435.99999812258466,
+              "id": "15466ddc-ae17-41f6-8923-0bbc44bc6dfc",
+              "type": "point"
+            }
+          ],
+          "source": "fc0ceb06-1977-4c3c-add0-28a92e047bab",
+          "target": "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52",
+          "selected": false,
+          "curvyness": 50,
+          "sourcePort": "b70a3479-ec0a-4858-a160-ed8920173824",
+          "targetPort": "eb5aef85-599f-4a97-a255-e3be06f36e7f",
+          "selectedColor": "rgb(0,192,255)"
+        }
+      },
+      "transformed": true
+    },
+    {
+      "id": "ab4d19bd-4619-4188-9289-2470c853f7a9",
+      "type": "diagram-nodes",
+      "isSvg": false,
+      "models": {
+        "0b81f57f-50f7-4756-b882-341bffe56aff": {
+          "x": 29,
+          "y": 590,
+          "id": "0b81f57f-50f7-4756-b882-341bffe56aff",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 127.5833112641243,
+              "y": 578.9999754786567,
+              "id": "79b00d63-2db0-4704-a6b1-f0be68c2144b",
+              "in": true,
+              "name": "in-3ec4d2c1-ccd5-439b-ac78-67b10fe7d878",
+              "type": "default",
+              "links": [
+                "52202d8e-1086-4b10-a15a-5a83df5a2b6e"
+              ],
+              "alignment": "left",
+              "parentNode": "0b81f57f-50f7-4756-b882-341bffe56aff"
+            },
+            {
+              "x": 127.5833112641243,
+              "y": 649.999992643597,
+              "id": "76665833-740a-4235-9035-76ba6c549c73",
+              "in": false,
+              "name": "out-150b5a9f-73ab-48d7-b8d2-582e960d75fd",
+              "type": "default",
+              "links": [
+                "e0f8d091-1f1f-474e-84ba-3ba4a435dfe6"
+              ],
+              "alignment": "right",
+              "parentNode": "0b81f57f-50f7-4756-b882-341bffe56aff"
+            }
+          ],
+          "nodeData": {
+            "id": "0b81f57f-50f7-4756-b882-341bffe56aff",
+            "icon": "email",
+            "type": "js-custom-node",
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-3ec4d2c1-ccd5-439b-ac78-67b10fe7d878",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-150b5a9f-73ab-48d7-b8d2-582e960d75fd",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "EMAIL",
+            "selected": false,
+            "variable": "@email",
+            "userInput": true,
+            "primaryText": "Email",
+            "fix_variable": true,
+            "questionText": "What's your email?",
+            "secondaryText": "Ask for the user email"
+          },
+          "selected": false
+        },
+        "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52": {
+          "x": 6,
+          "y": 437,
+          "id": "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 133.9444236013026,
+              "y": 426.0000036782015,
+              "id": "eb5aef85-599f-4a97-a255-e3be06f36e7f",
+              "in": true,
+              "name": "in-33eae336-535f-4f0b-88a7-ea69ba04b583",
+              "type": "default",
+              "links": [
+                "e9b8e72d-68ee-4455-8681-c93f8a5ad880"
+              ],
+              "alignment": "left",
+              "parentNode": "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52"
+            },
+            {
+              "x": 133.9444236013026,
+              "y": 497.0000514948211,
+              "id": "ff24aefe-75d1-4649-a3e3-41c5902079ed",
+              "in": false,
+              "name": "out-fc745e57-8c83-4775-8424-9fef3e9293ed",
+              "type": "default",
+              "links": [
+                "52202d8e-1086-4b10-a15a-5a83df5a2b6e"
+              ],
+              "alignment": "right",
+              "parentNode": "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52"
+            }
+          ],
+          "nodeData": {
+            "id": "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52",
+            "icon": "dialpad",
+            "type": "js-custom-node",
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-33eae336-535f-4f0b-88a7-ea69ba04b583",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-fc745e57-8c83-4775-8424-9fef3e9293ed",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "PHONE",
+            "selected": false,
+            "variable": "@phone",
+            "userInput": true,
+            "primaryText": "Phone number",
+            "fix_variable": true,
+            "questionText": "What's your phone number?",
+            "secondaryText": "Ask for Phone number"
+          },
+          "selected": false
+        },
+        "2056a9cc-a876-449b-9421-b06908bbb1e8": {
+          "x": 946,
+          "y": 13,
+          "id": "2056a9cc-a876-449b-9421-b06908bbb1e8",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 1047.5276845966732,
+              "y": 1.9999993869663686,
+              "id": "7dbb7362-1bdd-4f6d-ae72-2aede6f90104",
+              "in": true,
+              "name": "in-3afadaed-2812-4f2d-9b08-583598187fb7",
+              "type": "default",
+              "links": [
+                "3cbe874c-a543-4124-bc02-842c6b1045e0"
+              ],
+              "alignment": "left",
+              "parentNode": "2056a9cc-a876-449b-9421-b06908bbb1e8"
+            },
+            {
+              "x": 1157.0555751726304,
+              "y": 93.33334436793781,
+              "id": "a04bfe1a-92e8-451b-a060-82aaf34f48df",
+              "in": false,
+              "name": "out-a02c58d6-1f6f-465b-b784-74c57dcc814a",
+              "text": "Change detail from start",
+              "type": "default",
+              "links": [
+                "17098adf-c821-425b-af25-d31c103f30d3"
+              ],
+              "alignment": "right",
+              "parentNode": "2056a9cc-a876-449b-9421-b06908bbb1e8"
+            },
+            {
+              "x": 1157.0555751726304,
+              "y": 127.9999950957313,
+              "id": "132bf4d4-a109-4a70-be13-9f527720a88f",
+              "in": false,
+              "name": "out-8c506544-9c44-40ac-b165-edca2b0fdd7d",
+              "text": "continue",
+              "type": "default",
+              "links": [
+                "4ab2df04-18ce-4319-8b2b-38a10536dd4a"
+              ],
+              "alignment": "right",
+              "parentNode": "2056a9cc-a876-449b-9421-b06908bbb1e8"
+            },
+            {
+              "x": 1157.0555751726304,
+              "y": 162.6666458235248,
+              "id": "f271657f-6052-4fee-a6e4-13425981c2fe",
+              "in": false,
+              "name": "out-89279e9b-5024-43f9-ade2-a7953ba655e0",
+              "text": "abort",
+              "type": "default",
+              "links": [
+                "23dcc053-0e47-48a5-99a2-5d232468190a"
+              ],
+              "alignment": "right",
+              "parentNode": "2056a9cc-a876-449b-9421-b06908bbb1e8"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "2056a9cc-a876-449b-9421-b06908bbb1e8",
+            "icon": "playlist_add_check",
+            "type": "js-custom-node",
+            "locked": false,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-3afadaed-2812-4f2d-9b08-583598187fb7",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-a02c58d6-1f6f-465b-b784-74c57dcc814a",
+                "linkType": "out",
+                "componentProps": {
+                  "text": "Change detail from start",
+                  "type": "Button"
+                }
+              },
+              {
+                "in": false,
+                "name": "out-8c506544-9c44-40ac-b165-edca2b0fdd7d",
+                "linkType": "out",
+                "componentProps": {
+                  "text": "continue",
+                  "type": "Button"
+                }
+              },
+              {
+                "in": false,
+                "name": "out-89279e9b-5024-43f9-ade2-a7953ba655e0",
+                "linkType": "out",
+                "componentProps": {
+                  "text": "abort",
+                  "type": "Button"
+                }
+              }
+            ],
+            "multiple": true,
+            "nodeType": "MULTI_CHOICE",
+            "selected": false,
+            "userInput": true,
+            "primaryText": "Multiple Choice",
+            "questionText": "What's your choice?",
+            "secondaryText": "Make multiple choices"
+          },
+          "selected": false
+        },
+        "2a6f247e-1eff-421b-8622-ef1e9f0d8907": {
+          "x": 1145,
+          "y": 660,
+          "id": "2a6f247e-1eff-421b-8622-ef1e9f0d8907",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 1236.3333235247962,
+              "y": 649.0000122606717,
+              "id": "3b11e875-0ed9-47a1-83f2-68e1a738f612",
+              "in": true,
+              "name": "in-3d7c0704-3c2e-4632-8732-18d53716c647",
+              "type": "default",
+              "links": [
+                "aa6d9f83-e5ea-4247-ac56-ba31d490bda8"
+              ],
+              "alignment": "left",
+              "parentNode": "2a6f247e-1eff-421b-8622-ef1e9f0d8907"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "2a6f247e-1eff-421b-8622-ef1e9f0d8907",
+            "icon": "pan_tool",
+            "type": "js-custom-node",
+            "locked": false,
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-3d7c0704-3c2e-4632-8732-18d53716c647",
+                "linkType": "in"
+              }
+            ],
+            "messages": [
+              "Thank you"
+            ],
+            "nodeType": "END",
+            "selected": false,
+            "primaryText": "End of the chat"
+          },
+          "selected": false
+        },
+        "2c88ea19-f549-4694-86e7-bcefcb0c2eac": {
+          "x": 27,
+          "y": 163,
+          "id": "2c88ea19-f549-4694-86e7-bcefcb0c2eac",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 118.33333946366918,
+              "y": 151.9999993869664,
+              "id": "5d45b3fc-0551-42a7-bfda-486865e672a0",
+              "in": true,
+              "name": "in-edffe3d2-5fd3-4f29-b48f-e22ce47e798f",
+              "type": "default",
+              "links": [
+                "17098adf-c821-425b-af25-d31c103f30d3",
+                "29bedc5b-ae30-4dde-8737-684ff96b4277"
+              ],
+              "alignment": "left",
+              "parentNode": "2c88ea19-f549-4694-86e7-bcefcb0c2eac"
+            },
+            {
+              "x": 118.33333946366918,
+              "y": 251.6666777012712,
+              "id": "2fae7075-956e-4ccb-b336-55b1ac7ed16e",
+              "in": false,
+              "name": "out-9bf9de00-f904-40e1-80b8-ff9ab4e4144b",
+              "type": "default",
+              "links": [
+                "9190dc71-bbe1-4a63-9fcb-4874cb114386"
+              ],
+              "alignment": "right",
+              "parentNode": "2c88ea19-f549-4694-86e7-bcefcb0c2eac"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "2c88ea19-f549-4694-86e7-bcefcb0c2eac",
+            "icon": "message",
+            "type": "js-custom-node",
+            "locked": false,
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-edffe3d2-5fd3-4f29-b48f-e22ce47e798f",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-9bf9de00-f904-40e1-80b8-ff9ab4e4144b",
+                "linkType": "out"
+              }
+            ],
+            "messages": [
+              "Hello, you are connected to XYZ Hospital chat-bot. Please provide following information for making an appointment."
+            ],
+            "nodeType": "MESSAGE",
+            "selected": false,
+            "primaryText": "Messages",
+            "secondaryText": "Messages"
+          },
+          "selected": false
+        },
+        "30990f99-36f3-4c4c-845a-ac93985fbd11": {
+          "x": 313,
+          "y": 596,
+          "id": "30990f99-36f3-4c4c-845a-ac93985fbd11",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 404.33333823760205,
+              "y": 584.9999803829253,
+              "id": "f2397d53-a191-42ec-89bb-cac1ef9bead2",
+              "in": true,
+              "name": "in-edffe3d2-5fd3-4f29-b48f-e22ce47e798f",
+              "type": "default",
+              "links": [
+                "55f18d64-34b8-4900-b0ee-67bfac7e36df"
+              ],
+              "alignment": "left",
+              "parentNode": "30990f99-36f3-4c4c-845a-ac93985fbd11"
+            },
+            {
+              "x": 404.33333823760205,
+              "y": 684.6666740230697,
+              "id": "4ffd2f02-f058-4a0d-a009-84db24316336",
+              "in": false,
+              "name": "out-9bf9de00-f904-40e1-80b8-ff9ab4e4144b",
+              "type": "default",
+              "links": [
+                "962da665-da8d-4641-87ab-f4e9e082fada"
+              ],
+              "alignment": "right",
+              "parentNode": "30990f99-36f3-4c4c-845a-ac93985fbd11"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "30990f99-36f3-4c4c-845a-ac93985fbd11",
+            "icon": "message",
+            "type": "js-custom-node",
+            "locked": false,
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-edffe3d2-5fd3-4f29-b48f-e22ce47e798f",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-9bf9de00-f904-40e1-80b8-ff9ab4e4144b",
+                "linkType": "out"
+              }
+            ],
+            "messages": [
+              "Thank you, we will take your symptoms into consideration."
+            ],
+            "nodeType": "MESSAGE",
+            "selected": false,
+            "primaryText": "Messages",
+            "secondaryText": "Messages"
+          },
+          "selected": false
+        },
+        "74cd4828-f991-49b2-a191-3a581510a3d9": {
+          "x": 280,
+          "y": 22,
+          "id": "74cd4828-f991-49b2-a191-3a581510a3d9",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 371.3333725674828,
+              "y": 10.999999080449577,
+              "id": "e55630be-89b5-4a8d-bf32-80bbb285265d",
+              "in": true,
+              "name": "in-edffe3d2-5fd3-4f29-b48f-e22ce47e798f",
+              "type": "default",
+              "links": [
+                "e0f8d091-1f1f-474e-84ba-3ba4a435dfe6"
+              ],
+              "alignment": "left",
+              "parentNode": "74cd4828-f991-49b2-a191-3a581510a3d9"
+            },
+            {
+              "x": 371.3333725674828,
+              "y": 110.66666973183456,
+              "id": "1e615337-3d59-4b0b-8172-18854179ecca",
+              "in": false,
+              "name": "out-9bf9de00-f904-40e1-80b8-ff9ab4e4144b",
+              "type": "default",
+              "links": [
+                "02155844-63d8-4cf6-a361-3ea8dbb8241c"
+              ],
+              "alignment": "right",
+              "parentNode": "74cd4828-f991-49b2-a191-3a581510a3d9"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "74cd4828-f991-49b2-a191-3a581510a3d9",
+            "icon": "message",
+            "type": "js-custom-node",
+            "locked": false,
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-edffe3d2-5fd3-4f29-b48f-e22ce47e798f",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-9bf9de00-f904-40e1-80b8-ff9ab4e4144b",
+                "linkType": "out"
+              }
+            ],
+            "messages": [
+              "Thank you for providing basic details for appointment"
+            ],
+            "nodeType": "MESSAGE",
+            "selected": false,
+            "primaryText": "Messages",
+            "secondaryText": "Messages"
+          },
+          "selected": false
+        },
+        "7ba96807-af26-446e-bafc-5cb417d81262": {
+          "x": 958,
+          "y": 219,
+          "id": "7ba96807-af26-446e-bafc-5cb417d81262",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 1104.000093181105,
+              "y": 208.00001961707468,
+              "id": "d79cfc94-e0e4-4cdc-9964-054e73971ebb",
+              "in": true,
+              "name": "in-9a38de0f-1757-4b35-a81c-c456a477d254",
+              "type": "default",
+              "links": [
+                "4ab2df04-18ce-4319-8b2b-38a10536dd4a"
+              ],
+              "alignment": "left",
+              "parentNode": "7ba96807-af26-446e-bafc-5cb417d81262"
+            },
+            {
+              "x": 1258.0000147128062,
+              "y": 318.88887540215,
+              "id": "9525eac7-9107-4e3e-9cdc-759a91a8c6fd",
+              "in": false,
+              "name": "out-158004f0-a27e-404a-b4f0-96961d171194",
+              "text": "Yes",
+              "type": "default",
+              "links": [
+                "6c3806c5-5d0b-4b1d-a196-8a35641431a1"
+              ],
+              "alignment": "right",
+              "parentNode": "7ba96807-af26-446e-bafc-5cb417d81262"
+            },
+            {
+              "x": 1258.0000147128062,
+              "y": 353.5555567816227,
+              "id": "36d7444c-b582-4b46-9cec-5034e420e0c9",
+              "in": false,
+              "name": "out-57c72f65-49e2-4be1-95f1-e5ff94bb9532",
+              "text": "No",
+              "type": "default",
+              "links": [
+                "559b0247-55b0-49e6-bc93-e07136d06637"
+              ],
+              "alignment": "right",
+              "parentNode": "7ba96807-af26-446e-bafc-5cb417d81262"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "7ba96807-af26-446e-bafc-5cb417d81262",
+            "icon": "call_split",
+            "type": "js-custom-node",
+            "locked": false,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-9a38de0f-1757-4b35-a81c-c456a477d254",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-158004f0-a27e-404a-b4f0-96961d171194",
+                "linkType": "out",
+                "componentProps": {
+                  "text": "Yes",
+                  "type": "Button"
+                }
+              },
+              {
+                "in": false,
+                "name": "out-57c72f65-49e2-4be1-95f1-e5ff94bb9532",
+                "linkType": "out",
+                "componentProps": {
+                  "text": "No",
+                  "type": "Button"
+                }
+              }
+            ],
+            "multiple": true,
+            "nodeType": "YES_NO",
+            "selected": false,
+            "userInput": true,
+            "primaryText": "Yes/No",
+            "questionText": "Do you want to make an appointment?",
+            "secondaryText": "Make a yes/no choice"
+          },
+          "selected": false
+        },
+        "94c34543-b832-43a4-b277-1f0704c14c45": {
+          "x": 26,
+          "y": 17,
+          "id": "94c34543-b832-43a4-b277-1f0704c14c45",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 117.33335908074389,
+              "y": 105.66666053633078,
+              "id": "9342c7f3-835a-4d14-864d-da61d2bddad5",
+              "in": false,
+              "name": "out-1e18aa17-541c-404e-b98f-312b83e29572",
+              "type": "default",
+              "links": [
+                "29bedc5b-ae30-4dde-8737-684ff96b4277"
+              ],
+              "alignment": "right",
+              "parentNode": "94c34543-b832-43a4-b277-1f0704c14c45"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "94c34543-b832-43a4-b277-1f0704c14c45",
+            "icon": "flag",
+            "type": "js-custom-node",
+            "locked": false,
+            "message": true,
+            "portOpt": [
+              {
+                "in": false,
+                "name": "out-1e18aa17-541c-404e-b98f-312b83e29572",
+                "linkType": "out"
+              }
+            ],
+            "messages": [
+              "XYZ Hospital"
+            ],
+            "nodeType": "INIT",
+            "selected": false,
+            "primaryText": "Welcome",
+            "secondaryText": "Start of the flow"
+          },
+          "selected": false
+        },
+        "ba103e4d-83fc-4439-90e3-f02646962cba": {
+          "x": 292,
+          "y": 191,
+          "id": "ba103e4d-83fc-4439-90e3-f02646962cba",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 438.0000392341494,
+              "y": 180.00000183910075,
+              "id": "d320cfcb-b3aa-402f-a01e-013b2f07f9b6",
+              "in": true,
+              "name": "in-0f3b18d9-b88d-41ef-aeb2-1c3390016382",
+              "type": "default",
+              "links": [
+                "02155844-63d8-4cf6-a361-3ea8dbb8241c"
+              ],
+              "alignment": "left",
+              "parentNode": "ba103e4d-83fc-4439-90e3-f02646962cba"
+            },
+            {
+              "x": 438.0000392341494,
+              "y": 528.2222197700879,
+              "id": "c0ea1913-ec9d-48d2-ba3d-98bfa73df985",
+              "in": false,
+              "name": "out-15ce3c61-c595-4988-80a2-9f60ff5e0be5",
+              "type": "default",
+              "links": [
+                "55f18d64-34b8-4900-b0ee-67bfac7e36df"
+              ],
+              "alignment": "right",
+              "parentNode": "ba103e4d-83fc-4439-90e3-f02646962cba"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "ba103e4d-83fc-4439-90e3-f02646962cba",
+            "icon": "check_box",
+            "type": "js-custom-node",
+            "locked": false,
+            "choices": [
+              "Fever",
+              "Fatigue",
+              "Coughing",
+              "Cold",
+              "Stomach ache",
+              "Head ache",
+              "other"
+            ],
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-0f3b18d9-b88d-41ef-aeb2-1c3390016382",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-15ce3c61-c595-4988-80a2-9f60ff5e0be5",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "MULTIPLE_CHECK_BOX",
+            "selected": false,
+            "variable": "@symptoms",
+            "userInput": true,
+            "primaryText": "Multiple Check Box",
+            "questionText": "Please select from following symptoms:",
+            "secondaryText": "Give Multiple Choices"
+          },
+          "selected": false
+        },
+        "bd06267f-7b65-4667-a42e-93333275c500": {
+          "x": 892,
+          "y": 547,
+          "id": "bd06267f-7b65-4667-a42e-93333275c500",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 1038.0000392341497,
+              "y": 536.0000220692091,
+              "id": "93a5ac88-ed79-4492-9ebe-9657f3283a41",
+              "in": true,
+              "name": "in-8a9f3d9d-6506-487b-9d97-962c23eaa574",
+              "type": "default",
+              "links": [
+                "cab82b87-7263-4ee9-81d6-cf368d8ca545"
+              ],
+              "alignment": "left",
+              "parentNode": "bd06267f-7b65-4667-a42e-93333275c500"
+            },
+            {
+              "x": 1038.0000392341497,
+              "y": 645.1111111111111,
+              "id": "d96d4ab9-a57e-4e4e-b7f1-98f42be48c0b",
+              "in": false,
+              "name": "out-62b0fedd-674b-4599-9d2a-83a58a68f21c",
+              "type": "default",
+              "links": [
+                "aa6d9f83-e5ea-4247-ac56-ba31d490bda8"
+              ],
+              "alignment": "right",
+              "parentNode": "bd06267f-7b65-4667-a42e-93333275c500"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "bd06267f-7b65-4667-a42e-93333275c500",
+            "icon": "contact_mail",
+            "type": "js-custom-node",
+            "locked": false,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-8a9f3d9d-6506-487b-9d97-962c23eaa574",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-62b0fedd-674b-4599-9d2a-83a58a68f21c",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "SEND_EMAIL",
+            "selected": true,
+            "primaryText": "Send Email",
+            "sendMailObj": {
+              "content": "Hello, your appointment by name @name, has been scheduled on date: @date (Time will be notified later). \nYour mentioned symptoms: @symptoms\nYour mentioned health problems: @diseases\n\nFor more information you can visit our website www.xyz.com.\n\nFor any update, we will contact you at @phone.\n\nThank you",
+              "subject": "Appointment in XYZ Hospital by Mr./Ms. @name",
+              "to_email": "@email",
+              "from_email": "autovistateam@gmail.com"
+            },
+            "questionText": "email is sent to you on your registered mail id if not please check the spam folder also.",
+            "secondaryText": "Send Email to Specified Address"
+          },
+          "selected": true
+        },
+        "c704f36f-97ae-48ce-8b55-917e83e309cd": {
+          "x": 975,
+          "y": 409,
+          "id": "c704f36f-97ae-48ce-8b55-917e83e309cd",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 1121.000004904269,
+              "y": 398.0000012260672,
+              "id": "5b4b8fb6-97d9-4108-bbf6-900ec51e3aad",
+              "in": true,
+              "name": "in-82b0a598-27b0-4783-9edb-33b323f8e436",
+              "type": "default",
+              "links": [
+                "6c3806c5-5d0b-4b1d-a196-8a35641431a1"
+              ],
+              "alignment": "left",
+              "parentNode": "c704f36f-97ae-48ce-8b55-917e83e309cd"
+            },
+            {
+              "x": 1121.000004904269,
+              "y": 507.11112091964844,
+              "id": "ac675535-6494-4433-bd19-b07a071a0e2d",
+              "in": false,
+              "name": "out-f7f3464f-7529-4f83-a7b2-3bc63ae4320b",
+              "type": "default",
+              "links": [
+                "cab82b87-7263-4ee9-81d6-cf368d8ca545"
+              ],
+              "alignment": "right",
+              "parentNode": "c704f36f-97ae-48ce-8b55-917e83e309cd"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "c704f36f-97ae-48ce-8b55-917e83e309cd",
+            "icon": "date_range",
+            "type": "js-custom-node",
+            "locked": false,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-82b0a598-27b0-4783-9edb-33b323f8e436",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-f7f3464f-7529-4f83-a7b2-3bc63ae4320b",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "DATE",
+            "selected": false,
+            "variable": "@date",
+            "userInput": true,
+            "dateFormat": "DD-MM-YYYY",
+            "primaryText": "Date",
+            "questionText": "Please provide date for your appointment. Kindly don't provide a date for more than a week later.",
+            "secondaryText": "Ask for Date"
+          },
+          "selected": false
+        },
+        "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c": {
+          "x": 625,
+          "y": 6,
+          "id": "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 771.0000049042688,
+              "y": -4.999993563147411,
+              "id": "78a43340-898a-4faa-a64f-c47b4c8151fb",
+              "in": true,
+              "name": "in-0f3b18d9-b88d-41ef-aeb2-1c3390016382",
+              "type": "default",
+              "links": [
+                "962da665-da8d-4641-87ab-f4e9e082fada"
+              ],
+              "alignment": "left",
+              "parentNode": "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c"
+            },
+            {
+              "x": 771.0000049042688,
+              "y": 447.2222148658192,
+              "id": "50b299b4-c90b-4eac-8b27-82315bf45e32",
+              "in": false,
+              "name": "out-15ce3c61-c595-4988-80a2-9f60ff5e0be5",
+              "type": "default",
+              "links": [
+                "33950fc6-522e-4b7f-8c2d-a5ba1e73250f"
+              ],
+              "alignment": "right",
+              "parentNode": "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c",
+            "icon": "check_box",
+            "type": "js-custom-node",
+            "locked": false,
+            "choices": [
+              "Overweight and Obesity",
+              "Substance Abuse",
+              "HIV/AIDS",
+              "Mental Health",
+              "heart disease",
+              "diabetes",
+              "kidney disease",
+              "cancer",
+              "other",
+              "none"
+            ],
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-0f3b18d9-b88d-41ef-aeb2-1c3390016382",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-15ce3c61-c595-4988-80a2-9f60ff5e0be5",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "MULTIPLE_CHECK_BOX",
+            "selected": false,
+            "variable": "@diseases",
+            "userInput": true,
+            "primaryText": "Multiple Check Box",
+            "questionText": "Please select if you have among the following health problems: ",
+            "secondaryText": "Give Multiple Choices"
+          },
+          "selected": false
+        },
+        "d8269d39-68ee-4ece-b68b-5d48f42ffcfa": {
+          "x": 1187,
+          "y": 33,
+          "id": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 1278.333357854677,
+              "y": 22.000005517302217,
+              "id": "a55bbd59-88e1-48e6-9bf3-c5f23134c960",
+              "in": true,
+              "name": "in-3d7c0704-3c2e-4632-8732-18d53716c647",
+              "type": "default",
+              "links": [
+                "23dcc053-0e47-48a5-99a2-5d232468190a",
+                "559b0247-55b0-49e6-bc93-e07136d06637"
+              ],
+              "alignment": "left",
+              "parentNode": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa",
+            "icon": "pan_tool",
+            "type": "js-custom-node",
+            "locked": false,
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-3d7c0704-3c2e-4632-8732-18d53716c647",
+                "linkType": "in"
+              }
+            ],
+            "messages": [
+              "Thank you, stay healthy!"
+            ],
+            "nodeType": "END",
+            "selected": false,
+            "primaryText": "End of the chat"
+          },
+          "selected": false
+        },
+        "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434": {
+          "x": 651,
+          "y": 594,
+          "id": "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 742.3333284290647,
+              "y": 583.0000196170747,
+              "id": "431c9109-d87a-44de-bbf4-b444577a7366",
+              "in": true,
+              "name": "in-edffe3d2-5fd3-4f29-b48f-e22ce47e798f",
+              "type": "default",
+              "links": [
+                "33950fc6-522e-4b7f-8c2d-a5ba1e73250f"
+              ],
+              "alignment": "left",
+              "parentNode": "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434"
+            },
+            {
+              "x": 742.3333284290647,
+              "y": 682.6667132572192,
+              "id": "2c7c4c24-17a9-4b69-9f03-13c010396f64",
+              "in": false,
+              "name": "out-9bf9de00-f904-40e1-80b8-ff9ab4e4144b",
+              "type": "default",
+              "links": [
+                "3cbe874c-a543-4124-bc02-842c6b1045e0"
+              ],
+              "alignment": "right",
+              "parentNode": "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434"
+            }
+          ],
+          "locked": false,
+          "nodeData": {
+            "id": "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434",
+            "icon": "message",
+            "type": "js-custom-node",
+            "locked": false,
+            "message": true,
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-edffe3d2-5fd3-4f29-b48f-e22ce47e798f",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-9bf9de00-f904-40e1-80b8-ff9ab4e4144b",
+                "linkType": "out"
+              }
+            ],
+            "messages": [
+              "Thank you, we will take your health problems into consideration."
+            ],
+            "nodeType": "MESSAGE",
+            "selected": false,
+            "primaryText": "Messages",
+            "secondaryText": "Messages"
+          },
+          "selected": false
+        },
+        "fc0ceb06-1977-4c3c-add0-28a92e047bab": {
+          "x": 20,
+          "y": 317,
+          "id": "fc0ceb06-1977-4c3c-add0-28a92e047bab",
+          "type": "js-custom-node",
+          "ports": [
+            {
+              "x": 120.40275693463592,
+              "y": 305.99999754786563,
+              "id": "131381f2-db4a-48df-99b8-555e2ab2a5c8",
+              "in": true,
+              "name": "in-a56aa6fa-ef2f-4a0d-8561-d284254f9f64",
+              "type": "default",
+              "links": [
+                "9190dc71-bbe1-4a63-9fcb-4874cb114386"
+              ],
+              "alignment": "left",
+              "parentNode": "fc0ceb06-1977-4c3c-add0-28a92e047bab"
+            },
+            {
+              "x": 120.40275693463592,
+              "y": 377.00001471280603,
+              "id": "b70a3479-ec0a-4858-a160-ed8920173824",
+              "in": false,
+              "name": "out-78f59bb1-240b-4056-9062-a798b4ab3505",
+              "type": "default",
+              "links": [
+                "e9b8e72d-68ee-4455-8681-c93f8a5ad880"
+              ],
+              "alignment": "right",
+              "parentNode": "fc0ceb06-1977-4c3c-add0-28a92e047bab"
+            }
+          ],
+          "nodeData": {
+            "id": "fc0ceb06-1977-4c3c-add0-28a92e047bab",
+            "icon": "person",
+            "type": "js-custom-node",
+            "portOpt": [
+              {
+                "in": true,
+                "name": "in-a56aa6fa-ef2f-4a0d-8561-d284254f9f64",
+                "linkType": "in"
+              },
+              {
+                "in": false,
+                "name": "out-78f59bb1-240b-4056-9062-a798b4ab3505",
+                "linkType": "out"
+              }
+            ],
+            "nodeType": "USERNAME",
+            "selected": false,
+            "variable": "@name",
+            "userInput": true,
+            "primaryText": "Name",
+            "fix_variable": true,
+            "questionText": "What's your Name?",
+            "secondaryText": "Ask for Name"
+          },
+          "selected": false
+        }
+      },
+      "transformed": true
+    }
+  ],
+  "offsetX": 0.8312500000000098,
+  "offsetY": 1.023750000000047,
+  "gridSize": 0
+}
+
+
+bot_data_json:
+
+{
+  "0b81f57f-50f7-4756-b882-341bffe56aff": {
+    "id": "0b81f57f-50f7-4756-b882-341bffe56aff",
+    "icon": "email",
+    "nodeType": "EMAIL",
+    "targetId": "74cd4828-f991-49b2-a191-3a581510a3d9",
+    "variable": "@email",
+    "userInput": true,
+    "fix_variable": true,
+    "questionText": "What's your email?"
+  },
+  "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52": {
+    "id": "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52",
+    "icon": "dialpad",
+    "nodeType": "PHONE",
+    "targetId": "0b81f57f-50f7-4756-b882-341bffe56aff",
+    "variable": "@phone",
+    "userInput": true,
+    "fix_variable": true,
+    "questionText": "What's your phone number?"
+  },
+  "2056a9cc-a876-449b-9421-b06908bbb1e8": {
+    "id": "2056a9cc-a876-449b-9421-b06908bbb1e8",
+    "icon": "playlist_add_check",
+    "input": "in-3afadaed-2812-4f2d-9b08-583598187fb7",
+    "buttons": [
+      {
+        "text": "Change detail from start",
+        "targetId": "2c88ea19-f549-4694-86e7-bcefcb0c2eac"
+      },
+      {
+        "text": "continue",
+        "targetId": "7ba96807-af26-446e-bafc-5cb417d81262"
+      },
+      {
+        "text": "abort",
+        "targetId": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa"
+      }
+    ],
+    "multiple": true,
+    "nodeType": "MULTI_CHOICE",
+    "userInput": true,
+    "questionText": "What's your choice?"
+  },
+  "2a6f247e-1eff-421b-8622-ef1e9f0d8907": {
+    "id": "2a6f247e-1eff-421b-8622-ef1e9f0d8907",
+    "icon": "pan_tool",
+    "message": true,
+    "messages": [
+      "Thank you"
+    ],
+    "nodeType": "END",
+    "targetId": ""
+  },
+  "2c88ea19-f549-4694-86e7-bcefcb0c2eac": {
+    "id": "2c88ea19-f549-4694-86e7-bcefcb0c2eac",
+    "icon": "message",
+    "message": true,
+    "messages": [
+      "Hello, you are connected to XYZ Hospital chat-bot. Please provide following information for making an appointment."
+    ],
+    "nodeType": "MESSAGE",
+    "targetId": "fc0ceb06-1977-4c3c-add0-28a92e047bab"
+  },
+  "30990f99-36f3-4c4c-845a-ac93985fbd11": {
+    "id": "30990f99-36f3-4c4c-845a-ac93985fbd11",
+    "icon": "message",
+    "message": true,
+    "messages": [
+      "Thank you, we will take your symptoms into consideration."
+    ],
+    "nodeType": "MESSAGE",
+    "targetId": "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c"
+  },
+  "74cd4828-f991-49b2-a191-3a581510a3d9": {
+    "id": "74cd4828-f991-49b2-a191-3a581510a3d9",
+    "icon": "message",
+    "message": true,
+    "messages": [
+      "Thank you for providing basic details for appointment"
+    ],
+    "nodeType": "MESSAGE",
+    "targetId": "ba103e4d-83fc-4439-90e3-f02646962cba"
+  },
+  "7ba96807-af26-446e-bafc-5cb417d81262": {
+    "id": "7ba96807-af26-446e-bafc-5cb417d81262",
+    "icon": "call_split",
+    "input": "in-9a38de0f-1757-4b35-a81c-c456a477d254",
+    "buttons": [
+      {
+        "text": "Yes",
+        "targetId": "c704f36f-97ae-48ce-8b55-917e83e309cd"
+      },
+      {
+        "text": "No",
+        "targetId": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa"
+      }
+    ],
+    "multiple": true,
+    "nodeType": "YES_NO",
+    "userInput": true,
+    "questionText": "Do you want to make an appointment?"
+  },
+  "94c34543-b832-43a4-b277-1f0704c14c45": {
+    "id": "94c34543-b832-43a4-b277-1f0704c14c45",
+    "icon": "flag",
+    "message": true,
+    "messages": [
+      "XYZ Hospital"
+    ],
+    "nodeType": "INIT",
+    "targetId": "2c88ea19-f549-4694-86e7-bcefcb0c2eac"
+  },
+  "ba103e4d-83fc-4439-90e3-f02646962cba": {
+    "id": "ba103e4d-83fc-4439-90e3-f02646962cba",
+    "icon": "check_box",
+    "choices": [
+      "Fever",
+      "Fatigue",
+      "Coughing",
+      "Cold",
+      "Stomach ache",
+      "Head ache",
+      "other"
+    ],
+    "nodeType": "MULTIPLE_CHECK_BOX",
+    "targetId": "30990f99-36f3-4c4c-845a-ac93985fbd11",
+    "variable": "@symptoms",
+    "userInput": true,
+    "questionText": "Please select from following symptoms:"
+  },
+  "bd06267f-7b65-4667-a42e-93333275c500": {
+    "id": "bd06267f-7b65-4667-a42e-93333275c500",
+    "icon": "contact_mail",
+    "nodeType": "SEND_EMAIL",
+    "targetId": "2a6f247e-1eff-421b-8622-ef1e9f0d8907",
+    "sendMailObj": {
+      "content": "Hello, your appointment by name @name, has been scheduled on date: @date (Time will be notified later). \nYour mentioned symptoms: @symptoms\nYour mentioned health problems: @diseases\n\nFor more information you can visit our website www.xyz.com.\n\nFor any update, we will contact you at @phone.\n\nThank you",
+      "subject": "Appointment in XYZ Hospital by Mr./Ms. @name",
+      "to_email": "@email",
+      "from_email": "autovistateam@gmail.com"
+    },
+    "questionText": "email is sent to you on your registered mail id if not please check the spam folder also."
+  },
+  "c704f36f-97ae-48ce-8b55-917e83e309cd": {
+    "id": "c704f36f-97ae-48ce-8b55-917e83e309cd",
+    "icon": "date_range",
+    "nodeType": "DATE",
+    "targetId": "bd06267f-7b65-4667-a42e-93333275c500",
+    "variable": "@date",
+    "userInput": true,
+    "dateFormat": "DD-MM-YYYY",
+    "questionText": "Please provide date for your appointment. Kindly don't provide a date for more than a week later."
+  },
+  "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c": {
+    "id": "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c",
+    "icon": "check_box",
+    "choices": [
+      "Overweight and Obesity",
+      "Substance Abuse",
+      "HIV/AIDS",
+      "Mental Health",
+      "heart disease",
+      "diabetes",
+      "kidney disease",
+      "cancer",
+      "other",
+      "none"
+    ],
+    "nodeType": "MULTIPLE_CHECK_BOX",
+    "targetId": "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434",
+    "variable": "@diseases",
+    "userInput": true,
+    "questionText": "Please select if you have among the following health problems: "
+  },
+  "d8269d39-68ee-4ece-b68b-5d48f42ffcfa": {
+    "id": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa",
+    "icon": "pan_tool",
+    "message": true,
+    "messages": [
+      "Thank you, stay healthy!"
+    ],
+    "nodeType": "END",
+    "targetId": ""
+  },
+  "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434": {
+    "id": "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434",
+    "icon": "message",
+    "message": true,
+    "messages": [
+      "Thank you, we will take your health problems into consideration."
+    ],
+    "nodeType": "MESSAGE",
+    "targetId": "2056a9cc-a876-449b-9421-b06908bbb1e8"
+  },
+  "fc0ceb06-1977-4c3c-add0-28a92e047bab": {
+    "id": "fc0ceb06-1977-4c3c-add0-28a92e047bab",
+    "icon": "person",
+    "nodeType": "USERNAME",
+    "targetId": "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52",
+    "variable": "@name",
+    "userInput": true,
+    "fix_variable": true,
+    "questionText": "What's your Name?"
+  }
+}
+
+bot_variable_json:
+
+{
+  "0b81f57f-50f7-4756-b882-341bffe56aff": {
+    "id": "0b81f57f-50f7-4756-b882-341bffe56aff",
+    "icon": "email",
+    "nodeType": "EMAIL",
+    "targetId": "74cd4828-f991-49b2-a191-3a581510a3d9",
+    "variable": "@email",
+    "userInput": true,
+    "fix_variable": true,
+    "questionText": "What's your email?"
+  },
+  "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52": {
+    "id": "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52",
+    "icon": "dialpad",
+    "nodeType": "PHONE",
+    "targetId": "0b81f57f-50f7-4756-b882-341bffe56aff",
+    "variable": "@phone",
+    "userInput": true,
+    "fix_variable": true,
+    "questionText": "What's your phone number?"
+  },
+  "2056a9cc-a876-449b-9421-b06908bbb1e8": {
+    "id": "2056a9cc-a876-449b-9421-b06908bbb1e8",
+    "icon": "playlist_add_check",
+    "input": "in-3afadaed-2812-4f2d-9b08-583598187fb7",
+    "buttons": [
+      {
+        "text": "Change detail from start",
+        "targetId": "2c88ea19-f549-4694-86e7-bcefcb0c2eac"
+      },
+      {
+        "text": "continue",
+        "targetId": "7ba96807-af26-446e-bafc-5cb417d81262"
+      },
+      {
+        "text": "abort",
+        "targetId": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa"
+      }
+    ],
+    "multiple": true,
+    "nodeType": "MULTI_CHOICE",
+    "userInput": true,
+    "questionText": "What's your choice?"
+  },
+  "2a6f247e-1eff-421b-8622-ef1e9f0d8907": {
+    "id": "2a6f247e-1eff-421b-8622-ef1e9f0d8907",
+    "icon": "pan_tool",
+    "message": true,
+    "messages": [
+      "Thank you"
+    ],
+    "nodeType": "END",
+    "targetId": ""
+  },
+  "2c88ea19-f549-4694-86e7-bcefcb0c2eac": {
+    "id": "2c88ea19-f549-4694-86e7-bcefcb0c2eac",
+    "icon": "message",
+    "message": true,
+    "messages": [
+      "Hello, you are connected to XYZ Hospital chat-bot. Please provide following information for making an appointment."
+    ],
+    "nodeType": "MESSAGE",
+    "targetId": "fc0ceb06-1977-4c3c-add0-28a92e047bab"
+  },
+  "30990f99-36f3-4c4c-845a-ac93985fbd11": {
+    "id": "30990f99-36f3-4c4c-845a-ac93985fbd11",
+    "icon": "message",
+    "message": true,
+    "messages": [
+      "Thank you, we will take your symptoms into consideration."
+    ],
+    "nodeType": "MESSAGE",
+    "targetId": "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c"
+  },
+  "74cd4828-f991-49b2-a191-3a581510a3d9": {
+    "id": "74cd4828-f991-49b2-a191-3a581510a3d9",
+    "icon": "message",
+    "message": true,
+    "messages": [
+      "Thank you for providing basic details for appointment"
+    ],
+    "nodeType": "MESSAGE",
+    "targetId": "ba103e4d-83fc-4439-90e3-f02646962cba"
+  },
+  "7ba96807-af26-446e-bafc-5cb417d81262": {
+    "id": "7ba96807-af26-446e-bafc-5cb417d81262",
+    "icon": "call_split",
+    "input": "in-9a38de0f-1757-4b35-a81c-c456a477d254",
+    "buttons": [
+      {
+        "text": "Yes",
+        "targetId": "c704f36f-97ae-48ce-8b55-917e83e309cd"
+      },
+      {
+        "text": "No",
+        "targetId": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa"
+      }
+    ],
+    "multiple": true,
+    "nodeType": "YES_NO",
+    "userInput": true,
+    "questionText": "Do you want to make an appointment?"
+  },
+  "94c34543-b832-43a4-b277-1f0704c14c45": {
+    "id": "94c34543-b832-43a4-b277-1f0704c14c45",
+    "icon": "flag",
+    "message": true,
+    "messages": [
+      "XYZ Hospital"
+    ],
+    "nodeType": "INIT",
+    "targetId": "2c88ea19-f549-4694-86e7-bcefcb0c2eac"
+  },
+  "ba103e4d-83fc-4439-90e3-f02646962cba": {
+    "id": "ba103e4d-83fc-4439-90e3-f02646962cba",
+    "icon": "check_box",
+    "choices": [
+      "Fever",
+      "Fatigue",
+      "Coughing",
+      "Cold",
+      "Stomach ache",
+      "Head ache",
+      "other"
+    ],
+    "nodeType": "MULTIPLE_CHECK_BOX",
+    "targetId": "30990f99-36f3-4c4c-845a-ac93985fbd11",
+    "variable": "@symptoms",
+    "userInput": true,
+    "questionText": "Please select from following symptoms:"
+  },
+  "bd06267f-7b65-4667-a42e-93333275c500": {
+    "id": "bd06267f-7b65-4667-a42e-93333275c500",
+    "icon": "contact_mail",
+    "nodeType": "SEND_EMAIL",
+    "targetId": "2a6f247e-1eff-421b-8622-ef1e9f0d8907",
+    "sendMailObj": {
+      "content": "Hello, your appointment by name @name, has been scheduled on date: @date (Time will be notified later). \nYour mentioned symptoms: @symptoms\nYour mentioned health problems: @diseases\n\nFor more information you can visit our website www.xyz.com.\n\nFor any update, we will contact you at @phone.\n\nThank you",
+      "subject": "Appointment in XYZ Hospital by Mr./Ms. @name",
+      "to_email": "@email",
+      "from_email": "autovistateam@gmail.com"
+    },
+    "questionText": "email is sent to you on your registered mail id if not please check the spam folder also."
+  },
+  "c704f36f-97ae-48ce-8b55-917e83e309cd": {
+    "id": "c704f36f-97ae-48ce-8b55-917e83e309cd",
+    "icon": "date_range",
+    "nodeType": "DATE",
+    "targetId": "bd06267f-7b65-4667-a42e-93333275c500",
+    "variable": "@date",
+    "userInput": true,
+    "dateFormat": "DD-MM-YYYY",
+    "questionText": "Please provide date for your appointment. Kindly don't provide a date for more than a week later."
+  },
+  "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c": {
+    "id": "d7507d8e-356c-4cae-9f52-0cfd0fa45f8c",
+    "icon": "check_box",
+    "choices": [
+      "Overweight and Obesity",
+      "Substance Abuse",
+      "HIV/AIDS",
+      "Mental Health",
+      "heart disease",
+      "diabetes",
+      "kidney disease",
+      "cancer",
+      "other",
+      "none"
+    ],
+    "nodeType": "MULTIPLE_CHECK_BOX",
+    "targetId": "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434",
+    "variable": "@diseases",
+    "userInput": true,
+    "questionText": "Please select if you have among the following health problems: "
+  },
+  "d8269d39-68ee-4ece-b68b-5d48f42ffcfa": {
+    "id": "d8269d39-68ee-4ece-b68b-5d48f42ffcfa",
+    "icon": "pan_tool",
+    "message": true,
+    "messages": [
+      "Thank you, stay healthy!"
+    ],
+    "nodeType": "END",
+    "targetId": ""
+  },
+  "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434": {
+    "id": "f58dd8f1-dcd2-4a4c-94d8-dee0cb70d434",
+    "icon": "message",
+    "message": true,
+    "messages": [
+      "Thank you, we will take your health problems into consideration."
+    ],
+    "nodeType": "MESSAGE",
+    "targetId": "2056a9cc-a876-449b-9421-b06908bbb1e8"
+  },
+  "fc0ceb06-1977-4c3c-add0-28a92e047bab": {
+    "id": "fc0ceb06-1977-4c3c-add0-28a92e047bab",
+    "icon": "person",
+    "nodeType": "USERNAME",
+    "targetId": "1b1c57cf-632c-4f92-8f7f-ba0f1adb5a52",
+    "variable": "@name",
+    "userInput": true,
+    "fix_variable": true,
+    "questionText": "What's your Name?"
+  }
+}
+
+
+bot_type: whatsapp

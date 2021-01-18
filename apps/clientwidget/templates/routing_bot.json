@@ -1,0 +1,386 @@
+{
+    "bot_full_json": {
+      "id": "96941cdc-d4bf-41ee-ae1a-125a8dfca9a7",
+      "offsetX": -34,
+      "offsetY": 124,
+      "zoom": 100,
+      "gridSize": 0,
+      "layers": [
+        {
+          "id": "0e5cb5f8-2c08-4fd2-b2ec-e704df721690",
+          "type": "diagram-links",
+          "isSvg": true,
+          "transformed": true,
+          "models": {
+            "4c060ebd-de9e-4299-8e90-218032692ef9": {
+              "id": "4c060ebd-de9e-4299-8e90-218032692ef9",
+              "type": "advanced",
+              "selected": false,
+              "source": "c05658ce-5d6a-489b-b85d-929f18e08f69",
+              "sourcePort": "2df62c28-7e34-4b18-bf2b-e99e5b71ec1b",
+              "target": "920cb10f-081f-4b85-9e8a-edc3ba1aa0d6",
+              "targetPort": "a5b3a85f-f707-4609-a4a9-dd2a5f6ccd60",
+              "points": [
+                {
+                  "id": "fd3b028f-0259-4de7-b800-c0603d88f391",
+                  "type": "point",
+                  "x": 548.203125,
+                  "y": 86
+                },
+                {
+                  "id": "a6048792-816a-4dde-a928-2e8699fe69fb",
+                  "type": "point",
+                  "x": 531.703125,
+                  "y": 422
+                }
+              ],
+              "labels": [],
+              "width": 3,
+              "color": "gray",
+              "curvyness": 50,
+              "selectedColor": "rgb(0,192,255)"
+            },
+            "5cf4668e-7a65-4dc3-b0c8-515fae3ce2e3": {
+              "id": "5cf4668e-7a65-4dc3-b0c8-515fae3ce2e3",
+              "type": "advanced",
+              "selected": false,
+              "source": "c05658ce-5d6a-489b-b85d-929f18e08f69",
+              "sourcePort": "8b0e598c-a692-455f-9ef0-4b59b765f0e3",
+              "target": "60639684-7606-4e4d-9313-a826a1de1078",
+              "targetPort": "e4b89473-2d4c-4204-8a97-3f9ede722d7b",
+              "points": [
+                {
+                  "id": "8df1b0c6-0047-465f-8e49-a64dc2d5f268",
+                  "type": "point",
+                  "x": 548.203125,
+                  "y": 120
+                },
+                {
+                  "id": "fec47d61-87f0-4e88-85cf-ace39eaeb45d",
+                  "type": "point",
+                  "x": 850.8125,
+                  "y": 74
+                }
+              ],
+              "labels": [],
+              "width": 3,
+              "color": "gray",
+              "curvyness": 50,
+              "selectedColor": "rgb(0,192,255)"
+            },
+            "89228546-19bf-4bd6-940d-379c72d705b7": {
+              "id": "89228546-19bf-4bd6-940d-379c72d705b7",
+              "type": "default",
+              "selected": false,
+              "source": "1d53097f-9819-4e46-8f2d-ba2606bbbec1",
+              "sourcePort": "ec33be7f-19c7-48f2-b279-04b6f4b253ee",
+              "target": "c05658ce-5d6a-489b-b85d-929f18e08f69",
+              "targetPort": "72993597-d5f6-42a8-8429-bf410a510bd1",
+              "points": [
+                {
+                  "id": "62b3b8e7-6829-4880-aa23-d1a89e8d4502",
+                  "type": "point",
+                  "x": 103.5,
+                  "y": 87
+                },
+                {
+                  "id": "997234c8-70f1-4ab5-9d1c-1e2c8febf197",
+                  "type": "point",
+                  "x": 457.09375,
+                  "y": 16
+                }
+              ],
+              "labels": [],
+              "width": 3,
+              "color": "gray",
+              "curvyness": 50,
+              "selectedColor": "rgb(0,192,255)"
+            },
+            "b9f4250b-dd1e-48ad-a735-87d524b1351e": {
+              "id": "b9f4250b-dd1e-48ad-a735-87d524b1351e",
+              "type": "advanced",
+              "selected": false,
+              "source": "920cb10f-081f-4b85-9e8a-edc3ba1aa0d6",
+              "sourcePort": "958389cb-5754-4dc6-9148-e71c1c17c6db",
+              "target": "e130ee8b-53fd-476e-bc54-85745dc7142b",
+              "targetPort": "f280c817-6cdc-4cd4-ad86-fc0ee155855f",
+              "points": [
+                {
+                  "id": "3ffd97dc-3845-4f7a-af91-f2f295573a1a",
+                  "type": "point",
+                  "x": 531.703125,
+                  "y": 493
+                },
+                {
+                  "id": "d8a25242-ebb8-440e-9bd6-3e8502e8c8a5",
+                  "type": "point",
+                  "x": 376.8125,
+                  "y": 570
+                }
+              ],
+              "labels": [],
+              "width": 3,
+              "color": "gray",
+              "curvyness": 50,
+              "selectedColor": "rgb(0,192,255)"
+            }
+          }
+        },
+        {
+          "id": "42c4b643-fc51-47d1-869f-15477acc8c10",
+          "type": "diagram-nodes",
+          "isSvg": false,
+          "transformed": true,
+          "models": {
+            "1d53097f-9819-4e46-8f2d-ba2606bbbec1": {
+              "id": "1d53097f-9819-4e46-8f2d-ba2606bbbec1",
+              "type": "js-custom-node",
+              "selected": false,
+              "x": 15,
+              "y": -11,
+              "ports": [
+                {
+                  "id": "ec33be7f-19c7-48f2-b279-04b6f4b253ee",
+                  "type": "default",
+                  "x": 93.5,
+                  "y": 77,
+                  "name": "out-362d1a0b-ad39-4d48-8c38-6a80169ea227",
+                  "alignment": "right",
+                  "parentNode": "1d53097f-9819-4e46-8f2d-ba2606bbbec1",
+                  "links": ["89228546-19bf-4bd6-940d-379c72d705b7"],
+                  "in": false
+                }
+              ],
+              "nodeData": {
+                "id": "1d53097f-9819-4e46-8f2d-ba2606bbbec1",
+                "icon": "flag",
+                "type": "js-custom-node",
+                "message": true,
+                "portOpt": [
+                  {
+                    "in": false,
+                    "name": "out-362d1a0b-ad39-4d48-8c38-6a80169ea227",
+                    "linkType": "out"
+                  }
+                ],
+                "messages": ["Hi there!"],
+                "nodeType": "INIT",
+                "selected": false,
+                "primaryText": "Welcome",
+                "secondaryText": "Start of the flow"
+              }
+            },
+            "60639684-7606-4e4d-9313-a826a1de1078": {
+              "id": "60639684-7606-4e4d-9313-a826a1de1078",
+              "type": "js-custom-node",
+              "x": 740,
+              "y": 75,
+              "ports": [
+                {
+                  "id": "e4b89473-2d4c-4204-8a97-3f9ede722d7b",
+                  "type": "default",
+                  "x": 840.8125,
+                  "y": 64,
+                  "name": "in-530bead2-fcef-4ba9-b84b-b9d5e48c320a",
+                  "alignment": "left",
+                  "parentNode": "60639684-7606-4e4d-9313-a826a1de1078",
+                  "links": ["5cf4668e-7a65-4dc3-b0c8-515fae3ce2e3"],
+                  "in": true
+                }
+              ],
+              "nodeData": {
+                "id": "60639684-7606-4e4d-9313-a826a1de1078",
+                "icon": "pan_tool",
+                "type": "js-custom-node",
+                "message": true,
+                "portOpt": [
+                  {
+                    "in": true,
+                    "name": "in-530bead2-fcef-4ba9-b84b-b9d5e48c320a",
+                    "linkType": "in"
+                  }
+                ],
+                "messages": ["Bye"],
+                "nodeType": "END",
+                "primaryText": "End of the chat"
+              }
+            },
+            "920cb10f-081f-4b85-9e8a-edc3ba1aa0d6": {
+              "id": "920cb10f-081f-4b85-9e8a-edc3ba1aa0d6",
+              "type": "js-custom-node",
+              "x": 402,
+              "y": 423,
+              "ports": [
+                {
+                  "id": "a5b3a85f-f707-4609-a4a9-dd2a5f6ccd60",
+                  "type": "default",
+                  "x": 521.703125,
+                  "y": 412,
+                  "name": "in-437aa658-2b9e-4827-87ab-728afe67deb2",
+                  "alignment": "left",
+                  "parentNode": "920cb10f-081f-4b85-9e8a-edc3ba1aa0d6",
+                  "links": ["4c060ebd-de9e-4299-8e90-218032692ef9"],
+                  "in": true
+                },
+                {
+                  "id": "958389cb-5754-4dc6-9148-e71c1c17c6db",
+                  "type": "default",
+                  "x": 521.703125,
+                  "y": 483,
+                  "name": "out-493f8d82-4838-42be-9028-a1ab6d7a7a72",
+                  "alignment": "right",
+                  "parentNode": "920cb10f-081f-4b85-9e8a-edc3ba1aa0d6",
+                  "links": ["b9f4250b-dd1e-48ad-a735-87d524b1351e"],
+                  "in": false
+                }
+              ],
+              "nodeData": {
+                "id": "920cb10f-081f-4b85-9e8a-edc3ba1aa0d6",
+                "icon": "date_range",
+                "type": "js-custom-node",
+                "isDate": true,
+                "isTime": false,
+                "portOpt": [
+                  {
+                    "in": true,
+                    "name": "in-437aa658-2b9e-4827-87ab-728afe67deb2",
+                    "linkType": "in"
+                  },
+                  {
+                    "in": false,
+                    "name": "out-493f8d82-4838-42be-9028-a1ab6d7a7a72",
+                    "linkType": "out"
+                  }
+                ],
+                "nodeType": "DATE",
+                "userInput": true,
+                "dateFormat": "DD-MM-YYYY",
+                "isPrevDate": false,
+                "primaryText": "Date",
+                "questionText": "Select a Date, please",
+                "secondaryText": "Ask for Date"
+              }
+            },
+            "c05658ce-5d6a-489b-b85d-929f18e08f69": {
+              "id": "c05658ce-5d6a-489b-b85d-929f18e08f69",
+              "locked": true,
+              "type": "js-custom-node",
+              "selected": true,
+              "x": 364,
+              "y": 17,
+              "ports": [
+                {
+                  "id": "72993597-d5f6-42a8-8429-bf410a510bd1",
+                  "type": "default",
+                  "x": 447.09375,
+                  "y": 6,
+                  "name": "in-a62241d3-0493-43e0-b33f-58586851b326",
+                  "alignment": "left",
+                  "parentNode": "c05658ce-5d6a-489b-b85d-929f18e08f69",
+                  "links": ["89228546-19bf-4bd6-940d-379c72d705b7"],
+                  "in": true
+                },
+                {
+                  "id": "2df62c28-7e34-4b18-bf2b-e99e5b71ec1b",
+                  "type": "default",
+                  "x": 538.203125,
+                  "y": 76,
+                  "name": "out-c84b2dc2-d439-4fbc-a2dd-619a3f6627dc",
+                  "alignment": "right",
+                  "parentNode": "c05658ce-5d6a-489b-b85d-929f18e08f69",
+                  "links": ["4c060ebd-de9e-4299-8e90-218032692ef9"],
+                  "in": false,
+                  "text": "Default"
+                },
+                {
+                  "id": "8b0e598c-a692-455f-9ef0-4b59b765f0e3",
+                  "type": "default",
+                  "x": 538.203125,
+                  "y": 110,
+                  "name": "out-8b150e3f-09bb-43a4-9b12-029f5b3db657",
+                  "alignment": "right",
+                  "parentNode": "c05658ce-5d6a-489b-b85d-929f18e08f69",
+                  "links": ["5cf4668e-7a65-4dc3-b0c8-515fae3ce2e3"],
+                  "in": false,
+                  "text": "400"
+                }
+              ],
+              "nodeData": {
+                "id": "c05658ce-5d6a-489b-b85d-929f18e08f69",
+                "icon": "playlist_add_check",
+                "type": "js-custom-node",
+                "locked": true,
+                "portOpt": [
+                  {
+                    "in": true,
+                    "name": "in-a62241d3-0493-43e0-b33f-58586851b326",
+                    "linkType": "in"
+                  },
+                  {
+                    "in": false,
+                    "name": "out-c84b2dc2-d439-4fbc-a2dd-619a3f6627dc",
+                    "linkType": "out",
+                    "componentProps": { "text": "Default", "type": "Button" }
+                  },
+                  {
+                    "in": false,
+                    "name": "out-8b150e3f-09bb-43a4-9b12-029f5b3db657",
+                    "linkType": "out",
+                    "componentProps": { "text": "400", "type": "Button" }
+                  }
+                ],
+                "multiple": true,
+                "nodeType": "WEBHOOK",
+                "selected": true,
+                "webhookUrl": "https://app.asana.com/0/1194342871213649/board",
+                "primaryText": "Webhook",
+                "queryParams": {},
+                "requestBody": {},
+                "requestType": "POST",
+                "secondaryText": "Webhook",
+                "blocking": true,
+                "requestHeaders": {},
+                "routingComponent": {}
+              }
+            },
+            "e130ee8b-53fd-476e-bc54-85745dc7142b": {
+              "id": "e130ee8b-53fd-476e-bc54-85745dc7142b",
+              "type": "js-custom-node",
+              "x": 266,
+              "y": 571,
+              "ports": [
+                {
+                  "id": "f280c817-6cdc-4cd4-ad86-fc0ee155855f",
+                  "type": "default",
+                  "x": 366.8125,
+                  "y": 560,
+                  "name": "in-9f11c0a7-dda4-4a4e-9db8-68e7ab7d8f01",
+                  "alignment": "left",
+                  "parentNode": "e130ee8b-53fd-476e-bc54-85745dc7142b",
+                  "links": ["b9f4250b-dd1e-48ad-a735-87d524b1351e"],
+                  "in": true
+                }
+              ],
+              "nodeData": {
+                "id": "e130ee8b-53fd-476e-bc54-85745dc7142b",
+                "icon": "pan_tool",
+                "type": "js-custom-node",
+                "message": true,
+                "portOpt": [
+                  {
+                    "in": true,
+                    "name": "in-9f11c0a7-dda4-4a4e-9db8-68e7ab7d8f01",
+                    "linkType": "in"
+                  }
+                ],
+                "messages": ["Bye"],
+                "nodeType": "END",
+                "primaryText": "End of the chat"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+  

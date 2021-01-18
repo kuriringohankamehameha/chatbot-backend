@@ -1,0 +1,1052 @@
+{
+    "bot_full_json": {
+        "id": "8a618b3e-5a80-4f55-8361-35ec922d0616",
+        "zoom": 100,
+        "layers": [
+            {
+                "id": "56cba045-fd92-4425-be3c-c54c3d8f12ba",
+                "type": "diagram-links",
+                "isSvg": true,
+                "models": {
+                    "29e9da97-9e42-456a-af9f-064dcba0a303": {
+                        "id": "29e9da97-9e42-456a-af9f-064dcba0a303",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 796.046875,
+                                "y": 483,
+                                "id": "8b0e483a-811e-429b-bc48-8a2438310f83",
+                                "type": "point"
+                            },
+                            {
+                                "x": 678,
+                                "y": 580,
+                                "id": "56321e95-57e6-47b4-b304-7f3561062e19",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "ba129b1c-5926-40c2-91fb-802dde86ba5c",
+                        "target": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "0291f754-3a43-45af-a1e7-3c7b537a5e71",
+                        "targetPort": "f2b90259-739c-4ae6-90cb-f14e171fbcf4",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "87be4e68-a28e-463f-be6c-88e3733283c3": {
+                        "id": "87be4e68-a28e-463f-be6c-88e3733283c3",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 796.046875,
+                                "y": 517,
+                                "id": "8f8d782f-f8a0-4d8f-9f98-bccd24f8beaa",
+                                "type": "point"
+                            },
+                            {
+                                "x": 678,
+                                "y": 580,
+                                "id": "d49c3068-5966-40f4-a47b-e2ebdd583378",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "ba129b1c-5926-40c2-91fb-802dde86ba5c",
+                        "target": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "8b2c52cc-fb61-4dce-9381-7acbdd920906",
+                        "targetPort": "f2b90259-739c-4ae6-90cb-f14e171fbcf4",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "8bfa6b1b-493b-4884-acd5-c50dc7da19f0": {
+                        "id": "8bfa6b1b-493b-4884-acd5-c50dc7da19f0",
+                        "type": "default",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 596.046875,
+                                "y": 245,
+                                "id": "a0d5965b-4c69-40d1-a439-8a4338bafdd1",
+                                "type": "point"
+                            },
+                            {
+                                "x": 671.015625,
+                                "y": 391,
+                                "id": "984d7739-783b-4e4e-ae18-f42dd7a52dfa",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f",
+                        "target": "ba129b1c-5926-40c2-91fb-802dde86ba5c",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "4705fadc-3bf5-4132-b3aa-9bbeac8fe356",
+                        "targetPort": "866c06b0-e49d-46ae-9a8c-1fb86cceefbc",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "a4934604-5300-4f2a-b3aa-8f0bee8870ea": {
+                        "id": "a4934604-5300-4f2a-b3aa-8f0bee8870ea",
+                        "type": "default",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 596.046875,
+                                "y": 279,
+                                "id": "a752367a-96e5-45e0-94a9-e0aace5f5d8a",
+                                "type": "point"
+                            },
+                            {
+                                "x": 671.015625,
+                                "y": 391,
+                                "id": "2399981c-53c0-4004-a8cb-76023cd8e674",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f",
+                        "target": "ba129b1c-5926-40c2-91fb-802dde86ba5c",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "046d31c6-b332-4ba4-be86-3b15c20921fc",
+                        "targetPort": "866c06b0-e49d-46ae-9a8c-1fb86cceefbc",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "a50799c3-2fc1-478e-b08a-67c39508ab2b": {
+                        "id": "a50799c3-2fc1-478e-b08a-67c39508ab2b",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 137,
+                                "y": 598,
+                                "id": "ca336445-cab8-4c29-a123-3808714d1cbe",
+                                "type": "point"
+                            },
+                            {
+                                "x": 197.90625,
+                                "y": 301,
+                                "id": "ad26a57f-8061-404e-b758-f18ced7d6cf8",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "943a7a07-a4e8-423e-a30d-98c9ab4ab06e",
+                        "target": "dd24d3d1-4749-4dc2-bbbe-e56e28724657",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "d6575774-96b1-4f53-9730-2debc9eca411",
+                        "targetPort": "d113798c-02a0-45f8-a5c3-2e9536884cde",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "a81045e4-7184-41a0-8293-c1d2f6b3d67e": {
+                        "id": "a81045e4-7184-41a0-8293-c1d2f6b3d67e",
+                        "type": "default",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 678,
+                                "y": 755,
+                                "id": "f411c031-0d10-4f58-bdf9-b073a3a6e849",
+                                "type": "point"
+                            },
+                            {
+                                "x": 209.09375,
+                                "y": 797,
+                                "id": "343d38ca-477a-468e-bd45-d909818e6b30",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e",
+                        "target": "e09cb0d7-620b-462a-9432-1bc094f92bb5",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "1b1e48a4-72dc-4efa-abc9-5e94ebc9e9cb",
+                        "targetPort": "6ae5e08c-4262-47aa-bc3f-b593f9fce8ab",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "ab39bb1d-51ad-412f-9af4-2c7b061f4350": {
+                        "id": "ab39bb1d-51ad-412f-9af4-2c7b061f4350",
+                        "type": "default",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 44.5,
+                                "y": 383,
+                                "id": "cee612a6-0f77-4793-85e7-ccc6a9a12b19",
+                                "type": "point"
+                            },
+                            {
+                                "x": 137,
+                                "y": 507,
+                                "id": "5a8aaafb-c809-4ad3-92ee-9438bfe98d3f",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "a9a0258a-10d6-4eca-8182-02727bf4aea9",
+                        "target": "943a7a07-a4e8-423e-a30d-98c9ab4ab06e",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "8086eb75-40b9-4a24-9c13-9eff7dfb8385",
+                        "targetPort": "52347e59-b09d-438c-8cbb-31fc70ad7a17",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "ad25b3db-851c-48f1-b0f0-f1467ebcdf76": {
+                        "id": "ad25b3db-851c-48f1-b0f0-f1467ebcdf76",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 300.203125,
+                                "y": 867,
+                                "id": "428248e5-509b-4707-9fd2-cfa73e6b563c",
+                                "type": "point"
+                            },
+                            {
+                                "x": 486.8125,
+                                "y": 886,
+                                "id": "36d82c65-9b81-4c2b-b0fe-c64e93b7618a",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "e09cb0d7-620b-462a-9432-1bc094f92bb5",
+                        "target": "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "2afbb547-5a29-4d36-a9e3-444c4416cebb",
+                        "targetPort": "c0ca9e16-041c-45a8-a57a-93278301ed9c",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "b8c9d27f-3b50-4f1e-86dc-1552940d37c3": {
+                        "id": "b8c9d27f-3b50-4f1e-86dc-1552940d37c3",
+                        "type": "default",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 203.703125,
+                                "y": 477,
+                                "id": "ef693b82-e061-4c1d-b7f4-6d96b407a460",
+                                "type": "point"
+                            },
+                            {
+                                "x": 471.015625,
+                                "y": 153,
+                                "id": "21ca3442-7fae-4e70-9f91-8febbd3f119b",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "5173a1ad-81b1-4a6f-b05a-27374e7921e3",
+                        "target": "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "3049145c-5661-42eb-ae5f-f4c534e5c22c",
+                        "targetPort": "03ff109c-8540-48bb-bf33-ad6ba44d0d3e",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "c85e9913-4006-4da0-832c-67e6219a2212": {
+                        "id": "c85e9913-4006-4da0-832c-67e6219a2212",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 197.90625,
+                                "y": 372,
+                                "id": "1dd12786-b79c-4c3c-9662-90c3a43c62ea",
+                                "type": "point"
+                            },
+                            {
+                                "x": 203.703125,
+                                "y": 406,
+                                "id": "83a90054-c33a-4718-a5a5-20437911ed98",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "dd24d3d1-4749-4dc2-bbbe-e56e28724657",
+                        "target": "5173a1ad-81b1-4a6f-b05a-27374e7921e3",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "e0468fd3-011c-4930-a695-e2308c3e186c",
+                        "targetPort": "4cf070bb-30ef-437b-bf6c-84c742f668d4",
+                        "selectedColor": "rgb(0,192,255)"
+                    }
+                },
+                "transformed": true
+            },
+            {
+                "id": "8ceeef39-34a2-499e-82da-ffb878b1caa3",
+                "type": "diagram-nodes",
+                "isSvg": false,
+                "models": {
+                    "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d": {
+                        "x": 376,
+                        "y": 887,
+                        "id": "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 476.8125,
+                                "y": 876,
+                                "id": "c0ca9e16-041c-45a8-a57a-93278301ed9c",
+                                "in": true,
+                                "name": "in-aee75cad-cfb8-4a7b-a483-091ce38d1224",
+                                "type": "default",
+                                "links": [
+                                    "ad25b3db-851c-48f1-b0f0-f1467ebcdf76"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d",
+                            "icon": "pan_tool",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "message": true,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-aee75cad-cfb8-4a7b-a483-091ce38d1224",
+                                    "linkType": "in"
+                                }
+                            ],
+                            "messages": [
+                                "Bye"
+                            ],
+                            "nodeType": "END",
+                            "selected": false,
+                            "primaryText": "End of the chat"
+                        },
+                        "selected": false
+                    },
+                    "5173a1ad-81b1-4a6f-b05a-27374e7921e3": {
+                        "x": 74,
+                        "y": 407,
+                        "id": "5173a1ad-81b1-4a6f-b05a-27374e7921e3",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 193.703125,
+                                "y": 396,
+                                "id": "4cf070bb-30ef-437b-bf6c-84c742f668d4",
+                                "in": true,
+                                "name": "in-d4728faa-131e-4964-8d9d-cf85277211b1",
+                                "type": "default",
+                                "links": [
+                                    "c85e9913-4006-4da0-832c-67e6219a2212"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "5173a1ad-81b1-4a6f-b05a-27374e7921e3"
+                            },
+                            {
+                                "x": 193.703125,
+                                "y": 467,
+                                "id": "3049145c-5661-42eb-ae5f-f4c534e5c22c",
+                                "in": false,
+                                "name": "out-fa5f3056-1735-487f-aca1-05408675e408",
+                                "type": "default",
+                                "links": [
+                                    "b8c9d27f-3b50-4f1e-86dc-1552940d37c3"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "5173a1ad-81b1-4a6f-b05a-27374e7921e3"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "5173a1ad-81b1-4a6f-b05a-27374e7921e3",
+                            "icon": "date_range",
+                            "type": "js-custom-node",
+                            "isDate": true,
+                            "isTime": false,
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-d4728faa-131e-4964-8d9d-cf85277211b1",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-fa5f3056-1735-487f-aca1-05408675e408",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "nodeType": "DATE",
+                            "selected": false,
+                            "variable": "@date",
+                            "userInput": true,
+                            "dateFormat": "DD-MM-YYYY",
+                            "isPrevDate": false,
+                            "isLeadField": true,
+                            "primaryText": "Date",
+                            "questionText": "Select a Date, please",
+                            "secondaryText": "Ask for Date"
+                        },
+                        "selected": false
+                    },
+                    "6132b60d-73a3-4e13-88e3-9602cf1b1d3e": {
+                        "x": 522,
+                        "y": 581,
+                        "id": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 668,
+                                "y": 570,
+                                "id": "f2b90259-739c-4ae6-90cb-f14e171fbcf4",
+                                "in": true,
+                                "name": "in-9a4262f0-6058-47bd-bcd9-b06122a655a3",
+                                "type": "default",
+                                "links": [
+                                    "29e9da97-9e42-456a-af9f-064dcba0a303",
+                                    "87be4e68-a28e-463f-be6c-88e3733283c3"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e"
+                            },
+                            {
+                                "x": 668,
+                                "y": 745,
+                                "id": "1b1e48a4-72dc-4efa-abc9-5e94ebc9e9cb",
+                                "in": false,
+                                "name": "out-c804f65e-5316-42a8-8571-fa721b4505f7",
+                                "type": "default",
+                                "links": [
+                                    "a81045e4-7184-41a0-8293-c1d2f6b3d67e"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e",
+                            "icon": "check_box",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "choices": [
+                                "option 1 @name",
+                                "option 2 @date"
+                            ],
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-9a4262f0-6058-47bd-bcd9-b06122a655a3",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-c804f65e-5316-42a8-8571-fa721b4505f7",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "nodeType": "MULTIPLE_CHECK_BOX",
+                            "selected": false,
+                            "userInput": true,
+                            "primaryText": "Multiple Check Box",
+                            "questionText": "Select the Option of Your Interest",
+                            "secondaryText": "Give Multiple Choices"
+                        },
+                        "selected": false
+                    },
+                    "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f": {
+                        "x": 344,
+                        "y": 154,
+                        "id": "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 461.015625,
+                                "y": 143,
+                                "id": "03ff109c-8540-48bb-bf33-ad6ba44d0d3e",
+                                "in": true,
+                                "name": "in-dc08f269-6267-4236-9578-10ac2dcfcfbb",
+                                "type": "default",
+                                "links": [
+                                    "b8c9d27f-3b50-4f1e-86dc-1552940d37c3"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f"
+                            },
+                            {
+                                "x": 586.046875,
+                                "y": 235,
+                                "id": "4705fadc-3bf5-4132-b3aa-9bbeac8fe356",
+                                "in": false,
+                                "name": "out-7968ba7a-d11d-4039-8388-ab95ea4f98ec",
+                                "text": "This is @date",
+                                "type": "default",
+                                "links": [
+                                    "8bfa6b1b-493b-4884-acd5-c50dc7da19f0"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f"
+                            },
+                            {
+                                "x": 586.046875,
+                                "y": 269,
+                                "id": "046d31c6-b332-4ba4-be86-3b15c20921fc",
+                                "in": false,
+                                "name": "out-bd177327-0858-48a9-8c16-5b9b69c05046",
+                                "text": "This is @name",
+                                "type": "default",
+                                "links": [
+                                    "a4934604-5300-4f2a-b3aa-8f0bee8870ea"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f",
+                            "icon": "playlist_add_check",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-dc08f269-6267-4236-9578-10ac2dcfcfbb",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-7968ba7a-d11d-4039-8388-ab95ea4f98ec",
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "text": "This is @date",
+                                        "type": "Button"
+                                    }
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-bd177327-0858-48a9-8c16-5b9b69c05046",
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "text": "This is @name",
+                                        "type": "Button"
+                                    }
+                                }
+                            ],
+                            "multiple": true,
+                            "nodeType": "MULTI_CHOICE",
+                            "selected": false,
+                            "userInput": true,
+                            "primaryText": "Multiple Choice",
+                            "questionText": "What's your choice?",
+                            "secondaryText": "Make multiple choices"
+                        },
+                        "selected": false
+                    },
+                    "943a7a07-a4e8-423e-a30d-98c9ab4ab06e": {
+                        "x": -19,
+                        "y": 508,
+                        "id": "943a7a07-a4e8-423e-a30d-98c9ab4ab06e",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 127,
+                                "y": 497,
+                                "id": "52347e59-b09d-438c-8cbb-31fc70ad7a17",
+                                "in": true,
+                                "name": "in-4f3f0db1-ed00-4cbd-94c2-e9239e64fdf5",
+                                "type": "default",
+                                "links": [
+                                    "ab39bb1d-51ad-412f-9af4-2c7b061f4350"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "943a7a07-a4e8-423e-a30d-98c9ab4ab06e"
+                            },
+                            {
+                                "x": 127,
+                                "y": 588,
+                                "id": "d6575774-96b1-4f53-9730-2debc9eca411",
+                                "in": false,
+                                "name": "out-a7c51f82-12f9-4022-8086-e2d370e46045",
+                                "type": "default",
+                                "links": [
+                                    "a50799c3-2fc1-478e-b08a-67c39508ab2b"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "943a7a07-a4e8-423e-a30d-98c9ab4ab06e"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "943a7a07-a4e8-423e-a30d-98c9ab4ab06e",
+                            "icon": "sentiment_very_satisfied",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-4f3f0db1-ed00-4cbd-94c2-e9239e64fdf5",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-a7c51f82-12f9-4022-8086-e2d370e46045",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "nodeType": "RATING",
+                            "selected": false,
+                            "variable": "@feedback",
+                            "userInput": true,
+                            "rating_max": 5,
+                            "isLeadField": true,
+                            "primaryText": "Rating & Feedback",
+                            "rating_type": "emoji",
+                            "questionText": "Please rate this chat and provide necessary feedback",
+                            "secondaryText": "Create a evaluation",
+                            "feedback_input": true
+                        },
+                        "selected": false
+                    },
+                    "a9a0258a-10d6-4eca-8182-02727bf4aea9": {
+                        "x": -44,
+                        "y": 149,
+                        "id": "a9a0258a-10d6-4eca-8182-02727bf4aea9",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 34.5,
+                                "y": 373,
+                                "id": "8086eb75-40b9-4a24-9c13-9eff7dfb8385",
+                                "in": false,
+                                "name": "out-8cb40378-af62-44af-a105-07be3fc07fb4",
+                                "type": "default",
+                                "links": [
+                                    "ab39bb1d-51ad-412f-9af4-2c7b061f4350"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "a9a0258a-10d6-4eca-8182-02727bf4aea9"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "a9a0258a-10d6-4eca-8182-02727bf4aea9",
+                            "icon": "flag",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "message": true,
+                            "portOpt": [
+                                {
+                                    "in": false,
+                                    "name": "out-8cb40378-af62-44af-a105-07be3fc07fb4",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "messages": [
+                                "Hi",
+                                "There",
+                                "How",
+                                "Are",
+                                "You?"
+                            ],
+                            "nodeType": "INIT",
+                            "selected": false,
+                            "primaryText": "Welcome",
+                            "secondaryText": "Start of the flow"
+                        },
+                        "selected": false
+                    },
+                    "ba129b1c-5926-40c2-91fb-802dde86ba5c": {
+                        "x": 544,
+                        "y": 392,
+                        "id": "ba129b1c-5926-40c2-91fb-802dde86ba5c",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 661.015625,
+                                "y": 381,
+                                "id": "866c06b0-e49d-46ae-9a8c-1fb86cceefbc",
+                                "in": true,
+                                "name": "in-1e06a82b-64ea-4b04-824c-2a02801d13fa",
+                                "type": "default",
+                                "links": [
+                                    "8bfa6b1b-493b-4884-acd5-c50dc7da19f0",
+                                    "a4934604-5300-4f2a-b3aa-8f0bee8870ea"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "ba129b1c-5926-40c2-91fb-802dde86ba5c"
+                            },
+                            {
+                                "x": 786.046875,
+                                "y": 473,
+                                "id": "0291f754-3a43-45af-a1e7-3c7b537a5e71",
+                                "in": false,
+                                "name": "out-13e56a2c-5405-4b41-8fe4-e5e7012d21be",
+                                "text": "Yes",
+                                "type": "default",
+                                "links": [
+                                    "29e9da97-9e42-456a-af9f-064dcba0a303"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "ba129b1c-5926-40c2-91fb-802dde86ba5c"
+                            },
+                            {
+                                "x": 786.046875,
+                                "y": 507,
+                                "id": "8b2c52cc-fb61-4dce-9381-7acbdd920906",
+                                "in": false,
+                                "name": "out-a3215ffd-0f63-4043-9ffe-8e78ff51f3ff",
+                                "text": "No",
+                                "type": "default",
+                                "links": [
+                                    "87be4e68-a28e-463f-be6c-88e3733283c3"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "ba129b1c-5926-40c2-91fb-802dde86ba5c"
+                            }
+                        ],
+                        "nodeData": {
+                            "id": "ba129b1c-5926-40c2-91fb-802dde86ba5c",
+                            "icon": "call_split",
+                            "type": "js-custom-node",
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-1e06a82b-64ea-4b04-824c-2a02801d13fa",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-13e56a2c-5405-4b41-8fe4-e5e7012d21be",
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "text": "Yes",
+                                        "type": "Button"
+                                    }
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-a3215ffd-0f63-4043-9ffe-8e78ff51f3ff",
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "text": "No",
+                                        "type": "Button"
+                                    }
+                                }
+                            ],
+                            "multiple": true,
+                            "nodeType": "YES_NO",
+                            "userInput": true,
+                            "primaryText": "Yes/No",
+                            "questionText": "What's your choice?",
+                            "secondaryText": "Make a yes/no choice"
+                        }
+                    },
+                    "dd24d3d1-4749-4dc2-bbbe-e56e28724657": {
+                        "x": 72,
+                        "y": 302,
+                        "id": "dd24d3d1-4749-4dc2-bbbe-e56e28724657",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 187.90625,
+                                "y": 291,
+                                "id": "d113798c-02a0-45f8-a5c3-2e9536884cde",
+                                "in": true,
+                                "name": "in-1ef1c576-b0c1-4062-b6d9-54221eafc8e7",
+                                "type": "default",
+                                "links": [
+                                    "a50799c3-2fc1-478e-b08a-67c39508ab2b"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "dd24d3d1-4749-4dc2-bbbe-e56e28724657"
+                            },
+                            {
+                                "x": 187.90625,
+                                "y": 362,
+                                "id": "e0468fd3-011c-4930-a695-e2308c3e186c",
+                                "in": false,
+                                "name": "out-18258511-59c7-4ac6-8e36-25e92f4551a4",
+                                "type": "default",
+                                "links": [
+                                    "c85e9913-4006-4da0-832c-67e6219a2212"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "dd24d3d1-4749-4dc2-bbbe-e56e28724657"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "dd24d3d1-4749-4dc2-bbbe-e56e28724657",
+                            "icon": "person",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-1ef1c576-b0c1-4062-b6d9-54221eafc8e7",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-18258511-59c7-4ac6-8e36-25e92f4551a4",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "nodeType": "USERNAME",
+                            "selected": false,
+                            "variable": "@name",
+                            "userInput": true,
+                            "isLeadField": true,
+                            "primaryText": "Name",
+                            "fix_variable": true,
+                            "questionText": "What's your Name?",
+                            "secondaryText": "Ask for Name"
+                        },
+                        "selected": false
+                    },
+                    "e09cb0d7-620b-462a-9432-1bc094f92bb5": {
+                        "x": 116,
+                        "y": 798,
+                        "id": "e09cb0d7-620b-462a-9432-1bc094f92bb5",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 199.09375,
+                                "y": 787,
+                                "id": "6ae5e08c-4262-47aa-bc3f-b593f9fce8ab",
+                                "in": true,
+                                "name": "in-9ff67e8f-9fc2-4ce1-b5a0-0c577b5d81e4",
+                                "type": "default",
+                                "links": [
+                                    "a81045e4-7184-41a0-8293-c1d2f6b3d67e"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "e09cb0d7-620b-462a-9432-1bc094f92bb5"
+                            },
+                            {
+                                "x": 290.203125,
+                                "y": 857,
+                                "id": "2afbb547-5a29-4d36-a9e3-444c4416cebb",
+                                "in": false,
+                                "name": "out-c21073a4-ee4c-47f1-9315-ba0ae24088ce",
+                                "text": "Default",
+                                "type": "default",
+                                "links": [
+                                    "ad25b3db-851c-48f1-b0f0-f1467ebcdf76"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "e09cb0d7-620b-462a-9432-1bc094f92bb5"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "e09cb0d7-620b-462a-9432-1bc094f92bb5",
+                            "icon": "playlist_add_check",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-9ff67e8f-9fc2-4ce1-b5a0-0c577b5d81e4",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-c21073a4-ee4c-47f1-9315-ba0ae24088ce",
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "text": "Default",
+                                        "type": "Button"
+                                    }
+                                }
+                            ],
+                            "blocking": false,
+                            "multiple": true,
+                            "nodeType": "WEBHOOK",
+                            "selected": true,
+                            "webhookUrl": "https://www.pexels.com/search/website%20background/",
+                            "primaryText": "Webhook",
+                            "queryParams": {},
+                            "requestBody": {},
+                            "requestType": "POST",
+                            "responseBody": {
+                                "name": "@name"
+                            },
+                            "secondaryText": "Webhook",
+                            "requestHeaders": {},
+                            "captureResponse": true,
+                            "routingComponent": {}
+                        },
+                        "selected": true
+                    }
+                },
+                "transformed": true
+            }
+        ],
+        "offsetX": 51,
+        "offsetY": -443,
+        "gridSize": 0
+    },
+    "bot_data_json": {
+        "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d": {
+            "id": "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d",
+            "icon": "pan_tool",
+            "message": true,
+            "messages": [
+                "Bye"
+            ],
+            "nodeType": "END",
+            "targetId": ""
+        },
+        "5173a1ad-81b1-4a6f-b05a-27374e7921e3": {
+            "id": "5173a1ad-81b1-4a6f-b05a-27374e7921e3",
+            "icon": "date_range",
+            "isDate": true,
+            "isTime": false,
+            "nodeType": "DATE",
+            "targetId": "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f",
+            "variable": "@date",
+            "userInput": true,
+            "dateFormat": "DD-MM-YYYY",
+            "isPrevDate": false,
+            "isLeadField": true,
+            "questionText": "Select a Date, please"
+        },
+        "6132b60d-73a3-4e13-88e3-9602cf1b1d3e": {
+            "id": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e",
+            "icon": "check_box",
+            "choices": [
+                "option 1 @name",
+                "option 2 @date"
+            ],
+            "nodeType": "MULTIPLE_CHECK_BOX",
+            "targetId": "e09cb0d7-620b-462a-9432-1bc094f92bb5",
+            "userInput": true,
+            "questionText": "Select the Option of Your Interest"
+        },
+        "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f": {
+            "id": "6fceec82-3ac3-4f5e-be39-ca2c7826cb6f",
+            "icon": "playlist_add_check",
+            "input": "in-dc08f269-6267-4236-9578-10ac2dcfcfbb",
+            "buttons": [
+                {
+                    "text": "This is @date",
+                    "targetId": "ba129b1c-5926-40c2-91fb-802dde86ba5c"
+                },
+                {
+                    "text": "This is @name",
+                    "targetId": "ba129b1c-5926-40c2-91fb-802dde86ba5c"
+                }
+            ],
+            "multiple": true,
+            "nodeType": "MULTI_CHOICE",
+            "targetId": "ba129b1c-5926-40c2-91fb-802dde86ba5c",
+            "userInput": true,
+            "questionText": "What's your choice?"
+        },
+        "943a7a07-a4e8-423e-a30d-98c9ab4ab06e": {
+            "id": "943a7a07-a4e8-423e-a30d-98c9ab4ab06e",
+            "icon": "sentiment_very_satisfied",
+            "nodeType": "RATING",
+            "targetId": "dd24d3d1-4749-4dc2-bbbe-e56e28724657",
+            "variable": "@feedback",
+            "userInput": true,
+            "rating_max": 5,
+            "isLeadField": true,
+            "rating_type": "emoji",
+            "questionText": "Please rate this chat and provide necessary feedback",
+            "feedback_input": true
+        },
+        "a9a0258a-10d6-4eca-8182-02727bf4aea9": {
+            "id": "a9a0258a-10d6-4eca-8182-02727bf4aea9",
+            "icon": "flag",
+            "message": true,
+            "messages": [
+                "Hi",
+                "There",
+                "How",
+                "Are",
+                "You?"
+            ],
+            "nodeType": "INIT",
+            "targetId": "943a7a07-a4e8-423e-a30d-98c9ab4ab06e"
+        },
+        "ba129b1c-5926-40c2-91fb-802dde86ba5c": {
+            "id": "ba129b1c-5926-40c2-91fb-802dde86ba5c",
+            "icon": "call_split",
+            "input": "in-1e06a82b-64ea-4b04-824c-2a02801d13fa",
+            "buttons": [
+                {
+                    "text": "Yes",
+                    "targetId": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e"
+                },
+                {
+                    "text": "No",
+                    "targetId": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e"
+                }
+            ],
+            "multiple": true,
+            "nodeType": "YES_NO",
+            "targetId": "6132b60d-73a3-4e13-88e3-9602cf1b1d3e",
+            "userInput": true,
+            "questionText": "What's your choice?"
+        },
+        "dd24d3d1-4749-4dc2-bbbe-e56e28724657": {
+            "id": "dd24d3d1-4749-4dc2-bbbe-e56e28724657",
+            "icon": "person",
+            "nodeType": "USERNAME",
+            "targetId": "5173a1ad-81b1-4a6f-b05a-27374e7921e3",
+            "variable": "@name",
+            "userInput": true,
+            "isLeadField": true,
+            "fix_variable": true,
+            "questionText": "What's your Name?"
+        },
+        "e09cb0d7-620b-462a-9432-1bc094f92bb5": {
+            "id": "e09cb0d7-620b-462a-9432-1bc094f92bb5",
+            "icon": "playlist_add_check",
+            "input": "in-9ff67e8f-9fc2-4ce1-b5a0-0c577b5d81e4",
+            "buttons": [
+                {
+                    "text": "Default",
+                    "targetId": "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d"
+                }
+            ],
+            "routing": {
+                "error": "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d",
+                "default": "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d"
+            },
+            "blocking": false,
+            "multiple": true,
+            "nodeType": "WEBHOOK",
+            "targetId": "0ce3fb2a-b167-4fc6-9e28-0402ae5e324d",
+            "webhookUrl": "https://www.pexels.com/search/website%20background/",
+            "queryParams": {},
+            "requestBody": {},
+            "requestType": "POST",
+            "responseBody": {
+                "name": "@name"
+            },
+            "requestHeaders": {},
+            "captureResponse": true,
+            "routingComponent": {}
+        }
+    }
+}

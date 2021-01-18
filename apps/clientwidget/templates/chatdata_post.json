@@ -1,0 +1,3 @@
+{
+"headers": [{"room_id": "Room ID"}, {"room_name": "Room Name"}, {"@name": "Name"}, {"@help": "Help"}, {"bot_is_active":"Bot Status"}]
+}

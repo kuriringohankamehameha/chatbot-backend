@@ -1,0 +1,266 @@
+<!-- chat/templates/chat/room.html -->
+<!-- chat/templates/chat/room.html -->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style type="text/css">
+    body {
+      height: calc(100vh - 32px);
+      font-family: Roboto, sans-serif;
+      margin: 0px;
+      background-image: url('data:image/svg+xml,%3Csvg width="52" height="26" viewBox="0 0 52 26" xmlns="http://www.w3.org/2000/svg"%3E%3Cg fill="none" fill-rule="evenodd"%3E%3Cg fill="%239C92AC" fill-opacity="0.4"%3E%3Cpath d="M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z" /%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+    }
+
+    .main-card {
+      background: white;
+      color: white;
+      width: 80%;
+      height: calc(100% - 32px);
+      margin: 16px auto;
+      border-radius: 8px;
+      box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .main-title {
+      background-color: rebeccapurple;
+      font-size: large;
+      font-weight: bold;
+      padding: 32px;
+    }
+
+    .main-title svg {
+      height: 16px;
+      margin: 0px 8px
+    }
+
+    .chat-area {
+      flex-grow: 1;
+      overflow: auto;
+      border-radius: 8px;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .input-message {
+      padding: 8px 24px;
+      flex-grow: 1;
+      margin: 0px 8px 0px 0px;
+      border-radius: 24px;
+      border: none;
+      box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .input-message:focus {
+      outline: none;
+      box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
+    }
+
+    .input-div {
+      height: 48px;
+      width: calc(100% - 32px);
+      margin: 16px;
+      display: flex;
+    }
+
+    .input-send {
+      background: rebeccapurple;
+      width: 48px;
+      height: 48px;
+      border-radius: 24px;
+      border: none;
+      box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .input-send:hover {
+      cursor: pointer;
+      box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
+    }
+
+    .input-send svg {
+      fill: white;
+      margin: 11px 8px;
+    }
+
+    .chat-message-div {
+      display: flex;
+    }
+
+    .chat-message {
+      background-color: white;
+      margin: 8px 16px;
+      padding: 16px 24px;
+      animation-name: fadeIn;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-in;
+      animation-duration: 100ms;
+      box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.11);
+      color: black;
+      border-radius: 50px;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
+    }
+
+    ::-webkit-scrollbar {
+      width: 10px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: #f1f1f1;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #888;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #555;
+    }
+  </style>
+  <script type="text/javascript">
+    var running = false
+
+    function send() {
+      if (running == true) return
+      var msg = document.getElementById("message").value
+      if (msg == "") return
+      running = true
+      addMsg(msg)
+      window.setTimeout(addResponseMsg, 1000, msg)
+    }
+
+    function addMsg(msg) {
+      var div = document.createElement("div");
+      div.innerHTML = "<span style='flex-grow:1'></span><div class='chat-message'>" + msg + "</div>"
+      div.className = "chat-message-div"
+      document.getElementById("message-box").appendChild(div)
+    }
+
+    function addResponseMsg(msg) {
+      var div = document.createElement("div");
+      div.innerHTML = "<div class='chat-message'>" + msg + "</div>"
+      div.className = "chat-message-div"
+      document.getElementById("message-box").appendChild(div)
+      running = false
+    }
+    document.getElementById("message").addEventListener("keyup", function (event) {
+      if (event.keyCode === 13) {
+        event.preventDefault();
+        send()
+      }
+    });
+  </script>
+  <meta charset="utf-8" />
+  <title>Chat Room</title>
+</head>
+
+<body>
+  <div class="main-card">
+    <div class="main-title"><svg viewBox="0 0 24 24">
+        <path fill="currentColor"
+          d="M12,2A2,2 0 0,1 14,4C14,4.74 13.6,5.39 13,5.73V7H14A7,7 0 0,1 21,14H22A1,1 0 0,1 23,15V18A1,1 0 0,1 22,19H21V20A2,2 0 0,1 19,22H5A2,2 0 0,1 3,20V19H2A1,1 0 0,1 1,18V15A1,1 0 0,1 2,14H3A7,7 0 0,1 10,7H11V5.73C10.4,5.39 10,4.74 10,4A2,2 0 0,1 12,2M7.5,13A2.5,2.5 0 0,0 5,15.5A2.5,2.5 0 0,0 7.5,18A2.5,2.5 0 0,0 10,15.5A2.5,2.5 0 0,0 7.5,13M16.5,13A2.5,2.5 0 0,0 14,15.5A2.5,2.5 0 0,0 16.5,18A2.5,2.5 0 0,0 19,15.5A2.5,2.5 0 0,0 16.5,13Z" />
+      </svg>
+      <textarea id="chat-log" cols="100" rows="20"></textarea><br>
+      <input id="chat-message-input" type="text" size="100"><br>
+      <input id="chat-message-submit" type="button" value="Send"> {{ owner_id|json_script:"owner-id" }} <script
+        type="text/javascript">
+        const ownerId = JSON.parse(document.getElementById('owner-id').textContent);
+        var chatSocket = new WebSocket('ws://' + window.location.host + '/ws/chat_updated/' + ownerId + '/' + 'admin');
+        var adminSocket = null;
+        var is_admin = false;
+        chatSocket.onmessage = function (e) {
+          const data = JSON.parse(e.data);
+          console.log("Got message");
+          console.log(data);
+          if (data.message === "admin" && is_admin === false) {
+            is_admin = true;
+            document.querySelector('#chat-log').value += ("Redirecting you to admin chat...." + '\n');
+            chatSocket.close();
+            console.log("Closed old connection successfully.");
+            chatSocket = null;
+            adminSocket = new WebSocket('ws://' + window.location.host + '/ws/adminchat/' + roomName + '/');
+            adminSocket.onmessage = function (e) {
+              const data = JSON.parse(e.data);
+              console.log('Received message!');
+              document.querySelector('#chat-log').value += (data.message + '\n');
+            };
+            adminSocket.onclose = function (e) {
+              console.error('Chat socket closed unexpectedly');
+              if (is_admin === true) {
+                is_admin = false;
+              }
+            };
+            console.log("Opened new connection for admin chat!");
+          } else {
+            console.log('Received message!');
+            if (data.user === "session_timeout") {
+              // Timeout from server. Disconnect
+              if (chatSocket !== null) {
+                // Close it
+                chatSocket.close();
+              }
+              else if (adminSocket !== null) {
+                adminSocket.close();
+              }
+            }
+            if (data.api === true) {
+              var obj = (data.message);
+              for (var i=0; i<obj.data.length; i++) {
+                document.querySelector('#chat-log').value += (obj.data[i] + '\n');
+              }
+            }
+            document.querySelector('#chat-log').value += (data.message + '\n');
+            if (data.message_type === 'button') {
+              var btn = document.createElement("BUTTON");
+              var t = document.createTextNode("Sample Text");
+              btn.appendChild(t);
+              btn.setAttribute("style", "font-size:14px;background-color: #4CAF50");
+              document.body.appendChild(btn);
+              // document.getElementById("chat-log").appendChild(btn);
+              // btn.innerHTML="<INPUT onclick=\"OnQuery()\" type=\"button\" value=\" Search \" name=\"querybtn\" />";
+              console.log('Created Button!');
+            }
+          }
+        };
+        chatSocket.onclose = function (e) {
+          console.error('Chat socket closed unexpectedly');
+          if (is_admin === true) {
+            is_admin = false;
+          }
+        };
+        document.querySelector('#chat-message-input').focus();
+        document.querySelector('#chat-message-input').onkeyup = function (e) {
+          if (e.keyCode === 13) { // enter, return
+            document.querySelector('#chat-message-submit').click();
+          }
+        };
+        document.querySelector('#chat-message-submit').onclick = function (e) {
+          const messageInputDom = document.querySelector('#chat-message-input');
+          const message = messageInputDom.value;
+          if (chatSocket !== null) {
+            chatSocket.send(JSON.stringify(JSON.parse(message)));
+            messageInputDom.value = '';
+          } else {
+            adminSocket.send(JSON.stringify(
+              JSON.parse(message))
+            );
+            messageInputDom.value = '';
+          }
+        };
+      </script>
+    </div>
+</body>
+
+</html>

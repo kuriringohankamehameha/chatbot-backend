@@ -1,0 +1,60 @@
+{"user": "bot", "bot_id": "6f4942b6-b7a1-4770-8750-b128db3111bb", "data": {"target_id": "f1eb0759-c427-4aa2-8169-4e760cc6e038","variable": "@name", "post_data": "xyz"}}
+
+// accornition
+{"user": "bot", "bot_id": "ee5d4bb3-6f42-4685-ad96-71937aa06bdf", "data": {"target_id": "f1eb0759-c427-4aa2-8169-4e760cc6e038","variable": "@name", "post_data": "xyz"}}
+
+
+// Takeover format
+{"user": "bot", "bot_id": "799ce244-2683-4c70-b411-23cbd9361ea3", "data": {"target_id": "78800350-256c-46e8-8406-8fe62261d90c","variable": "@name", "post_data": "xyz"}}
+
+{"user": "bot", "bot_id": "799ce244-2683-4c70-b411-23cbd9361ea3", "data": {"target_id": "78800350-256c-46e8-8406-8fe62261d90c"}}
+
+{"user": "bot", "bot_id": "799ce244-2683-4c70-b411-23cbd9361ea3", "data": {"target_id": "f558fab1-7e49-4db9-b30f-b072c8f35f91","variable": "@name", "post_data": "xyz"}}
+
+
+// Send email takeover
+{"user": "bot", "bot_id": "ee5d4bb3-6f42-4685-ad96-71937aa06bdf", "data": {"target_id": "78800350-256c-46e8-8406-8fe62261d90c","variable": "@name", "post_data": "xyz"}}
+
+{"user": "bot", "bot_id": "ee5d4bb3-6f42-4685-ad96-71937aa06bdf", "data": {"target_id": "f558fab1-7e49-4db9-b30f-b072c8f35f91"}}
+
+// CLIENT: http://localhost:8000/api/clientwidget_updated/demo/67d42332-418e-4614-a3ca-d3893c258867/aa227d12-40e8-4bf7-ba0b-44864dd2e77c
+
+// ADMIN: http://localhost:8000/api/clientwidget_updated/demo/67d42332-418e-4614-a3ca-d3893c258867/admin
+
+// OPERATOR: http://localhost:8000/api/clientwidget_updated/demo/67d42332-418e-4614-a3ca-d3893c258867/f25abb2b-d193-4890-8af7-26b8d1f2be5f/operator
+
+{"user": "end_user", "message": "USER", "email": ""}
+
+{"user": "admin", "room_id": "aa227d12-40e8-4bf7-ba0b-44864dd2e77c", "ENTER": true}
+
+{"user": "admin", "room_id": "aa227d12-40e8-4bf7-ba0b-44864dd2e77c", "message": "admin message"}
+
+{"user": "admin", "room_id": "aa227d12-40e8-4bf7-ba0b-44864dd2e77c", "EXIT": true}
+
+{"user": "operator", "room_id": "aa227d12-40e8-4bf7-ba0b-44864dd2e77c", "ENTER": true}
+
+
+// LINK Node (WEBHOOK)
+{"user": "bot", "bot_id": "ee5d4bb3-6f42-4685-ad96-71937aa06bdf", "data": {"target_id": "4941dc0a-9b87-4968-b2a2-2f6ff6222e72"}}
+
+{"user": "bot", "bot_id": "ee5d4bb3-6f42-4685-ad96-71937aa06bdf", "data": {"target_id": "f1eb0759-c427-4aa2-8169-4e760cc6e038","variable": "@name", "post_data": "xyz"}}
+
+// Webhook Bot
+{"user": "bot", "bot_id": "d7712cd2-2316-4436-83dd-1a40b80e13c9", "data": {"target_id": "c9dad6e8-7bc7-4bba-a3ce-a553cb4835d3"}}
+{"user": "bot", "bot_id": "d7712cd2-2316-4436-83dd-1a40b80e13c9", "data": {"target_id": "f1eb0759-c427-4aa2-8169-4e760cc6e038","variable": "@name", "post_data": "xyz"}}
+
+
+{"user": "bot", "bot_id": "3b0eff60-d0ed-49ee-9f7e-008948728b36", "data": {"target_id": "8c8ec09e-9268-4182-b544-539457a35e91", "variable": "@email", "post_data": "xyz@mail.com"}}
+// Set variable BOT
+{"user": "bot", "bot_id": "3b0eff60-d0ed-49ee-9f7e-008948728b36", "data": {"target_id": "9b735bc4-b348-4471-b94e-f942623242f3"}}
+
+
+
+// localhost:8000/api/clientwidget_updated/demo/2114c428-e220-4af3-93f8-4c5e3a338a0e/744de365-08f7-4539-a810-51a1366596f4
+// http://localhost:8000/api/clientwidget_updated/744de365-08f7-4539-a810-51a1366596f4/sessionvariables
+{"user": "bot", "bot_id": "04e7c89a-6ef0-448e-99cb-fae8c8ca101b", "data": {"target_id": "8c8ec09e-9268-4182-b544-539457a35e91", "variable": "@email", "post_data": "xyz@mail.com"}}
+// New set variable
+{"user": "bot", "bot_id": "04e7c89a-6ef0-448e-99cb-fae8c8ca101b", "data": {"target_id": "9b735bc4-b348-4471-b94e-f942623242f3"}}
+
+// Datetime
+{"user": "bot", "bot_id": "04e7c89a-6ef0-448e-99cb-fae8c8ca101b", "data": {"target_id": "8c8ec09e-9268-4182-b544-539457a35e91", "variable": "@email", "post_data": "10-07-2020 00:00:00"}}

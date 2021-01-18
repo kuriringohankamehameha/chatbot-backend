@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Testing</title>
+</head>
+<body>
+
+</body>
+
+<script>
+    var protocol = window.location.protocol;
+        ws_protocol = "ws://";
+        if(protocol=="wss://"){
+            ws_protocol = "wss://";
+        }
+
+        web_socket_url = ws_protocol + window.location.host +":8001/ws/chatbox/testing" +window.location.pathname;
+
+    	const web_socket = new WebSocket(web_socket_url);
+
+		web_socket.onopen = function(e){
+			console.log("open", e);
+		}
+
+		web_socket.onerror = function(e){
+			console.log("error", e);
+		}
+
+		web_socket.onmessage = function(e){
+            var data = JSON.parse(e.data);
+            console.log('server  '+data['message']);
+            web_socket.send(JSON.stringify({
+            'message': 'accepted',
+            }));
+        }
+</script>
+</html>

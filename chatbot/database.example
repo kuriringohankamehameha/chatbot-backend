@@ -1,0 +1,34 @@
+from decouple import config, UndefinedValueError
+
+
+# Database Settings
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': config('DB_NAME'),
+        'USER': config('DB_USER'),
+        'PASSWORD': config('DB_PASSWORD'),
+        'HOST': config('DB_HOST'),
+        'PORT': config('DB_PORT')
+    },
+
+    'db_testing1': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'Test',
+        'USER': '<Username>',
+        'PASSWORD': '<Password>',
+        'HOST': '<IP Address>',
+        'PORT': '<DB PORT>'
+    },
+
+    'db_testing2': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'Test',
+        'USER': '<Username>',
+        'PASSWORD': '<Password>',
+        'HOST': '<IP Address>',
+        'PORT': '<DB PORT>'
+    }
+
+
+}

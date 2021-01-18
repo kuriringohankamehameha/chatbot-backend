@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        Dear {{ user.first_name }} {{ user.last_name }},
+    </head>
+    <body>
+        A valuable lead is currently chatting with your Chatbot.
+
+        <br>
+
+        The Lead Details are as follows:
+
+        <br>
+
+        -------------------------------------------------
+
+        <table>
+            {% for field, value in lead_data.items %}
+                <tr>
+                    <td> {{ field }} </td>
+                    <td> {{ value }} </td>
+                </tr>
+            {% endfor %}
+        </table>
+
+        -------------------------------------------------
+
+        <br>
+
+        The history is as follows:
+
+        {% for message in messages %}
+            <i><b>Message:</i></b> {{ message }}<br>
+        {% endfor %}
+
+        <br>
+
+
+        Don't miss this opportunity to sell yourself to a valuable customer!
+
+        For more information, refer your live Chat Management dashboard.
+
+
+        For any other queries contact us.
+        email : info@autovista.in
+        phone: +91 11111 11111
+
+
+        Thanks & Regards,
+        Autovista Team
+    </body>
+</html>

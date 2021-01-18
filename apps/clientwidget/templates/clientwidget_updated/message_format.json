@@ -1,0 +1,5 @@
+{"user": "end_user", "message": "Hello from user", "email": "xyz"}
+
+{"user": "admin", "message": "Hello from admin", "email": "admin", "room_id": "33dd043d-2f36-48eb-8e58-49d4478b1053"}
+
+{"user": "operator", "message": "Hello from operator", "owner_id": "95c36d1d-06bf-456a-8d1c-d45ca8cb7f1a", "room_id": "33dd043d-2f36-48eb-8e58-49d4478b1053"}

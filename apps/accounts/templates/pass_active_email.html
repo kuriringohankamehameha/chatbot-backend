@@ -1,0 +1,21 @@
+{% autoescape off %}
+
+Forgot Password
+
+Hi {{ user.first_name }},
+
+You asked to reset your password. No problem. Just click to get started.
+
+https://{{ domain }}/password-reset/{{ uid }}/{{ token }}
+
+Why have I received this email?
+
+Because you clicked on ‘Forgot my password’ when you last tried to login to use Chat360. If you didn’t initiate this step, please contact Chat360 customer services as soon as possible.
+
+Thank you for choosing Chat360.
+
+{% endautoescape %}
+
+
+
+

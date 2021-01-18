@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        Dear {{ user.first_name }} {{ user.last_name }},
+    </head>
+    <body>
+    A lead has just completed chatting with your Chatbot.
+
+    The Lead Details are as follows:
+
+    <table>
+        {% for field, value in lead_data.items %}
+            <tr>
+                <td> {{ field }} </td>
+                <td> {{ value }} </td>
+            </tr>
+        {% endfor %}
+    </table>
+
+
+    For more information, refer your ChatData dashboard.
+
+
+    For any other queries contact us.
+    email : info@autovista.in
+    phone: +91 11111 11111
+
+
+    Thanks & Regards,
+    Autovista Team
+
+    </body>
+</html>

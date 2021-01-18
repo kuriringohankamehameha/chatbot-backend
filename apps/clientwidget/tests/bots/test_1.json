@@ -1,0 +1,1427 @@
+{
+    "title": "Template Bot",
+    "website_url": "",
+    "js_file_path": "",
+    "publish_status": false,
+    "bot_full_json": {
+        "id": "ab0aab9a-7d12-4e6b-8546-24e6c92146dd",
+        "zoom": 100,
+        "layers": [
+            {
+                "id": "8189a5bd-11a3-4791-9d44-581a0860d31d",
+                "type": "diagram-links",
+                "isSvg": true,
+                "models": {
+                    "054c2f71-b4bd-4c0d-b824-4953506995e4": {
+                        "id": "054c2f71-b4bd-4c0d-b824-4953506995e4",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 371.70001220703125,
+                                "y": 482,
+                                "id": "fb5f95c4-3752-4903-ae0d-4d1c688bd58a",
+                                "type": "point"
+                            },
+                            {
+                                "x": 653,
+                                "y": 381,
+                                "id": "5d7f3afd-7b53-411f-8779-b5d87f19e57e",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "c9dad6e8-7bc7-4bba-a3ce-a553cb4835d3",
+                        "target": "6b18d107-2bf6-4757-b41f-a982e521e225",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "c6caf12d-15e1-4417-86ae-fb7a0fea0d2c",
+                        "targetPort": "fd45a11e-23cb-47ad-a733-c64519c275fb",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "103b3dab-d302-4761-992e-592c2b3504f5": {
+                        "id": "103b3dab-d302-4761-992e-592c2b3504f5",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 224.04998779296875,
+                                "y": 490.4000244140625,
+                                "id": "157c19b1-4161-42e1-8b65-140710e50d8f",
+                                "type": "point"
+                            },
+                            {
+                                "x": 256,
+                                "y": 408,
+                                "id": "16985476-2cc5-430c-946e-01430a82abc5",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 371.70001220703125,
+                                "y": 411,
+                                "id": "7e1cfb0b-9d54-4cb4-8441-b7b83a00a4ba",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "e6ae1825-b477-4b8b-b3d4-105ffa794543",
+                        "target": "c9dad6e8-7bc7-4bba-a3ce-a553cb4835d3",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "278efbc9-f904-474d-ba48-9733410275d9",
+                        "targetPort": "5ff46b96-a522-470b-aa26-7c9f42279923",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "1c838b52-dfd5-459a-a916-9a0f77eec192": {
+                        "id": "1c838b52-dfd5-459a-a916-9a0f77eec192",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 101.39999389648438,
+                                "y": 103.40000915527344,
+                                "id": "0b8c2ffd-1272-44ce-9484-749130da7a03",
+                                "type": "point"
+                            },
+                            {
+                                "x": 112.39999389648438,
+                                "y": 140,
+                                "id": "74b5efa0-8c98-4e05-8923-dbdea9d6c627",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "57797b4a-7b02-4ba0-a827-ae68187cb13c",
+                        "target": "f1eb0759-c427-4aa2-8169-4e760cc6e038",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "73bce3f4-9012-42f1-84df-a35bb46dbfb2",
+                        "targetPort": "ad646bd6-58f9-47c1-bd21-9d229928a96c",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "1fc20334-96b7-4e9d-8297-23848da512d8": {
+                        "id": "1fc20334-96b7-4e9d-8297-23848da512d8",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 369.20001220703125,
+                                "y": 378,
+                                "id": "40af218b-96b1-4873-84d8-1b5d7f705499",
+                                "type": "point"
+                            },
+                            {
+                                "x": 653,
+                                "y": 381,
+                                "id": "5331853c-30c8-4c4a-9608-17dd8afa4936",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "55b19e81-5b90-4754-bc14-e2bcae4b80b3",
+                        "target": "6b18d107-2bf6-4757-b41f-a982e521e225",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "01ce903f-c09a-499f-a080-ca2dca6f4c13",
+                        "targetPort": "fd45a11e-23cb-47ad-a733-c64519c275fb",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "26191e52-559a-4d7c-a097-760c09e79f81": {
+                        "id": "26191e52-559a-4d7c-a097-760c09e79f81",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 682.9500122070312,
+                                "y": 563,
+                                "id": "bba5977a-dc21-4f80-a3cf-0933c3a86a03",
+                                "type": "point"
+                            },
+                            {
+                                "x": 829,
+                                "y": 564,
+                                "id": "bd09cfd4-bf95-4614-8e2c-f3e46ff3fd2b",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 815,
+                                "y": 377,
+                                "id": "05bbe08a-ac9f-4565-9469-835ab751d58c",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 926.4000244140625,
+                                "y": 405,
+                                "id": "37e07895-be60-4716-a981-c9bf3bb669a1",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "af8cebbc-80d7-4a3c-b5bb-fff5fea42dfb",
+                        "target": "b05b1775-63a9-4bf9-a04d-00573aa1a325",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "ccfb832a-0b28-4c3b-8f78-7f48aa97fe43",
+                        "targetPort": "e8810965-97c1-4095-a4a8-759b15b33479",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "3a888155-0645-4b40-9120-be6c00edc7ab": {
+                        "id": "3a888155-0645-4b40-9120-be6c00edc7ab",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 427.07501220703125,
+                                "y": 112,
+                                "id": "48286758-3aab-4adb-b1f1-bb594539344a",
+                                "type": "point"
+                            },
+                            {
+                                "x": 504,
+                                "y": 206,
+                                "id": "78f5f8ca-7c61-4fdc-9324-1e7aa9dc6fb6",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 114.52499389648438,
+                                "y": 364,
+                                "id": "d8a26f04-4362-4df8-8901-0bc1c73fc6b3",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "d006ae0e-69ad-4184-a45b-9df5c6676875",
+                        "target": "e6ae1825-b477-4b8b-b3d4-105ffa794543",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "dd4b04a0-ad7d-4578-a348-1e861a382218",
+                        "targetPort": "2e9cde13-ca64-48a5-b67c-0eac848dd9b3",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "3f01a816-0204-4b9f-8cc5-7325eb311bf1": {
+                        "id": "3f01a816-0204-4b9f-8cc5-7325eb311bf1",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 224.04998779296875,
+                                "y": 524.7999877929688,
+                                "id": "b9e15b44-16e6-4bfd-a418-09a2ef205227",
+                                "type": "point"
+                            },
+                            {
+                                "x": 239,
+                                "y": 490,
+                                "id": "3db1b37b-fabf-4b3f-9625-78d169b95eb4",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 406.70001220703125,
+                                "y": 490,
+                                "id": "2e7931cd-ec35-4149-ab25-2c5e5fc33259",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "e6ae1825-b477-4b8b-b3d4-105ffa794543",
+                        "target": "4941dc0a-9b87-4968-b2a2-2f6ff6222e72",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "91788d0e-87f4-45a0-9cc0-76f4f1bc7efc",
+                        "targetPort": "cabf3e50-fb98-4693-80b9-2d9dea9c2218",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "40760b7b-1595-4f3f-a23c-6a9dd0ea0624": {
+                        "id": "40760b7b-1595-4f3f-a23c-6a9dd0ea0624",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 112.39999389648438,
+                                "y": 211,
+                                "id": "0ee0446d-d7bf-403f-b9d2-350589fd7cbe",
+                                "type": "point"
+                            },
+                            {
+                                "x": 114.58749389648438,
+                                "y": 257,
+                                "id": "cfad9574-4c1d-4e09-afe3-ea1067fadcef",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "f1eb0759-c427-4aa2-8169-4e760cc6e038",
+                        "target": "58e7594f-cef9-4fd4-b0f0-b622175a27bd",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "1176f5c4-e3e1-479d-a46d-9754c0a33b5f",
+                        "targetPort": "0d3a5d2f-968c-4d39-b114-50587e355a38",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "65e70b99-b933-4aa3-af74-ad43c072a294": {
+                        "id": "65e70b99-b933-4aa3-af74-ad43c072a294",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 224.04998779296875,
+                                "y": 456,
+                                "id": "86bad75e-1bd9-4030-abc2-a6eeeaef4b75",
+                                "type": "point"
+                            },
+                            {
+                                "x": 234,
+                                "y": 434,
+                                "id": "36648b49-9bb1-408b-8c70-836992cea3f9",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 232,
+                                "y": 350,
+                                "id": "40a84b1c-6aa1-4396-a7d0-f047d8473d77",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 232,
+                                "y": 305,
+                                "id": "1fe9f3b0-95e5-4fd0-8b28-d932dbd15856",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 369.20001220703125,
+                                "y": 307,
+                                "id": "323f7b92-c39a-4376-bd69-0587bbe17046",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "e6ae1825-b477-4b8b-b3d4-105ffa794543",
+                        "target": "55b19e81-5b90-4754-bc14-e2bcae4b80b3",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "d767cc3d-f4a2-43b5-b8bc-8996c5c2d358",
+                        "targetPort": "316e5730-a766-454e-89ae-c9c19dd79abb",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "6c3c02f8-c50c-4032-9360-a2a742a9da49": {
+                        "id": "6c3c02f8-c50c-4032-9360-a2a742a9da49",
+                        "type": "default",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 427.07501220703125,
+                                "y": 146.40000915527344,
+                                "id": "6711cedf-d727-45c8-8d7c-a45f3ee1ce02",
+                                "type": "point"
+                            },
+                            {
+                                "x": 477,
+                                "y": 28,
+                                "id": "f61e710e-ec51-4e77-8ff3-c3510a9525ae",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 621.4750366210938,
+                                "y": 19,
+                                "id": "c7d726cc-b3d6-4e88-b5f8-ca972c4f7999",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "d006ae0e-69ad-4184-a45b-9df5c6676875",
+                        "target": "e61390cf-02bd-42b1-b546-e887b50e9b5c",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "0732b06d-aa07-4de6-8679-ea1a33cce299",
+                        "targetPort": "357fe26e-6802-45ef-82f2-757e5bc1c4c0",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "6efe5339-269e-41b6-8d1e-a87c2119333e": {
+                        "id": "6efe5339-269e-41b6-8d1e-a87c2119333e",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 926.4000244140625,
+                                "y": 526.2000122070312,
+                                "id": "5b327363-7617-47e0-88cc-35fb5d5ae345",
+                                "type": "point"
+                            },
+                            {
+                                "x": 605,
+                                "y": 479,
+                                "id": "9e97ab45-949f-4d8a-aa9c-9d7ed5f84ca7",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 232,
+                                "y": 189,
+                                "id": "a5ea3c0f-9a24-43ab-9805-1ed26fe01ba1",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 231,
+                                "y": 12,
+                                "id": "83ea11b5-fd92-4f1d-8134-cdb5636d436f",
+                                "type": "point",
+                                "selected": false
+                            },
+                            {
+                                "x": 333.03753662109375,
+                                "y": 20,
+                                "id": "e4db14f9-e77f-4579-90a3-ec3f0d43e67f",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "b05b1775-63a9-4bf9-a04d-00573aa1a325",
+                        "target": "d006ae0e-69ad-4184-a45b-9df5c6676875",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "5967e5f2-2e54-45f8-be18-2072e35823b7",
+                        "targetPort": "b8413bbf-a6db-461b-b595-9920f0997cbb",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "912a678a-f68a-4bd0-a248-523d20db0f16": {
+                        "id": "912a678a-f68a-4bd0-a248-523d20db0f16",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 653,
+                                "y": 471.79998779296875,
+                                "id": "6339c79d-86b8-415d-8784-4269df1d877e",
+                                "type": "point"
+                            },
+                            {
+                                "x": 682.9500122070312,
+                                "y": 492,
+                                "id": "0850e899-cb3d-4626-b943-465d6ea7c0b8",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "6b18d107-2bf6-4757-b41f-a982e521e225",
+                        "target": "af8cebbc-80d7-4a3c-b5bb-fff5fea42dfb",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "be6d3645-4f0b-4766-851d-e64719a7ed60",
+                        "targetPort": "12f0aba6-5a0e-4a9f-8cc9-d316b2211591",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "d2c649c3-4b67-40e4-b0de-a9362ee6f3da": {
+                        "id": "d2c649c3-4b67-40e4-b0de-a9362ee6f3da",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 621.4750366210938,
+                                "y": 90,
+                                "id": "3ec1ba66-dfe6-4e01-b872-ddcee07f4895",
+                                "type": "point"
+                            },
+                            {
+                                "x": 645.3125,
+                                "y": 157,
+                                "id": "14038cb6-287f-4602-a6d7-ffc11a3e4482",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "e61390cf-02bd-42b1-b546-e887b50e9b5c",
+                        "target": "a0db91f1-795c-437c-b781-8d7763d8a57d",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "621ff068-2cad-4231-85f2-f4b17a897919",
+                        "targetPort": "c069a800-d192-42da-b43c-8c43f4183773",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "de0b6d87-114e-4dc6-a20f-8b8a93ce5b8b": {
+                        "id": "de0b6d87-114e-4dc6-a20f-8b8a93ce5b8b",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 114.58749389648438,
+                                "y": 328,
+                                "id": "e9568ec9-7c16-4a94-aa83-ef116cb19406",
+                                "type": "point"
+                            },
+                            {
+                                "x": 114.52499389648438,
+                                "y": 364,
+                                "id": "390d6b7b-f743-49d3-bf56-4e1e040636ae",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "58e7594f-cef9-4fd4-b0f0-b622175a27bd",
+                        "target": "e6ae1825-b477-4b8b-b3d4-105ffa794543",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "34f74109-cf90-4be8-af05-2b1ca59ca896",
+                        "targetPort": "2e9cde13-ca64-48a5-b67c-0eac848dd9b3",
+                        "selectedColor": "rgb(0,192,255)"
+                    },
+                    "e98da376-41b9-46d9-8112-bec1c91938b4": {
+                        "id": "e98da376-41b9-46d9-8112-bec1c91938b4",
+                        "type": "advanced",
+                        "color": "gray",
+                        "width": 3,
+                        "labels": [],
+                        "points": [
+                            {
+                                "x": 406.70001220703125,
+                                "y": 561,
+                                "id": "2fd2048c-356b-4481-a375-585e25cf8edf",
+                                "type": "point"
+                            },
+                            {
+                                "x": 653,
+                                "y": 381,
+                                "id": "0fb8bb15-df2c-45ce-aa7f-44581a71e013",
+                                "type": "point"
+                            }
+                        ],
+                        "source": "4941dc0a-9b87-4968-b2a2-2f6ff6222e72",
+                        "target": "6b18d107-2bf6-4757-b41f-a982e521e225",
+                        "selected": false,
+                        "curvyness": 50,
+                        "sourcePort": "173554ea-5821-4463-9def-98e2b602ae99",
+                        "targetPort": "fd45a11e-23cb-47ad-a733-c64519c275fb",
+                        "selectedColor": "rgb(0,192,255)"
+                    }
+                },
+                "transformed": true
+            },
+            {
+                "id": "ed334703-aed1-444f-a3ae-60bc3ac24ca9",
+                "type": "diagram-nodes",
+                "isSvg": false,
+                "models": {
+                    "4941dc0a-9b87-4968-b2a2-2f6ff6222e72": {
+                        "x": 297,
+                        "y": 491,
+                        "id": "4941dc0a-9b87-4968-b2a2-2f6ff6222e72",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 396.70001220703125,
+                                "y": 480,
+                                "id": "cabf3e50-fb98-4693-80b9-2d9dea9c2218",
+                                "in": true,
+                                "name": "in-e30e9854-1348-42cf-bbc5-13f19ba5fc27",
+                                "type": "default",
+                                "links": [
+                                    "3f01a816-0204-4b9f-8cc5-7325eb311bf1"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "4941dc0a-9b87-4968-b2a2-2f6ff6222e72"
+                            },
+                            {
+                                "x": 396.70001220703125,
+                                "y": 551,
+                                "id": "173554ea-5821-4463-9def-98e2b602ae99",
+                                "in": false,
+                                "name": "out-4cb82d02-e9b7-4255-aa56-decafeadcd02",
+                                "type": "default",
+                                "links": [
+                                    "e98da376-41b9-46d9-8112-bec1c91938b4"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "4941dc0a-9b87-4968-b2a2-2f6ff6222e72"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "4941dc0a-9b87-4968-b2a2-2f6ff6222e72",
+                            "to": "@email",
+                            "from": "xyz@bot.com",
+                            "icon": "link",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-e30e9854-1348-42cf-bbc5-13f19ba5fc27",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-4cb82d02-e9b7-4255-aa56-decafeadcd02",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "mailText": "@choice\n@booktestdrive\n",
+                            "nodeType": "LINK",
+                            "selected": false,
+                            "variable": "@commercial",
+                            "dateFormat": "DD-MM-YYYY",
+                            "urlMessage": "https://www.googlecommercial.com",
+                            "primaryText": "Link URL",
+                            "questionText": "click the URL below",
+                            "secondaryText": "Redirect to Specified Link"
+                        },
+                        "selected": false
+                    },
+                    "55b19e81-5b90-4754-bc14-e2bcae4b80b3": {
+                        "x": 255,
+                        "y": 308,
+                        "id": "55b19e81-5b90-4754-bc14-e2bcae4b80b3",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 359.20001220703125,
+                                "y": 297,
+                                "id": "316e5730-a766-454e-89ae-c9c19dd79abb",
+                                "in": true,
+                                "name": "in-246d4934-30c1-4d8a-a8e0-1dfdf881e0f6",
+                                "type": "default",
+                                "links": [
+                                    "65e70b99-b933-4aa3-af74-ad43c072a294"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "55b19e81-5b90-4754-bc14-e2bcae4b80b3"
+                            },
+                            {
+                                "x": 359.20001220703125,
+                                "y": 368,
+                                "id": "01ce903f-c09a-499f-a080-ca2dca6f4c13",
+                                "in": false,
+                                "name": "out-106ff2f7-8be8-4f7a-824c-064ee2d0b063",
+                                "type": "default",
+                                "links": [
+                                    "1fc20334-96b7-4e9d-8297-23848da512d8"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "55b19e81-5b90-4754-bc14-e2bcae4b80b3"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "55b19e81-5b90-4754-bc14-e2bcae4b80b3",
+                            "to": "abc@bot.com",
+                            "from": "xyz@bot.com",
+                            "icon": "date_range",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-246d4934-30c1-4d8a-a8e0-1dfdf881e0f6",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-106ff2f7-8be8-4f7a-824c-064ee2d0b063",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "mailText": "Lorem Ipsum ...",
+                            "nodeType": "DATE",
+                            "selected": false,
+                            "variable": "@booktestdrive",
+                            "userInput": true,
+                            "dateFormat": "DD-MM-YYYY",
+                            "urlMessage": "",
+                            "primaryText": "Date",
+                            "questionText": "Select a Date, please",
+                            "secondaryText": "Ask for Date"
+                        },
+                        "selected": false
+                    },
+                    "57797b4a-7b02-4ba0-a827-ae68187cb13c": {
+                        "x": 7,
+                        "y": 5,
+                        "id": "57797b4a-7b02-4ba0-a827-ae68187cb13c",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 91.39999389648438,
+                                "y": 93.40000915527344,
+                                "id": "73bce3f4-9012-42f1-84df-a35bb46dbfb2",
+                                "in": false,
+                                "name": "out-2a81c5a2-4d4a-4eb1-ae2a-d305e2522d6a",
+                                "type": "default",
+                                "links": [
+                                    "1c838b52-dfd5-459a-a916-9a0f77eec192"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "57797b4a-7b02-4ba0-a827-ae68187cb13c"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "57797b4a-7b02-4ba0-a827-ae68187cb13c",
+                            "icon": "flag",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "message": true,
+                            "portOpt": [
+                                {
+                                    "in": false,
+                                    "name": "out-2a81c5a2-4d4a-4eb1-ae2a-d305e2522d6a",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "messages": [
+                                "Hello there!"
+                            ],
+                            "nodeType": "INIT",
+                            "selected": false,
+                            "primaryText": "Welcome",
+                            "secondaryText": "Start of the flow"
+                        },
+                        "selected": false
+                    },
+                    "58e7594f-cef9-4fd4-b0f0-b622175a27bd": {
+                        "x": 6,
+                        "y": 258,
+                        "id": "58e7594f-cef9-4fd4-b0f0-b622175a27bd",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 104.58749389648438,
+                                "y": 247,
+                                "id": "0d3a5d2f-968c-4d39-b114-50587e355a38",
+                                "in": true,
+                                "name": "in-fbac7f45-7453-4264-b529-cab00980fe8a",
+                                "type": "default",
+                                "links": [
+                                    "40760b7b-1595-4f3f-a23c-6a9dd0ea0624"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "58e7594f-cef9-4fd4-b0f0-b622175a27bd"
+                            },
+                            {
+                                "x": 104.58749389648438,
+                                "y": 318,
+                                "id": "34f74109-cf90-4be8-af05-2b1ca59ca896",
+                                "in": false,
+                                "name": "out-c7cebc86-e8a5-4afc-8e55-3500ee641174",
+                                "type": "default",
+                                "links": [
+                                    "de0b6d87-114e-4dc6-a20f-8b8a93ce5b8b"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "58e7594f-cef9-4fd4-b0f0-b622175a27bd"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "58e7594f-cef9-4fd4-b0f0-b622175a27bd",
+                            "to": "abc@bot.com",
+                            "from": "xyz@bot.com",
+                            "icon": "email",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-fbac7f45-7453-4264-b529-cab00980fe8a",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-c7cebc86-e8a5-4afc-8e55-3500ee641174",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "mailText": "Lorem Ipsum ...",
+                            "nodeType": "EMAIL",
+                            "selected": false,
+                            "variable": "@email",
+                            "userInput": true,
+                            "dateFormat": "DD-MM-YYYY",
+                            "urlMessage": "",
+                            "primaryText": "Email",
+                            "questionText": "What's your email?",
+                            "secondaryText": "Ask for the user email"
+                        },
+                        "selected": false
+                    },
+                    "6b18d107-2bf6-4757-b41f-a982e521e225": {
+                        "x": 497,
+                        "y": 382,
+                        "id": "6b18d107-2bf6-4757-b41f-a982e521e225",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 643,
+                                "y": 371,
+                                "id": "fd45a11e-23cb-47ad-a733-c64519c275fb",
+                                "in": true,
+                                "name": "in-8e223bab-d74f-46ab-b324-13eb61a628e1",
+                                "type": "default",
+                                "links": [
+                                    "054c2f71-b4bd-4c0d-b824-4953506995e4",
+                                    "1fc20334-96b7-4e9d-8297-23848da512d8",
+                                    "e98da376-41b9-46d9-8112-bec1c91938b4"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "6b18d107-2bf6-4757-b41f-a982e521e225"
+                            },
+                            {
+                                "x": 643,
+                                "y": 461.79998779296875,
+                                "id": "be6d3645-4f0b-4766-851d-e64719a7ed60",
+                                "in": false,
+                                "name": "out-59faafcf-9760-4846-a851-3e2be81b1e42",
+                                "type": "default",
+                                "links": [
+                                    "912a678a-f68a-4bd0-a248-523d20db0f16"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "6b18d107-2bf6-4757-b41f-a982e521e225"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "6b18d107-2bf6-4757-b41f-a982e521e225",
+                            "to": "@email",
+                            "from": "xyz@bot.com",
+                            "icon": "contact_mail",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-8e223bab-d74f-46ab-b324-13eb61a628e1",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-59faafcf-9760-4846-a851-3e2be81b1e42",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "mailText": "@choice\n@booktestdrive\n@commercial\n",
+                            "nodeType": "SEND_EMAIL",
+                            "selected": false,
+                            "variable": "@sentemail",
+                            "dateFormat": "DD-MM-YYYY",
+                            "urlMessage": "https://www.google.com",
+                            "primaryText": "Send Email",
+                            "sendMailObj": {
+                                "content": "",
+                                "subject": "",
+                                "to_email": "",
+                                "from_email": "autovistateam@gmail.com"
+                            },
+                            "questionText": "email is sent to you on your registered mail id @email.",
+                            "secondaryText": "Send Email to Specified Address"
+                        },
+                        "selected": false
+                    },
+                    "a0db91f1-795c-437c-b781-8d7763d8a57d": {
+                        "x": 550,
+                        "y": 158,
+                        "id": "a0db91f1-795c-437c-b781-8d7763d8a57d",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 635.3125,
+                                "y": 147,
+                                "id": "c069a800-d192-42da-b43c-8c43f4183773",
+                                "in": true,
+                                "name": "in-9656f0e5-7e2a-4b68-8dba-99c685da2a3a",
+                                "type": "default",
+                                "links": [
+                                    "d2c649c3-4b67-40e4-b0de-a9362ee6f3da"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "a0db91f1-795c-437c-b781-8d7763d8a57d"
+                            }
+                        ],
+                        "nodeData": {
+                            "id": "a0db91f1-795c-437c-b781-8d7763d8a57d",
+                            "icon": "pan_tool",
+                            "type": "js-custom-node",
+                            "message": true,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-9656f0e5-7e2a-4b68-8dba-99c685da2a3a",
+                                    "linkType": "in"
+                                }
+                            ],
+                            "messages": [
+                                "Bye"
+                            ],
+                            "nodeType": "END",
+                            "selected": false,
+                            "primaryText": "End of the chat"
+                        },
+                        "selected": false
+                    },
+                    "af8cebbc-80d7-4a3c-b5bb-fff5fea42dfb": {
+                        "x": 545,
+                        "y": 493,
+                        "id": "af8cebbc-80d7-4a3c-b5bb-fff5fea42dfb",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 672.9500122070312,
+                                "y": 482,
+                                "id": "12f0aba6-5a0e-4a9f-8cc9-d316b2211591",
+                                "in": true,
+                                "name": "in-f5e59472-9c4e-41c7-800d-2d534f9f44a0",
+                                "type": "default",
+                                "links": [
+                                    "912a678a-f68a-4bd0-a248-523d20db0f16"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "af8cebbc-80d7-4a3c-b5bb-fff5fea42dfb"
+                            },
+                            {
+                                "x": 672.9500122070312,
+                                "y": 553,
+                                "id": "ccfb832a-0b28-4c3b-8f78-7f48aa97fe43",
+                                "in": false,
+                                "name": "out-dfcbeae3-e272-4b50-96d5-a85f43341b0b",
+                                "type": "default",
+                                "links": [
+                                    "26191e52-559a-4d7c-a097-760c09e79f81"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "af8cebbc-80d7-4a3c-b5bb-fff5fea42dfb"
+                            }
+                        ],
+                        "nodeData": {
+                            "id": "af8cebbc-80d7-4a3c-b5bb-fff5fea42dfb",
+                            "icon": "dialpad",
+                            "type": "js-custom-node",
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-f5e59472-9c4e-41c7-800d-2d534f9f44a0",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-dfcbeae3-e272-4b50-96d5-a85f43341b0b",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "nodeType": "PHONE",
+                            "selected": false,
+                            "userInput": true,
+                            "primaryText": "Phone number",
+                            "questionText": "What's your phone number?",
+                            "secondaryText": "Ask for Phone number"
+                        },
+                        "selected": false
+                    },
+                    "b05b1775-63a9-4bf9-a04d-00573aa1a325": {
+                        "x": 832,
+                        "y": 406,
+                        "id": "b05b1775-63a9-4bf9-a04d-00573aa1a325",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 916.4000244140625,
+                                "y": 395,
+                                "id": "e8810965-97c1-4095-a4a8-759b15b33479",
+                                "in": true,
+                                "name": "in-73642014-c6f0-423d-af26-4fbfac037ee0",
+                                "type": "default",
+                                "links": [
+                                    "26191e52-559a-4d7c-a097-760c09e79f81"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "b05b1775-63a9-4bf9-a04d-00573aa1a325"
+                            },
+                            {
+                                "x": 916.4000244140625,
+                                "y": 516.2000122070312,
+                                "id": "5967e5f2-2e54-45f8-be18-2072e35823b7",
+                                "in": false,
+                                "name": "out-a972ac3c-5c4e-473e-a95c-7cd14943407e",
+                                "type": "default",
+                                "links": [
+                                    "6efe5339-269e-41b6-8d1e-a87c2119333e"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "b05b1775-63a9-4bf9-a04d-00573aa1a325"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "b05b1775-63a9-4bf9-a04d-00573aa1a325",
+                            "to": "@email",
+                            "from": "xyz@bot.com",
+                            "icon": "message",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "message": true,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-73642014-c6f0-423d-af26-4fbfac037ee0",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-a972ac3c-5c4e-473e-a95c-7cd14943407e",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "mailText": "@choice\n@booktestdrive\n@commercial\n",
+                            "messages": [
+                                "Thanks for giving details @phone, @name, @choice, @booktestdrive"
+                            ],
+                            "nodeType": "MESSAGE",
+                            "selected": false,
+                            "dateFormat": "DD-MM-YYYY",
+                            "urlMessage": "https://www.google.com",
+                            "primaryText": "Messages",
+                            "questionText": "Message",
+                            "secondaryText": "Messages"
+                        },
+                        "selected": false
+                    },
+                    "c9dad6e8-7bc7-4bba-a3ce-a553cb4835d3": {
+                        "x": 262,
+                        "y": 412,
+                        "id": "c9dad6e8-7bc7-4bba-a3ce-a553cb4835d3",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 361.70001220703125,
+                                "y": 401,
+                                "id": "5ff46b96-a522-470b-aa26-7c9f42279923",
+                                "in": true,
+                                "name": "in-e30e9854-1348-42cf-bbc5-13f19ba5fc27",
+                                "type": "default",
+                                "links": [
+                                    "103b3dab-d302-4761-992e-592c2b3504f5"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "c9dad6e8-7bc7-4bba-a3ce-a553cb4835d3"
+                            },
+                            {
+                                "x": 361.70001220703125,
+                                "y": 472,
+                                "id": "c6caf12d-15e1-4417-86ae-fb7a0fea0d2c",
+                                "in": false,
+                                "name": "out-4cb82d02-e9b7-4255-aa56-decafeadcd02",
+                                "type": "default",
+                                "links": [
+                                    "054c2f71-b4bd-4c0d-b824-4953506995e4"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "c9dad6e8-7bc7-4bba-a3ce-a553cb4835d3"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "c9dad6e8-7bc7-4bba-a3ce-a553cb4835d3",
+                            "to": "abc@bot.com",
+                            "from": "xyz@bot.com",
+                            "icon": "link",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-e30e9854-1348-42cf-bbc5-13f19ba5fc27",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-4cb82d02-e9b7-4255-aa56-decafeadcd02",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "mailText": "Lorem Ipsum ...",
+                            "nodeType": "LINK",
+                            "selected": false,
+                            "variable": "@service",
+                            "dateFormat": "DD-MM-YYYY",
+                            "urlMessage": "https://www.google.com",
+                            "primaryText": "Link URL",
+                            "questionText": "click the URL below",
+                            "secondaryText": "Redirect to Specified Link"
+                        },
+                        "selected": false
+                    },
+                    "d006ae0e-69ad-4184-a45b-9df5c6676875": {
+                        "x": 237,
+                        "y": 21,
+                        "id": "d006ae0e-69ad-4184-a45b-9df5c6676875",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 323.03753662109375,
+                                "y": 10,
+                                "id": "b8413bbf-a6db-461b-b595-9920f0997cbb",
+                                "in": true,
+                                "name": "in-ff64d988-66d0-4ba5-96b4-ed9d3e84074d",
+                                "type": "default",
+                                "links": [
+                                    "6efe5339-269e-41b6-8d1e-a87c2119333e"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "d006ae0e-69ad-4184-a45b-9df5c6676875"
+                            },
+                            {
+                                "x": 417.07501220703125,
+                                "y": 102,
+                                "id": "dd4b04a0-ad7d-4578-a348-1e861a382218",
+                                "in": false,
+                                "name": "out-7e763aa5-4cfd-49b7-ab50-a32e09bf6e6a",
+                                "text": "Yes",
+                                "type": "default",
+                                "links": [
+                                    "3a888155-0645-4b40-9120-be6c00edc7ab"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "d006ae0e-69ad-4184-a45b-9df5c6676875"
+                            },
+                            {
+                                "x": 417.07501220703125,
+                                "y": 136.40000915527344,
+                                "id": "0732b06d-aa07-4de6-8679-ea1a33cce299",
+                                "in": false,
+                                "name": "out-86d25b39-dfb6-450b-b7d9-2a289a4fbfa8",
+                                "text": "No",
+                                "type": "default",
+                                "links": [
+                                    "6c3c02f8-c50c-4032-9360-a2a742a9da49"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "d006ae0e-69ad-4184-a45b-9df5c6676875"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "d006ae0e-69ad-4184-a45b-9df5c6676875",
+                            "to": "@email",
+                            "from": "xyz@bot.com",
+                            "icon": "call_split",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-ff64d988-66d0-4ba5-96b4-ed9d3e84074d",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-7e763aa5-4cfd-49b7-ab50-a32e09bf6e6a",
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "text": "Yes",
+                                        "type": "Button"
+                                    }
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-86d25b39-dfb6-450b-b7d9-2a289a4fbfa8",
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "text": "No",
+                                        "type": "Button"
+                                    }
+                                }
+                            ],
+                            "mailText": "@choice\n@booktestdrive\n@commercial\n",
+                            "multiple": true,
+                            "nodeType": "YES_NO",
+                            "selected": false,
+                            "variable": "@help",
+                            "userInput": true,
+                            "dateFormat": "DD-MM-YYYY",
+                            "urlMessage": "https://www.google.com",
+                            "primaryText": "Yes/No",
+                            "questionText": "Need any help?",
+                            "secondaryText": "Make a yes/no choice"
+                        },
+                        "selected": false
+                    },
+                    "e61390cf-02bd-42b1-b546-e887b50e9b5c": {
+                        "x": 528,
+                        "y": 20,
+                        "id": "e61390cf-02bd-42b1-b546-e887b50e9b5c",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 611.4750366210938,
+                                "y": 9,
+                                "id": "357fe26e-6802-45ef-82f2-757e5bc1c4c0",
+                                "in": true,
+                                "name": "in-f468613b-70c2-4f1a-9989-f16f29c2493c",
+                                "type": "default",
+                                "links": [
+                                    "6c3c02f8-c50c-4032-9360-a2a742a9da49"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "e61390cf-02bd-42b1-b546-e887b50e9b5c"
+                            },
+                            {
+                                "x": 611.4750366210938,
+                                "y": 80,
+                                "id": "621ff068-2cad-4231-85f2-f4b17a897919",
+                                "in": false,
+                                "name": "out-6b5da54c-495b-4953-a032-d28f69807d7b",
+                                "type": "default",
+                                "links": [
+                                    "d2c649c3-4b67-40e4-b0de-a9362ee6f3da"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "e61390cf-02bd-42b1-b546-e887b50e9b5c"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "e61390cf-02bd-42b1-b546-e887b50e9b5c",
+                            "to": "abc@bot.com",
+                            "from": "xyz@bot.com",
+                            "icon": "image",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-f468613b-70c2-4f1a-9989-f16f29c2493c",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-6b5da54c-495b-4953-a032-d28f69807d7b",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "mailText": "Lorem Ipsum ...",
+                            "nodeType": "MEDIA",
+                            "selected": false,
+                            "variable": "@media",
+                            "media_url": "",
+                            "dateFormat": "DD-MM-YYYY",
+                            "urlMessage": "",
+                            "primaryText": "Media",
+                            "questionText": "Media Caption",
+                            "secondaryText": "Display an Media in the Chat"
+                        },
+                        "selected": false
+                    },
+                    "e6ae1825-b477-4b8b-b3d4-105ffa794543": {
+                        "x": 3,
+                        "y": 365,
+                        "id": "e6ae1825-b477-4b8b-b3d4-105ffa794543",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 104.52499389648438,
+                                "y": 354,
+                                "id": "2e9cde13-ca64-48a5-b67c-0eac848dd9b3",
+                                "in": true,
+                                "name": "in-f4c0168e-6fc2-473a-8694-1bed522de17c",
+                                "type": "default",
+                                "links": [
+                                    "3a888155-0645-4b40-9120-be6c00edc7ab",
+                                    "de0b6d87-114e-4dc6-a20f-8b8a93ce5b8b"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "e6ae1825-b477-4b8b-b3d4-105ffa794543"
+                            },
+                            {
+                                "x": 214.04998779296875,
+                                "y": 446,
+                                "id": "d767cc3d-f4a2-43b5-b8bc-8996c5c2d358",
+                                "in": false,
+                                "name": "out-15841981-4c7a-4f65-8934-61ad568962b6",
+                                "text": "Book Test Drive",
+                                "type": "default",
+                                "links": [
+                                    "65e70b99-b933-4aa3-af74-ad43c072a294"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "e6ae1825-b477-4b8b-b3d4-105ffa794543"
+                            },
+                            {
+                                "x": 214.04998779296875,
+                                "y": 480.4000244140625,
+                                "id": "278efbc9-f904-474d-ba48-9733410275d9",
+                                "in": false,
+                                "name": "out-658dd3ec-feaa-461d-b778-5ff6bea5f7c5",
+                                "text": "Service",
+                                "type": "default",
+                                "links": [
+                                    "103b3dab-d302-4761-992e-592c2b3504f5"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "e6ae1825-b477-4b8b-b3d4-105ffa794543"
+                            },
+                            {
+                                "x": 214.04998779296875,
+                                "y": 514.7999877929688,
+                                "id": "91788d0e-87f4-45a0-9cc0-76f4f1bc7efc",
+                                "in": false,
+                                "name": "out-78bb0e8a-f382-4473-91a7-017d63eed120",
+                                "text": "Commercial",
+                                "type": "default",
+                                "links": [
+                                    "3f01a816-0204-4b9f-8cc5-7325eb311bf1"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "e6ae1825-b477-4b8b-b3d4-105ffa794543"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "e6ae1825-b477-4b8b-b3d4-105ffa794543",
+                            "to": "abc@bot.com",
+                            "from": "xyz@bot.com",
+                            "icon": "playlist_add_check",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-f4c0168e-6fc2-473a-8694-1bed522de17c",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-15841981-4c7a-4f65-8934-61ad568962b6",
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "text": "Book Test Drive",
+                                        "type": "Button"
+                                    }
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-658dd3ec-feaa-461d-b778-5ff6bea5f7c5",
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "text": "Service",
+                                        "type": "Button"
+                                    }
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-78bb0e8a-f382-4473-91a7-017d63eed120",
+                                    "linkType": "out",
+                                    "componentProps": {
+                                        "text": "Commercial",
+                                        "type": "Button"
+                                    }
+                                }
+                            ],
+                            "mailText": "Lorem Ipsum ...",
+                            "multiple": true,
+                            "nodeType": "MULTI_CHOICE",
+                            "selected": false,
+                            "variable": "@choice",
+                            "userInput": true,
+                            "dateFormat": "DD-MM-YYYY",
+                            "urlMessage": "",
+                            "primaryText": "Multiple Choice",
+                            "questionText": "What's your choice?",
+                            "secondaryText": "Make multiple choices"
+                        },
+                        "selected": false
+                    },
+                    "f1eb0759-c427-4aa2-8169-4e760cc6e038": {
+                        "x": 2,
+                        "y": 141,
+                        "id": "f1eb0759-c427-4aa2-8169-4e760cc6e038",
+                        "type": "js-custom-node",
+                        "ports": [
+                            {
+                                "x": 102.39999389648438,
+                                "y": 130,
+                                "id": "ad646bd6-58f9-47c1-bd21-9d229928a96c",
+                                "in": true,
+                                "name": "in-72ff04ef-4ade-49c3-8e4d-3d2db1fb240b",
+                                "type": "default",
+                                "links": [
+                                    "1c838b52-dfd5-459a-a916-9a0f77eec192"
+                                ],
+                                "alignment": "left",
+                                "parentNode": "f1eb0759-c427-4aa2-8169-4e760cc6e038"
+                            },
+                            {
+                                "x": 102.39999389648438,
+                                "y": 201,
+                                "id": "1176f5c4-e3e1-479d-a46d-9754c0a33b5f",
+                                "in": false,
+                                "name": "out-fd627864-a052-4c2b-88f2-d70dc53f4a92",
+                                "type": "default",
+                                "links": [
+                                    "40760b7b-1595-4f3f-a23c-6a9dd0ea0624"
+                                ],
+                                "alignment": "right",
+                                "parentNode": "f1eb0759-c427-4aa2-8169-4e760cc6e038"
+                            }
+                        ],
+                        "locked": false,
+                        "nodeData": {
+                            "id": "f1eb0759-c427-4aa2-8169-4e760cc6e038",
+                            "to": "abc@bot.com",
+                            "from": "xyz@bot.com",
+                            "icon": "person",
+                            "type": "js-custom-node",
+                            "locked": false,
+                            "portOpt": [
+                                {
+                                    "in": true,
+                                    "name": "in-72ff04ef-4ade-49c3-8e4d-3d2db1fb240b",
+                                    "linkType": "in"
+                                },
+                                {
+                                    "in": false,
+                                    "name": "out-fd627864-a052-4c2b-88f2-d70dc53f4a92",
+                                    "linkType": "out"
+                                }
+                            ],
+                            "mailText": "Lorem Ipsum ...",
+                            "nodeType": "USERNAME",
+                            "selected": false,
+                            "variable": "@name",
+                            "userInput": true,
+                            "dateFormat": "DD-MM-YYYY",
+                            "urlMessage": "",
+                            "primaryText": "Name",
+                            "questionText": "What's your Name?",
+                            "secondaryText": "Ask for Name"
+                        },
+                        "selected": false
+                    }
+                },
+                "transformed": true
+            }
+        ],
+        "offsetX": 14,
+        "offsetY": -2,
+        "gridSize": 0
+    }
+}
