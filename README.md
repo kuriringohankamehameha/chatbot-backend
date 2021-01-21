@@ -71,9 +71,4 @@ If the base application is working, you can spawn the celery server using:
 ```bash
 celery worker -A apps.chatbox.tasks --pool=eventlet --loglevel=info
 ```
-
-## Credits
-
-* Work was done by Vijay Krishna (me)
-
 ---------------------------------------------------------
